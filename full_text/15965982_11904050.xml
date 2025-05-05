@@ -1,0 +1,1228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="US11904050-20240220.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20240130" date-publ="20240220">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>11904050</doc-number>
+<kind>B1</kind>
+<date>20240220</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>15965982</doc-number>
+<date>20180430</date>
+</document-id>
+</application-reference>
+<us-application-series-code>15</us-application-series-code>
+<us-term-of-grant>
+<disclaimer>
+<text>This patent is subject to a terminal disclaimer.</text>
+</disclaimer>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>K</subclass>
+<main-group>9</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20240220</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>65</class>
+<subclass>D</subclass>
+<main-group>85</main-group>
+<subgroup>72</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20240220</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>65</class>
+<subclass>D</subclass>
+<main-group>81</main-group>
+<subgroup>20</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20240220</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>K</subclass>
+<main-group>31</main-group>
+<subgroup>352</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20240220</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>K</subclass>
+<main-group>31</main-group>
+<subgroup>192</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20240220</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>K</subclass>
+<main-group>36</main-group>
+<subgroup>185</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20240220</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>K</subclass>
+<main-group>9</main-group>
+<subgroup>0095</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20240220</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>K</subclass>
+<main-group>31</main-group>
+<subgroup>192</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20240220</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>K</subclass>
+<main-group>31</main-group>
+<subgroup>352</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20240220</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>K</subclass>
+<main-group>36</main-group>
+<subgroup>185</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20240220</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>65</class>
+<subclass>D</subclass>
+<main-group>81</main-group>
+<subgroup>2023</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20240220</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>65</class>
+<subclass>D</subclass>
+<main-group>85</main-group>
+<subgroup>72</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20240220</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>K</subclass>
+<main-group>2236</main-group>
+<subgroup>15</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20240220</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>K</subclass>
+<main-group>2236</main-group>
+<subgroup>31</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20240220</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e51">Method of making a packaged <i>Cannabis </i>juice pur&#xe9;e formed through high pressure processing</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>1933596</doc-number>
+<kind>A</kind>
+<name>Maclean</name>
+<date>19331100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+<classification-national><country>US</country><main-classification>206804</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2157476</doc-number>
+<kind>A</kind>
+<name>Brodesser</name>
+<date>19390500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+<classification-national><country>US</country><main-classification>206525</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2248963</doc-number>
+<kind>A</kind>
+<name>Copeman</name>
+<date>19410700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+<classification-national><country>US</country><main-classification>206457</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3417862</doc-number>
+<kind>A</kind>
+<name>Fong</name>
+<date>19681200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+<classification-national><country>US</country><main-classification>206517</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4452823</doc-number>
+<kind>A</kind>
+<name>Connolly et al.</name>
+<date>19840600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+<classification-national><country>US</country><main-classification>426115</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5232726</doc-number>
+<kind>A</kind>
+<name>Clark et al.</name>
+<date>19930800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+<classification-national><country>US</country><main-classification>426519</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>6231904</doc-number>
+<kind>B1</kind>
+<name>Mueller</name>
+<date>20010500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+<classification-national><country>US</country><main-classification>426112</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>7906160</doc-number>
+<kind>B2</kind>
+<name>Sherwood</name>
+<date>20110300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+<classification-national><country>US</country><main-classification>426 74</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>9044390</doc-number>
+<kind>B1</kind>
+<name>Speier</name>
+<date>20150600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>9050631</doc-number>
+<kind>B2</kind>
+<name>Raichart</name>
+<date>20150600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>9066910</doc-number>
+<kind>B2</kind>
+<name>Rosenblatt et al.</name>
+<date>20150600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>9078838</doc-number>
+<kind>B2</kind>
+<name>Andre et al.</name>
+<date>20150700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>9095544</doc-number>
+<kind>B2</kind>
+<name>Karle et al.</name>
+<date>20150800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>9095563</doc-number>
+<kind>B2</kind>
+<name>Sekura et al.</name>
+<date>20150800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>9149499</doc-number>
+<kind>B1</kind>
+<name>Robinson</name>
+<date>20151000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>9155767</doc-number>
+<kind>B2</kind>
+<name>Hospodor et al.</name>
+<date>20151000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>9186386</doc-number>
+<kind>B2</kind>
+<name>Speier</name>
+<date>20151100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>9205063</doc-number>
+<kind>B2</kind>
+<name>Guy et al.</name>
+<date>20151200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>9220294</doc-number>
+<kind>B2</kind>
+<name>McCullough</name>
+<date>20151200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>9277763</doc-number>
+<kind>B2</kind>
+<name>Beckman et al.</name>
+<date>20160300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>9955716</doc-number>
+<kind>B1</kind>
+<name>Nordahl</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61K 36/185</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>9956173</doc-number>
+<kind>B1</kind>
+<name>Nordahl</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61K 36/185</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>9956174</doc-number>
+<kind>B1</kind>
+<name>Nordahl</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61K 36/185</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>20070275131</doc-number>
+<kind>A1</kind>
+<name>Bertini et al.</name>
+<date>20071100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+<classification-national><country>US</country><main-classification>426115</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<nplcit num="00025">
+<othercit>Elamin et al., High Pressure Processing Technology and Equipment Evolution: A Review, Journal of Engineering Science and Technology Review 8 (5) (2015) 75-83.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00026">
+<othercit>D.G. Yordanov &#x26; G.V. Angelova (2010) High Pressure Processing for Foods Preserving, Biotechnology &#x26; Biotechnological Equipment, 24:3, 1940-1945.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00027">
+<othercit>Balasubramaniam et al., Principles and Application of High Pressure-Based Technologies in the Food Industry, Annu. Rev. Food Sci. Technol. 2015. 6:435-62.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00028">
+<othercit>&#x201c;Dr. Courtney's raw cannabis juice&#x201d;, located at: https://www.alchimiaweb.com/blogen/dr-courtneys-raw-cannabis-juice/, downloaded on Jul. 13, 2016 (15 pages).</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00029">
+<othercit>&#x201c;Ohana Farms CBD Cubes&#x201d;, located at: http://www.ohanaedu.org/index.php/products/cbd-cubes/, downloaded on Jul. 18, 2016 (1 page).</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00030">
+<othercit>&#x201c;Cannabis Juice: The Elixir of Health&#x201d;, located at: http://www.cannabis.info/gb/abc/10003309-cannabis-juice-the-elixir-of-health, downloaded on Oct. 26, 2016 (5 pages).</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00031">
+<othercit>&#x201c;Juicing Raw Cannabis&#x201d;, by Martin A. Lee, O'Shaughnessy's, Winter/Spring 2013 (1 page).</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00032">
+<othercit>&#x201c;Juicing Cannabis: The Potential Health Benefits of Treating Cannabis Like a Vegetable&#x201d;, by Zack Reichard, Jan. 19, 2013 (4 pages).</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00033">
+<othercit>&#x201c;Cannabis: Drink Your Medicine! A Poor Man's Guide to Juicing&#x201d;, by Sharon Letts, Apr. 19, 2013 (24 pages).</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00034">
+<othercit>&#x201c;Cannabinoid Blend Calculator&#x201d;, located at: https://lift.co/cannabinoid-calculator/, downloaded on Dec. 16, 2016 (1 page)</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00035">
+<othercit>&#x201c;Should You Be Adding Raw Cannabis to Your Smoothie? Some Medical Doctors Say, &#x2018;Yes&#x2019;&#x201d;, located at www.GarmaOnHealth.com, Jun. 14, 2014.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00036">
+<othercit>&#x201c;How Exactly Does Cannabis Juice Work?&#x201d;, Seshata, Oct. 2014.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>15</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>426 86</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>426106</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>426112</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>426115</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>426392</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>426618</main-classification>
+</classification-national>
+<classification-cpc-text>A61K 9/0095</classification-cpc-text>
+<classification-cpc-text>A61K 31/192</classification-cpc-text>
+<classification-cpc-text>A61K 31/352</classification-cpc-text>
+<classification-cpc-text>A61K 36/185</classification-cpc-text>
+<classification-cpc-text>A61K 2236/15</classification-cpc-text>
+<classification-cpc-text>A61K 2236/31</classification-cpc-text>
+<classification-cpc-text>B65D 81/2023</classification-cpc-text>
+<classification-cpc-text>B65D 85/72</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>52</number-of-drawing-sheets>
+<number-of-figures>75</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>15213334</doc-number>
+<date>20160718</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>9956173</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>15965982</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>62292732</doc-number>
+<date>20160208</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Nordahl</last-name>
+<first-name>Jeff</first-name>
+<address>
+<city>Soquel</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Nordahl</last-name>
+<first-name>Jeff</first-name>
+<address>
+<city>Soquel</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Adibi IP Group, PC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Adibi</last-name>
+<first-name>Amir V.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="03" rep-type="attorney">
+<addressbook>
+<last-name>Palmer</last-name>
+<first-name>Andrew C.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<examiners>
+<primary-examiner>
+<last-name>Wong</last-name>
+<first-name>Leslie A</first-name>
+<department>1793</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A <i>Cannabis </i>juice pur&#xe9;e is packaged using high pressure processing (HPP). First, a <i>Cannabis </i>juice pur&#xe9;e is formed by collecting raw <i>Cannabis </i>material and blending the raw <i>Cannabis </i>material together with a thickening agent and a sweetening agent. Next, the <i>Cannabis </i>juice pur&#xe9;e is deposited into a container and the container is processed using HPP. In HPP, the <i>Cannabis </i>juice pur&#xe9;e is loaded into a high-pressure chamber filled with pressure transmitting fluid, such as water. The pressure is applied to the <i>Cannabis </i>juice pur&#xe9;e. A lid is used to seal the opening of the container. HPP allows the mixture to be pasteurized without applying heat. HPP extends the shelf life of the <i>Cannabis </i>juice pur&#xe9;e to several weeks to months without applying heat that could undesirably decarboxylating the cannabinoids present in the <i>Cannabis </i>juice pur&#xe9;e. Shelf life is preserved while providing a liquid beverage form of <i>Cannabis </i>juice pur&#xe9;e.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="234.53mm" wi="145.12mm" file="US11904050-20240220-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="238.08mm" wi="172.04mm" file="US11904050-20240220-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="201.93mm" wi="171.87mm" file="US11904050-20240220-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="152.65mm" wi="172.55mm" file="US11904050-20240220-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="209.21mm" wi="172.55mm" file="US11904050-20240220-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="241.38mm" wi="171.87mm" file="US11904050-20240220-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="208.36mm" wi="134.87mm" file="US11904050-20240220-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="244.18mm" wi="175.77mm" file="US11904050-20240220-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="238.93mm" wi="176.53mm" file="US11904050-20240220-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="206.16mm" wi="175.18mm" file="US11904050-20240220-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="127.76mm" wi="178.39mm" file="US11904050-20240220-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="251.63mm" wi="156.38mm" file="US11904050-20240220-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="229.19mm" wi="175.94mm" file="US11904050-20240220-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="203.37mm" wi="168.74mm" file="US11904050-20240220-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="183.30mm" wi="179.24mm" file="US11904050-20240220-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="226.31mm" wi="177.46mm" file="US11904050-20240220-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="209.21mm" wi="172.89mm" file="US11904050-20240220-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="261.20mm" wi="187.79mm" file="US11904050-20240220-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="203.03mm" wi="169.08mm" file="US11904050-20240220-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00020" num="00020">
+<img id="EMI-D00020" he="170.77mm" wi="168.23mm" file="US11904050-20240220-D00020.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00021" num="00021">
+<img id="EMI-D00021" he="237.57mm" wi="175.18mm" file="US11904050-20240220-D00021.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00022" num="00022">
+<img id="EMI-D00022" he="140.72mm" wi="174.84mm" file="US11904050-20240220-D00022.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00023" num="00023">
+<img id="EMI-D00023" he="235.97mm" wi="175.18mm" file="US11904050-20240220-D00023.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00024" num="00024">
+<img id="EMI-D00024" he="217.85mm" wi="169.84mm" file="US11904050-20240220-D00024.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00025" num="00025">
+<img id="EMI-D00025" he="243.50mm" wi="152.06mm" file="US11904050-20240220-D00025.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00026" num="00026">
+<img id="EMI-D00026" he="242.15mm" wi="159.00mm" file="US11904050-20240220-D00026.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00027" num="00027">
+<img id="EMI-D00027" he="242.74mm" wi="168.15mm" file="US11904050-20240220-D00027.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00028" num="00028">
+<img id="EMI-D00028" he="241.22mm" wi="175.18mm" file="US11904050-20240220-D00028.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00029" num="00029">
+<img id="EMI-D00029" he="174.16mm" wi="149.10mm" file="US11904050-20240220-D00029.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00030" num="00030">
+<img id="EMI-D00030" he="223.35mm" wi="159.17mm" file="US11904050-20240220-D00030.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00031" num="00031">
+<img id="EMI-D00031" he="235.54mm" wi="162.39mm" file="US11904050-20240220-D00031.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00032" num="00032">
+<img id="EMI-D00032" he="150.71mm" wi="162.05mm" file="US11904050-20240220-D00032.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00033" num="00033">
+<img id="EMI-D00033" he="172.89mm" wi="162.31mm" file="US11904050-20240220-D00033.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00034" num="00034">
+<img id="EMI-D00034" he="164.85mm" wi="169.16mm" file="US11904050-20240220-D00034.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00035" num="00035">
+<img id="EMI-D00035" he="230.04mm" wi="175.18mm" file="US11904050-20240220-D00035.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00036" num="00036">
+<img id="EMI-D00036" he="172.89mm" wi="158.16mm" file="US11904050-20240220-D00036.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00037" num="00037">
+<img id="EMI-D00037" he="235.97mm" wi="175.18mm" file="US11904050-20240220-D00037.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00038" num="00038">
+<img id="EMI-D00038" he="242.65mm" wi="174.84mm" file="US11904050-20240220-D00038.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00039" num="00039">
+<img id="EMI-D00039" he="234.78mm" wi="174.33mm" file="US11904050-20240220-D00039.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00040" num="00040">
+<img id="EMI-D00040" he="242.74mm" wi="160.70mm" file="US11904050-20240220-D00040.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00041" num="00041">
+<img id="EMI-D00041" he="241.30mm" wi="148.93mm" file="US11904050-20240220-D00041.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00042" num="00042">
+<img id="EMI-D00042" he="176.87mm" wi="131.06mm" file="US11904050-20240220-D00042.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00043" num="00043">
+<img id="EMI-D00043" he="215.22mm" wi="151.38mm" file="US11904050-20240220-D00043.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00044" num="00044">
+<img id="EMI-D00044" he="125.65mm" wi="145.12mm" file="US11904050-20240220-D00044.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00045" num="00045">
+<img id="EMI-D00045" he="163.32mm" wi="148.59mm" file="US11904050-20240220-D00045.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00046" num="00046">
+<img id="EMI-D00046" he="133.27mm" wi="169.50mm" file="US11904050-20240220-D00046.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00047" num="00047">
+<img id="EMI-D00047" he="157.06mm" wi="166.37mm" file="US11904050-20240220-D00047.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00048" num="00048">
+<img id="EMI-D00048" he="223.69mm" wi="175.18mm" file="US11904050-20240220-D00048.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00049" num="00049">
+<img id="EMI-D00049" he="130.05mm" wi="155.96mm" file="US11904050-20240220-D00049.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00050" num="00050">
+<img id="EMI-D00050" he="216.92mm" wi="175.18mm" file="US11904050-20240220-D00050.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00051" num="00051">
+<img id="EMI-D00051" he="237.24mm" wi="160.10mm" file="US11904050-20240220-D00051.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00052" num="00052">
+<img id="EMI-D00052" he="234.95mm" wi="158.16mm" file="US11904050-20240220-D00052.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a continuation of, and claims the benefit under 35 U.S.C. &#xa7; 120 from, nonprovisional U.S. patent application Ser. No. 15/213,334, entitled &#x201c;Packaged Frozen Cubes Of <i>Cannabis </i>Juice Pur&#xe9;e That Are Non-Psychoactive,&#x201d; filed on Jul. 18, 2016, now U.S. Pat. No. 9,956,173. U.S. patent application Ser. No. 15/213,334 claims the benefit under 35 U.S.C. &#xa7; 119 of U.S. provisional patent application Ser. No. 62/292,732, entitled &#x201c;Dietary Supplement and Method of Production,&#x201d; filed on Feb. 8, 2016. The subject matter of each of the foregoing documents is expressly incorporated herein by reference.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">TECHNICAL FIELD</heading>
+<p id="p-0003" num="0002">The present disclosure relates generally to methods for manufacturing and packaging dietary supplements, and more particularly to manufacturing and packaging cannabinoid products.</p>
+<heading id="h-0003" level="1">BACKGROUND INFORMATION</heading>
+<p id="p-0004" num="0003">The <i>Cannabis </i>plant genus is known to produce over four hundred and eighty different chemical substances, and at least eighty of these chemical substances are classified as cannabinoids. Many cannabinoids have been found to have diverse medicinal uses which include analgesic, anti-inflammatory, anticancer, antibiotic, anti-anxiety, and anti-oxidant properties. There are now thousands of strains of the <i>Cannabis </i>plant that have evolved naturally or have been developed through hybridization. The different strains of <i>Cannabis </i>tend to contain different combinations of these cannabinoids in varying amounts.</p>
+<p id="p-0005" num="0004">Cannabinoids found in their natural state typically are in a non-decarboxylated form. Cannabinoids can be converted into a decarboxylated form by a process referred to as decarboxylation. Decarboxylation is a chemical reaction that removes the carboxyl group from a compound. In the case of cannabinoids, decarboxylation involves removing the carboxyl group from the cannabinoid compounds. One common technique for performing decarboxylation is by heating <i>Cannabis </i>material to 240&#xb0; F. or higher for ten minutes to a few hours. Decarboxylation also occurs in <i>Cannabis </i>material if the material is allowed to be dry cured. These cannabinoids provide different medicinal benefits when they are in their &#x2018;raw&#x2019; or non-decarboxylated form, compared to their properties after they are decarboxylated.</p>
+<p id="p-0006" num="0005">Two cannabinoids that show tremendous medicinal potential are tetrahydrocannabinol (THC) and cannabidiol (CBD). THC is the decarboxylated cannabinoid that is considered to be psychoactive. However, if the <i>Cannabis </i>material is never heated, &#x2018;decarboxylated&#x2019;, the cannabinoid will remain in its acid form, tetrahydrocannabinolic acid (THCa). THCa is not considered to be psychoactive. THCa also provides many medicinal benefits without causing psychoactive effects for the user. Most notably, THCa has many anti-inflammatory and cancer cell fighting properties while not being psychoactive. The cannabinoid CBD also is present in the acid form, cannabidiolic acid (CBDa), if the raw <i>Cannabis </i>material is not decarboxylated. But when decarboxylated, the CBDa is converted to CBD. Both CBDa and CBD have a different set of medicinal properties.</p>
+<p id="p-0007" num="0006">Because decarboxylation occurs when the <i>Cannabis </i>material is dried or heated, it is challenging to find methods for consumers to have access to the &#x2018;raw&#x2019; non-decarboxylated <i>Cannabis </i>material. Raw <i>Cannabis </i>leaves and flowers will begin to spoil or decarboxylate after a few days of being removed from the living plant. As a result, commercial distribution of raw non-decarboxylated <i>Cannabis </i>material has been commercially unfeasible. A solution that overcomes these challenges is desired.</p>
+<heading id="h-0004" level="1">SUMMARY</heading>
+<p id="p-0008" num="0007">Methods of manufacturing, packaging, and storing <i>Cannabis </i>products are provided. In one embodiment, a plurality of frozen structures of <i>Cannabis </i>juice pur&#xe9;e that comprises a pre-determined amount of non-decarboxylated cannabinoids is packaged and stored. In one example, the frozen structures of <i>Cannabis </i>juice pur&#xe9;e are frozen cubes of <i>Cannabis </i>juice pur&#xe9;e. The frozen cubes are also referred to as &#x201c;frozen <i>Cannabis </i>juice pur&#xe9;e cubes&#x201d; or &#x201c;cubes&#x201d; due to their cubic shape. The frozen structures of <i>Cannabis </i>juice pur&#xe9;e can be made to form shapes other than cubic shaped structures. The frozen <i>Cannabis </i>juice pur&#xe9;e cubes are administered to individuals desiring the pre-determined amount of non-decarboxylated cannabinoids. A user can combine the frozen <i>Cannabis </i>juice pur&#xe9;e cubes with other juices, fruits, vegetables, or supplements for consumption, for example, by adding a desired number of the cubes to a &#x201c;smoothie&#x201d; blend. The frozen <i>Cannabis </i>juice pur&#xe9;e cubes do not include any decarboxylated cannabinoids. Decarboxylated cannabinoids are formed by heating raw <i>Cannabis </i>material thereby converting THCa to THC. THC may have psychoactive properties. Because the non-decarboxylated frozen <i>Cannabis </i>juice pur&#xe9;e cubes do not include such decarboxylated cannabinoids, the frozen <i>Cannabis </i>juice pur&#xe9;e cubes are generally non-psychoactive. Thus, a person can consume the frozen <i>Cannabis </i>juice pur&#xe9;e cubes and obtain therapeutic benefits while still retaining his/her faculties to perform his/her ordinary daily routine.</p>
+<p id="p-0009" num="0008">The non-decarboxylated cannabinoid frozen <i>Cannabis </i>juice pur&#xe9;e cubes are frozen thereby extending the shelf life of the cannabinoids within the cubes to at least six months. In conventional techniques used to collect and store non-decarboxylated cannabinoid material, the non-decarboxylated cannabinoid material lasts only between two and three days before spoiling. Due to the known shelf life limitations, packaging and distributing the non-decarboxylated cannabinoid material is not practical or commercially feasible. Unfortunately, individuals who require the non-decarboxylated cannabinoids for treating illnesses or health conditions do not have ready access to a consistent supply of non-decarboxylated cannabinoids, especially <i>Cannabis </i>material which contains the optimal levels and ratios of cannabinoids. The novel packaged frozen <i>Cannabis </i>juice pur&#xe9;e cubes overcome this shortcoming by extending shelf life resulting in consistent and reliable access to cannabinoids in specific dosage amounts for individuals who require the cannabinoids to treat various medical conditions and to live more comfortably than they would be able to otherwise.</p>
+<p id="p-0010" num="0009">In a first step, raw <i>Cannabis </i>material is collected by trimming leaves or flowers of a <i>Cannabis </i>plant. The raw <i>Cannabis </i>material includes leaves, flowers, stems, trichomes, and other plant material from the <i>Cannabis </i>plant. The trimmed <i>Cannabis </i>material has a particular cannabinoid profile that has desired therapeutic qualities. The cannabinoid profile indicates types and proportions of cannabinoids present in the <i>Cannabis </i>material. Different types of <i>Cannabis </i>plants exhibit different cannabinoid profiles that are beneficial for certain types of medical conditions. The cannabinoid profile for a specific plant can be determined by a laboratory capable of performing a full spectrum cannabinoid profiling and analysis. Such laboratories often employ High Performance Liquid Chromatography (HPLC/UV) to conduct the analysis.</p>
+<p id="p-0011" num="0010">In one example, the <i>Cannabis </i>plant is selected such that the cannabinoid profile has tetrahydrocannabinolic acid (THCa) and cannabidiolic acid (CBDa) such that the THCa to CBDa ratio is 3 CBDa to 2 THCa. This means that for every 3.0 milligrams of CBDa in a unit of <i>Cannabis </i>material, there is approximately 2.0 milligrams of THCa. In another example, the <i>Cannabis </i>profile is taken from the group consisting of: 2 CBDa to 1 THCa, 1 CBDa to 1 THCa, 1 CBDa to 2 THCa, 1 CBDa to 3 THCa, 3 CBDa to 1 THCa, 0 CBDa to 1 THCa (no CBDa, only THCa), and 1 CBDa to 0 THCa (no THCa, only CBDa).</p>
+<p id="p-0012" num="0011">In a second step, a <i>Cannabis </i>juice pur&#xe9;e is formed from the collected raw <i>Cannabis </i>material by blending the collected raw <i>Cannabis </i>material along with water and a thickening agent. The resulting <i>Cannabis </i>juice pur&#xe9;e has a liquid composition and is also referred to as &#x201c;a uniform pur&#xe9;e&#x201d; or &#x201c;a liquefied <i>Cannabis </i>juice pur&#xe9;e&#x201d;. The water is filtered water, unfiltered water, ice formed from filtered water, or ice formed from unfiltered water. Alternatively, fruit juice or vegetable juice can be used in addition to or instead of water. The thickening agent aids in suspending the <i>Cannabis </i>material thereby aiding in a uniform distribution of cannabinoids throughout the <i>Cannabis </i>juice pur&#xe9;e. A uniform distribution of cannabinoids throughout the <i>Cannabis </i>juice pur&#xe9;e is desired to ensure that each cube has a consistent dose of cannabinoids. In one example, the variation in amount of cannabinoids in each cube is 10%. Without the thickening agent, the resulting mixture would have an upper layer with the water and a bottom layer with the <i>Cannabis </i>material rather than a uniform mixture. The thickening agent may be banana, avocado, psyllium husk, tapioca, or any food-grade thickening agent.</p>
+<p id="p-0013" num="0012">In accordance with one novel aspect, the <i>Cannabis </i>juice pur&#xe9;e is formed without a juicing process. In a juicing process, a portion of the <i>Cannabis </i>plant material is separated from the juice of the <i>Cannabis </i>plant. At least part of the separated <i>Cannabis </i>plant material is treated as waste and is disposed. To form the <i>Cannabis </i>juice pur&#xe9;e, however, all of the <i>Cannabis </i>plant material is converted into the <i>Cannabis </i>juice pur&#xe9;e. The resulting <i>Cannabis </i>juice pur&#xe9;e includes all of the <i>Cannabis </i>plant material placed in the blender and all of the extracted <i>Cannabis </i>juice that is extracted in the blending process. No waste product is generated in forming the <i>Cannabis </i>juice pur&#xe9;e. Accordingly, the <i>Cannabis </i>juice pur&#xe9;e has all of the <i>Cannabis </i>plant material and is rich in dietary fibers and non-cannabinoid components that include terpenes, fatty acids, aminoacids, enzymes, vitamins, minerals, carotenoids, chlorophyll, and flavonoids.</p>
+<p id="p-0014" num="0013">In a third step, the <i>Cannabis </i>juice pur&#xe9;e is deposited into molds of a tray. The tray has a plurality of molds each having a substantially identical size, shape, and volume. Depositing the <i>Cannabis </i>juice pur&#xe9;e into similar molds results in each cube having a substantially similar amount of cannabinoids. An individual tends to prefer reliable and consistent doses, thus similarly sized cubes with substantially the same cannabinoid profiles are desired. In addition, by using a tray with the same size of molds, the cubes can be effectively mass produced thereby reducing the overall cost of cubes to the consumer.</p>
+<p id="p-0015" num="0014">In a fourth step, the tray of molds having the <i>Cannabis </i>juice pur&#xe9;e is frozen to form the frozen <i>Cannabis </i>juice pur&#xe9;e cubes. In one example, the tray having the <i>Cannabis </i>juice pur&#xe9;e is placed in a freezer having a temperature less than 5.0&#xb0; F., or alternatively less than 0.0&#xb0; F. Freezing the <i>Cannabis </i>juice pur&#xe9;e results in a shelf-life of more than six months if the cubes are properly stored in a freezer. The <i>Cannabis </i>juice pur&#xe9;e used to form the cubes does not contain any dairy product, milk-based product, or cream type of product, such as coconut milk. The frozen <i>Cannabis </i>juice pur&#xe9;e cubes are in a solid state and are frozen, solid structures that maintain their structure when placed next to each other. The frozen <i>Cannabis </i>juice pur&#xe9;e cubes do not have a soft, malleable consistency such as a sorbet-type consistency or ice cream-type consistency.</p>
+<p id="p-0016" num="0015">In a fifth step, the frozen <i>Cannabis </i>juice pur&#xe9;e cubes having the non-decarboxylated cannabinoids are packaged into a package. The frozen <i>Cannabis </i>juice pur&#xe9;e cubes are packaged in a vacuum sealed package, a bag, or a container having a detachable lid. A label identifying the contents can be placed onto the outside of the package. No additional packaging material is placed inside the package. The cubes are loosely packed so that they do not touch, or are tightly packed so that each cube contacts at least one other cube. Because the frozen <i>Cannabis </i>juice pur&#xe9;e cubes are frozen prior to packaging and the pur&#xe9;e recipe freezes to a hardness similar to ice (not a soft malleable texture like ice cream or sorbet), the frozen <i>Cannabis </i>juice pur&#xe9;e cubes can contact each other inside the package without damaging their integrity or dosage amount per cube. Each cube has at least one surface that directly contacts a surface of the package. Each cube is adjacent to at least two other cubes. The cubes within the package consume over 95% of the total volume of package. In addition, the package of cubes has at least two flat surfaces thereby providing optimal storing and transporting characteristics. In another example, the cubes are stacked so that not all of the cubes contact the package.</p>
+<p id="p-0017" num="0016">In accordance with another novel aspect, a plurality of packages having frozen <i>Cannabis </i>juice pur&#xe9;e cubes with only non-decarboxylated cannabinoids is stored. The packages are stored in a freezer by stacking each package above another package. Each package has at least two flat surfaces due to the uniform size and shape of each cube. Accordingly, the packages stack compactly in the freezer. In one example, a manufacturing entity manufactures and provides the packaged frozen <i>Cannabis </i>juice pur&#xe9;e cubes with only non-decarboxylated cannabinoids to a dispensary entity. The dispensary entity handles storing the packaged cubes until the packaged cubes are provided to end consumers.</p>
+<p id="p-0018" num="0017">In a second embodiment, the packaged frozen <i>Cannabis </i>juice pur&#xe9;e cubes comprise non-decarboxylated cannabinoids and decarboxylated cannabinoids. The amount of decarboxylated cannabinoids in each frozen structure is at least 5 mg. A structure with less than 5 mg is not considered to be a therapeutic dose of decarboxylated cannabinoids because consuming less than 5 mg decarboxylated cannabinoids has negligible, if any, effects on the user. The amount of decarboxylated cannabinoids may include one type of decarboxylated cannabinoid (such as CBD) or more than one type of decarboxylated cannabinoid (such as CBD and THC).</p>
+<p id="p-0019" num="0018">The packaged frozen <i>Cannabis </i>juice pur&#xe9;e cubes with both non-decarboxylated cannabinoids and decarboxylated cannabinoids provides consumers with a full spectrum of THCa, THC, CBDa, CBD, and all of the other <i>Cannabis </i>compounds in both the non-decarboxylated and decarboxylated forms, in one easy-to-consume frozen pur&#xe9;e cube. The frozen <i>Cannabis </i>juice pur&#xe9;e cubes include at least one cannabinoid taken from the group consisting of: cannabigerolic acid (CBGa), cannabigerovarin acid (CBGVA), tetrahydrocannabinolic acid (THCA), tetrahydrocannabivarin carboxylic acid (THCVA), cannadidiolic acid (CBDA), cannabidivarin acid (CBDVA), cannabichrome carboxylic acid (CBCA), cannabichrome varinic acid (CBCVA), tetrahydrocannabinol (THC), tetrahydrocannabidivarin (THCV), tetrahydrocannabivarin acid (THVA), cannabidiol (CBD), cannabidivarin (CBDV), cannabichromene (CBC), cannabichromevarin (CBCV), cannabigerol (CBG), cannabigerovarin (CBGV), cannabinerolic acid (CBNA), cannabigerovarinic acid (CBNVA), cannabinol (CBN), cannabicyclol (CBL), and cannabicyclol acid (CBLA).</p>
+<p id="p-0020" num="0019">In a first step, two separate portions of raw <i>Cannabis </i>material are collected. The first portion of raw <i>Cannabis </i>material may come from a strain of <i>Cannabis </i>with a unique cannabinoid ratio (for example, 3 CBDa to 2 THCa). This first portion will remain in its non-decarboxylated state. Other cannabinoid ratios in the first portion include: 2 CBDa to 1 THCa, 1 CBDa to 1 THCa, 1 CBDa to 2 THCa, 1 CBDa to 3 THCa, 3 CBDa to 1 THCa, 0 CBDa to 1 THCa (no CBDa, only THCa), and 1 CBDa to 0 THCa (no THCa, only CBDa). The second portion of <i>Cannabis </i>is collected from a different strain of <i>Cannabis </i>plant with a different unique cannabinoid profile (for example, 30 CBDa to 1 THCa). This second portion will later be decarboxylated. When this second portion is decarboxylated, the ratio of the decarboxylated cannabinoids becomes 30 CBD to 1 THC. Other cannabinoid ratios in the decarboxylated second portion include: 20 CBD to 1 THC, 10 CBD to 1 THC, or 5 CBD to 1 THC.</p>
+<p id="p-0021" num="0020">In an alternative step, the first portion (non-decarboxylated portion) of raw <i>Cannabis </i>material and the second portion (to be decarboxylated) of raw <i>Cannabis </i>material are collected from the same strain of <i>Cannabis </i>plant with the exact same cannabinoid profile. In one example, the first portion Is 3 CBDa to 2 THCa, and the second portion is also 3 CBDa to 2 THCa. Once decarboxylated, the second portion will convert to a ratio of 3 CBD to 2 THC. Other combinations of cannabinoid materials having different cannabinoid profiles can be selected depending upon the desired therapeutic effects or medical conditions being targeted. An artisan of ordinary skill would appreciate the vast number of combinations of types and amounts of cannabinoids that can be used to create the cubes.</p>
+<p id="p-0022" num="0021">In a second step, a non-decarboxylated <i>Cannabis </i>juice pur&#xe9;e is formed from the first portion of raw <i>Cannabis </i>material and a decarboxylated <i>Cannabis </i>infusion is formed from the second portion of raw <i>Cannabis </i>material. The non-decarboxylated <i>Cannabis </i>juice pur&#xe9;e is formed by blending the first portion of collected raw <i>Cannabis </i>material along with water and a thickening agent. The decarboxylated <i>Cannabis </i>infusion is formed by heating the second portion of collected raw <i>Cannabis </i>material. Decarboxylating <i>Cannabis </i>material can be achieved through heating the <i>Cannabis </i>material at a temperature of 240&#xb0; F. for 30 minutes or longer in a mixture of fatty oil. Decarboxylating <i>Cannabis </i>material can also be achieved through heating the <i>Cannabis </i>material in an oven without any oil or substance.</p>
+<p id="p-0023" num="0022">In a third step, the non-decarboxylated <i>Cannabis </i>juice pur&#xe9;e and the decarboxylated <i>Cannabis </i>infusion are deposited into molds of a tray such that each mold has non-decarboxylated and decarboxylated cannabinoids. The non-decarboxylated <i>Cannabis </i>juice pur&#xe9;e is deposited into each mold to fill approximately half of the mold. Next, the decarboxylated <i>Cannabis </i>infusion is deposited at a center location on the top surface of the half-filled mold. Next, the non-decarboxylated <i>Cannabis </i>juice pur&#xe9;e is deposited above the decarboxylated <i>Cannabis </i>infusion to fill the rest of each mold.</p>
+<p id="p-0024" num="0023">Alternatively, the decarboxylated <i>Cannabis </i>infusion is deposited into the non-decarboxylated <i>Cannabis </i>juice pur&#xe9;e during the blending process. By adding the decarboxylated <i>Cannabis </i>infusion during the blending process, the decarboxylated cannabinoids are uniformly distributed throughout the <i>Cannabis </i>juice pur&#xe9;e resulting in a uniform distribution of cannabinoids in each cube after the freezing process.</p>
+<p id="p-0025" num="0024">In a fourth step, the tray of molds having the <i>Cannabis </i>juice pur&#xe9;e is frozen to form the frozen <i>Cannabis </i>juice pur&#xe9;e cubes having non-decarboxylated and decarboxylated cannabinoids. The <i>Cannabis </i>juice pur&#xe9;e used to form the cubes does not contain any dairy product, milk-based product, or cream type of product, such as coconut milk. The tray of molds having the <i>Cannabis </i>juice pur&#xe9;e is placed in a freezer having a temperature less than 5.0&#xb0; F., or alternatively less than 0.0&#xb0; F. Freezing the <i>Cannabis </i>juice pur&#xe9;e results in an extended shelf-life of at least six months if the frozen <i>Cannabis </i>juice pur&#xe9;e cubes are properly stored in a freezer. The frozen <i>Cannabis </i>juice pur&#xe9;e cubes are in a solid state and are frozen, solid structures that maintain their structure when placed next to each other. The frozen <i>Cannabis </i>juice pur&#xe9;e cubes do not have a soft, malleable consistency such as a sorbet-type consistency or ice cream-type consistency.</p>
+<p id="p-0026" num="0025">In a fifth step, the frozen <i>Cannabis </i>juice pur&#xe9;e cubes having the non-decarboxylated and decarboxylated cannabinoids are packaged into a package. The frozen <i>Cannabis </i>juice pur&#xe9;e cubes are packaged in a vacuum sealed package, a bag, or a container having a detachable lid. A label identifying the contents can be placed onto the outside of the package. No additional packaging material is placed inside the package. The cubes are loosely packed so that not all of the cubes contact each other, or are tightly packed so that each cube contacts at least one other cube. Because the frozen <i>Cannabis </i>juice pur&#xe9;e cubes are frozen prior to packaging and the pur&#xe9;e recipe freezes to a hardness similar to ice (not a soft malleable texture like ice cream or sorbet), the frozen <i>Cannabis </i>juice pur&#xe9;e cubes can contact each other inside the package without damaging their integrity or dosage amount per cube. Each cube has at least one surface that directly contacts a surface of the package. Each cube is adjacent to at least two other cubes. The cubes within the package consume over 95% of the total volume of package. In addition, the package of cubes has at least two flat surfaces thereby providing optimal storing and transporting characteristics. In another example, the cubes are stacked so that not all of the cubes contact the package.</p>
+<p id="p-0027" num="0026">In accordance with another novel aspect, a plurality of packages having frozen <i>Cannabis </i>juice pur&#xe9;e cubes is stored. The packages are stored in a freezer by stacking each package above another package. Each package has at least two flat surfaces due to the uniform size and shape of each cube. Accordingly, the packages stack compactly in the freezer. In one example, a manufacturing entity manufactures and provides the packaged frozen <i>Cannabis </i>juice pur&#xe9;e cubes to a dispensary entity. The dispensary entity handles storing the packaged cubes until the packaged cubes are provided to end consumers.</p>
+<p id="p-0028" num="0027">In a third embodiment, a method of manufacturing and packaging frozen ice pops of <i>Cannabis </i>juice pur&#xe9;e is provided. The resulting packaged frozen ice pops of <i>Cannabis </i>juice pur&#xe9;e are also referred to as a &#x201c;frozen <i>Cannabis </i>to go pack&#x201d;, &#x201c;frozen <i>Cannabis </i>on the go pop&#x201d;, &#x201c;frozen <i>Cannabis </i>icicle&#x201d;, or &#x201c;frozen <i>Cannabis </i>popsicle&#x201d;. In one specific embodiment, the packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e has an amount of non-decarboxylated cannabinoids and is non-psychoactive. In another specific embodiment, the packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e has an amount of non-decarboxylated cannabinoids and an amount of decarboxylated cannabinoids.</p>
+<p id="p-0029" num="0028">In a first step, a <i>Cannabis </i>juice pur&#xe9;e is formed. To form a packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e that is non-psychoactive, raw <i>Cannabis </i>material having an amount of non-decarboxylated cannabinoids is collected but never heated. The amount of non-decarboxylated cannabinoids is blended together with a thickening agent and a sweetening agent such as honey, <i>stevia</i>, fruit juice, sugar, or corn syrup. The sweetening agent is optional and is not included in some embodiments. Flavoring agents are included in other embodiments, such as fruit flavor or spice (apple, cherry, mint, tart, etc.). Fruit juice, fruit, or vegetable material may also be added, such as blueberries, blueberry juice, carrots, or carrot juice. Non-decarboxylated high concentrate <i>Cannabis </i>extract may also be added to the <i>Cannabis </i>juice pur&#xe9;e prior to freezing to increase the amount of non-decarboxylated cannabinoids in each ice pop.</p>
+<p id="p-0030" num="0029">To form a packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e that has decarboxylated cannabinoids, a portion of the collected raw <i>Cannabis </i>material is heated to obtain an amount of decarboxylated cannabinoids. The amount of decarboxylated cannabinoids are added to the <i>Cannabis </i>juice pur&#xe9;e prior to freezing. Non-decarboxylated high concentrate <i>Cannabis </i>extract, decarboxylated high concentrate <i>Cannabis </i>extract, decarboxylated <i>Cannabis </i>infusion, or heated <i>Cannabis </i>material may also be added to the <i>Cannabis </i>juice pur&#xe9;e prior to freezing to increase the amount of non-decarboxylated and decarboxylated cannabinoids in each ice pop.</p>
+<p id="p-0031" num="0030">In a second step, the <i>Cannabis </i>juice pur&#xe9;e is deposited into a container. In one example, the container is a tube shaped container made of a flexible material. The container is a tube shaped container formed from a thermoplastic polymer such as polypropylene plastic resin. In one example, the tube shaped container has a resealable end. In another example, the tube shaped container is not resealable and a user must permanently tear a portion of the container to access the frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e.</p>
+<p id="p-0032" num="0031">In a third step, the container having the <i>Cannabis </i>juice pur&#xe9;e is frozen to form a packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e. The container having the <i>Cannabis </i>juice pur&#xe9;e is placed in a freezer so that the <i>Cannabis </i>juice pur&#xe9;e in the container (along with any added <i>Cannabis </i>infusion or high concentrate <i>Cannabis </i>extract) can freeze. The temperature within the freezer is typically between 0.0&#xb0; F. and 5.0&#xb0; F., but may be less than 0.0&#xb0; F. The resulting frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e assumes the shape of the container. In one example, packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e is a cylindrical tube shaped structure.</p>
+<p id="p-0033" num="0032">In a fourth embodiment, a method of manufacturing and packaging a <i>Cannabis </i>juice pur&#xe9;e is provided. In one specific embodiment, the packaged <i>Cannabis </i>juice pur&#xe9;e has an amount of non-decarboxylated cannabinoids and is non-psychoactive. In another specific embodiment, the packaged <i>Cannabis </i>juice pur&#xe9;e has an amount of non-decarboxylated cannabinoids and an amount of decarboxylated cannabinoids.</p>
+<p id="p-0034" num="0033">In a first step, a <i>Cannabis </i>juice pur&#xe9;e is formed. To form a packaged <i>Cannabis </i>juice pur&#xe9;e that is non-psychoactive, raw <i>Cannabis </i>material having an amount of non-decarboxylated cannabinoids is collected but never heated. The raw <i>Cannabis </i>material is blended together with a thickening agent and a sweetening agent such as honey, <i>stevia</i>, fruit juice, sugar, or corn syrup. Non-decarboxylated high concentrate <i>Cannabis </i>extract may also be added to the <i>Cannabis </i>juice pur&#xe9;e to increase the amount of non-decarboxylated cannabinoids in each container.</p>
+<p id="p-0035" num="0034">To form a packaged <i>Cannabis </i>juice pur&#xe9;e that comprises decarboxylated cannabinoids, a portion of the collected raw <i>Cannabis </i>material is heated to obtain an amount of decarboxylated cannabinoids. The amount of decarboxylated cannabinoids are added to the <i>Cannabis </i>juice pur&#xe9;e. Non-decarboxylated high concentrate <i>Cannabis </i>extract, decarboxylated high concentrate <i>Cannabis </i>extract, decarboxylated <i>Cannabis </i>infusion, or heated <i>Cannabis </i>material may also be added to the <i>Cannabis </i>juice pur&#xe9;e to increase the amount of non-decarboxylated and decarboxylated cannabinoids in each container.</p>
+<p id="p-0036" num="0035">In a second step, <i>Cannabis </i>juice pur&#xe9;e is deposited into a container. The container is a cylindrical shaped structure having a lid. The container is formed from a glass material, a plastic material, or a paper-based material. The <i>Cannabis </i>juice pur&#xe9;e is deposited into the container through an opening.</p>
+<p id="p-0037" num="0036">In a third step, the container having the <i>Cannabis </i>juice pur&#xe9;e is packaged. In one example, the <i>Cannabis </i>juice pur&#xe9;e is processed using high pressure processing (HPP). In HPP, the <i>Cannabis </i>juice pur&#xe9;e is loaded into a high pressure chamber filled with pressure transmitting fluid, such as water. The pressure is applied to the <i>Cannabis </i>juice pur&#xe9;e. A lid is used to seal the opening of the container.</p>
+<p id="p-0038" num="0037">HPP allows the mixture to be pasteurized without applying heat. HPP extends shelf life of the <i>Cannabis </i>juice pur&#xe9;e to several weeks to months without applying heat that could undesirably decarboxylate the cannabinoids present in the <i>Cannabis </i>juice pur&#xe9;e. Thus, shelf life is preserved while providing a liquid beverage form of <i>Cannabis </i>juice pur&#xe9;e.</p>
+<p id="p-0039" num="0038">Forming the <i>Cannabis </i>juice pur&#xe9;e and freezing <i>Cannabis </i>juice pur&#xe9;e into serving size cubes or ice pops is a significant improvement over the conventional art. Significant research and testing was involved to ascertain the optimal process and technique. For example, this development process involves selecting the most effective strains of <i>Cannabis </i>having optimal cannabinoid profiles, determining the effective proportions and amounts of materials to combine to ensure a consistent dosage amount of cannabinoids per serving, and selecting the optimal technique for creating the <i>Cannabis </i>juice pur&#xe9;e, selecting the size and shape of the cube, and determining the most efficient and convenient packaging for the end consumer.</p>
+<p id="p-0040" num="0039">In particular, the invention yields significant advantages over prior attempts of forming mixture via juicing machines or wheat grass juicers. For example, prior attempts using conventional juicing machines or wheat grass juicers resulted in very little juice and substantial leaf pulp. The conventional juicing machines or wheat grass juicers were not powerful enough to blend the raw <i>Cannabis </i>leaves into the smooth pur&#xe9;e consistency that is desired for the <i>Cannabis </i>juice pur&#xe9;e. Such conventional blenders generated leaf pulp that was too thick and abrasive for consumption. However, a high powered juice blender (such as a Vitamix blender) with water and banana achieved the most desirable <i>Cannabis </i>juice pur&#xe9;e having the proper texture and pur&#xe9;e composition. In addition, without the banana, the <i>Cannabis </i>juice pur&#xe9;e separated into raw <i>Cannabis </i>material on bottom and water on top.</p>
+<p id="p-0041" num="0040">In addition, conventional techniques did not have the proper size and shape to achieve a dosage of over 20 milligrams of cannabinoids per cube. The recipe, cube size, and technique for creating the cubes resulted from substantial laboratory testing to achieve the desired results. Consequently, one of ordinary skill will appreciate that the various novel embodiments allow the mass market to have reliable and cost effective access to non-decarboxylated <i>Cannabis </i>material which contains consistent levels of THCa, CBDa, and all of the other non-decarboxylated cannabinoids present in raw <i>Cannabis </i>material.</p>
+<p id="p-0042" num="0041">One technique for making &#x201c;marijuana juice&#x201d; ice cubes is known. To make &#x201c;marijuana juice&#x201d; ice cubes, a juice extractor is used to extract &#x201c;marijuana juice&#x201d; from leaves of <i>Cannabis </i>plants. The extracted &#x201c;marijuana juice&#x201d; is used to make ice cubes. Several shortcomings exist with this technique. First, using a juice extractor removes many non-cannabinoid components present in the <i>Cannabis </i>plant material (stems, leaves, flowers, etc.) that offer significant nutritional value. Second, juice extractors tend to emit heat during use, especially extended use, and this emitted heat may undesirably decarboxylate the cannabinoids present in the leaves. Such overheating also renders juice extractors inefficient for commercial production. Third, the &#x201c;marijuana juice&#x201d; ice cubes do not have consistent doses of cannabinoids in each ice cube. One ice cube may have more cannabinoids than another ice cube. Consistent dosage is essential for patients who require specific amounts of cannabinoids to treat illness and who also require consistent doses to monitor progress and adjust cannabinoid intake as needed. Additionally, many patients require specific ratios of one cannabinoid to another cannabinoid for achieving desired medical benefits. The &#x201c;marijuana juice&#x201d; ice cubes do not yield consistent doses of cannabinoids or specific ratios of cannabinoids. Fourth, the &#x201c;marijuana juice&#x201d; ice cubes are not packaged and are meant to be removed from an ice cube tray to be consumed by the user. Typical patients require consistent access to cannabinoids. Packaging the &#x201c;marijuana juice&#x201d; ice cubes is difficult because the ice cubes can meld together causing additional inconsistencies in dosage amounts. No effective way to package, store, and commercially distribute the &#x201c;marijuana juice&#x201d; ice cubes is known. Consequently, the &#x201c;marijuana juice&#x201d; ice cubes are not a commercially viable technique for administering cannabinoids along with <i>Cannabis </i>plant material rich in nutrients that are stored and packaged for mass distribution. Lastly, no technique is known for adding high concentrate <i>Cannabis </i>extract or <i>Cannabis </i>infusion to the &#x201c;marijuana juice&#x201d; ice cubes. Many patients require high amounts of specific non-decarboxylated or decarboxylated cannabinoids which is not feasible to achieve by consuming the &#x201c;marijuana juice&#x201d; ice cubes. The novel packaged frozen <i>Cannabis </i>juice pur&#xe9;e cubes solve all of these shortcomings.</p>
+<p id="p-0043" num="0042">The foregoing is a summary and thus contains, by necessity, simplifications, generalizations and omissions of detail; consequently it is appreciated that the summary is illustrative only. Still other methods, and structures and details are set forth in the detailed description below. This summary does not purport to define the invention. The invention is defined by the claims.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0044" num="0043">The accompanying drawings, where like numerals indicate like components, illustrate embodiments of the invention.</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a flowchart of a method <b>100</b> in accordance with one embodiment.</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a perspective diagram showing how raw <i>Cannabis </i>material <b>112</b> is collected by trimming leaves <b>113</b> from the <i>Cannabis </i>plant <b>111</b>.</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a perspective diagram showing how the <i>Cannabis </i>juice pur&#xe9;e is formed.</p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a perspective diagram showing how the <i>Cannabis </i>juice pur&#xe9;e <b>131</b> is deposited into molds <b>132</b>.</p>
+<p id="p-0049" num="0048"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a perspective diagram showing how the tray <b>133</b> is placed in a freezer <b>141</b>.</p>
+<p id="p-0050" num="0049"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a perspective diagram showing how the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>151</b> are removed from tray <b>133</b> and placed on vacuum sealed bag <b>152</b>.</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a perspective diagram of a package <b>154</b> with the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>151</b>.</p>
+<p id="p-0052" num="0051"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a side view of the package <b>154</b> with the cubes <b>151</b>.</p>
+<p id="p-0053" num="0052"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is top view of the package <b>154</b> with the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>151</b>.</p>
+<p id="p-0054" num="0053"><figref idref="DRAWINGS">FIG. <b>10</b>A</figref> is a perspective diagram of frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>151</b> having an amount of non-decarboxylated cannabinoids.</p>
+<p id="p-0055" num="0054"><figref idref="DRAWINGS">FIG. <b>10</b>B</figref> is a perspective diagram of another embodiment of the frozen structures where an amount of non-decarboxylated high concentrate <i>Cannabis </i>extract has been added to the <i>Cannabis </i>juice pur&#xe9;e prior to freezing.</p>
+<p id="p-0056" num="0055"><figref idref="DRAWINGS">FIG. <b>10</b>C</figref> is a diagram of a female <i>Cannabis </i>plant with flowers <b>165</b> having trichomes <b>164</b>.</p>
+<p id="p-0057" num="0056"><figref idref="DRAWINGS">FIG. <b>10</b>D</figref> is a table <b>170</b> showing various non-cannabinoid components and cannabinoid components that are obtainable from <i>Cannabis </i>plant material.</p>
+<p id="p-0058" num="0057"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a table <b>163</b> showing two general types of non-decarboxylated cannabinoids.</p>
+<p id="p-0059" num="0058"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a flowchart of a method <b>200</b> in accordance with a second embodiment.</p>
+<p id="p-0060" num="0059"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a perspective diagram showing how raw <i>Cannabis </i>material <b>211</b> is collected from a first <i>Cannabis </i>plant <b>212</b> and a second <i>Cannabis </i>plant <b>213</b>.</p>
+<p id="p-0061" num="0060"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is a perspective diagram showing how the non-decarboxylated <i>Cannabis </i>juice pur&#xe9;e is formed.</p>
+<p id="p-0062" num="0061"><figref idref="DRAWINGS">FIG. <b>15</b></figref> is a perspective diagram showing how to make a decarboxylated <i>Cannabis </i>infusion.</p>
+<p id="p-0063" num="0062"><figref idref="DRAWINGS">FIG. <b>16</b></figref> is a perspective diagram showing how the non-decarboxylated <i>Cannabis </i>juice pur&#xe9;e <b>231</b> and the decarboxylated <i>Cannabis </i>infusion <b>234</b> are deposited into molds <b>232</b>.</p>
+<p id="p-0064" num="0063"><figref idref="DRAWINGS">FIG. <b>17</b></figref> is a perspective diagram showing how the tray <b>233</b> is placed in a freezer <b>242</b>.</p>
+<p id="p-0065" num="0064"><figref idref="DRAWINGS">FIG. <b>18</b></figref> is a perspective diagram showing how the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>251</b> are removed from the tray <b>233</b> and placed on vacuum sealed bag <b>252</b>.</p>
+<p id="p-0066" num="0065"><figref idref="DRAWINGS">FIG. <b>19</b></figref> is a perspective diagram of a package <b>254</b> with the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>251</b>.</p>
+<p id="p-0067" num="0066"><figref idref="DRAWINGS">FIG. <b>20</b></figref> is a side view of the package <b>254</b> with the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>251</b>.</p>
+<p id="p-0068" num="0067"><figref idref="DRAWINGS">FIG. <b>21</b></figref> is top view of the package <b>254</b> with the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>251</b>.</p>
+<p id="p-0069" num="0068"><figref idref="DRAWINGS">FIG. <b>22</b>A</figref> is a perspective diagram of frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>251</b> having an amount of non-decarboxylated cannabinoids and an amount of decarboxylated cannabinoids.</p>
+<p id="p-0070" num="0069"><figref idref="DRAWINGS">FIG. <b>22</b>B</figref> is a perspective diagram of another embodiment of frozen structures of <i>Cannabis </i>juice pur&#xe9;e with added decarboxylated <i>Cannabis </i>infusion and non-decarboxylated high concentrate <i>Cannabis </i>extract.</p>
+<p id="p-0071" num="0070"><figref idref="DRAWINGS">FIG. <b>22</b>C</figref> is a perspective diagram of another embodiment of frozen structures of <i>Cannabis </i>juice pur&#xe9;e with added decarboxylated high concentrate <i>Cannabis </i>extract.</p>
+<p id="p-0072" num="0071"><figref idref="DRAWINGS">FIG. <b>22</b>D</figref> is a perspective diagram of another embodiment of frozen structures of <i>Cannabis </i>juice pur&#xe9;e with added decarboxylated high concentrate <i>Cannabis </i>extract and non-decarboxylated high concentrate <i>Cannabis </i>extract.</p>
+<p id="p-0073" num="0072"><figref idref="DRAWINGS">FIG. <b>23</b></figref> is a table <b>263</b> showing two general types of decarboxylated cannabinoids, THC and CBD, along with their chemical names and structural formulas.</p>
+<p id="p-0074" num="0073"><figref idref="DRAWINGS">FIG. <b>24</b></figref> is a flowchart of a method <b>300</b> in accordance with another novel aspect.</p>
+<p id="p-0075" num="0074"><figref idref="DRAWINGS">FIG. <b>25</b></figref> is a perspective diagram showing how a plurality of packages <b>311</b> is stored in a freezer <b>312</b>.</p>
+<p id="p-0076" num="0075"><figref idref="DRAWINGS">FIG. <b>26</b></figref> is a perspective diagram of a tray <b>400</b> having a plurality of molds <b>401</b>.</p>
+<p id="p-0077" num="0076"><figref idref="DRAWINGS">FIG. <b>27</b></figref> is a top view of the tray <b>400</b> having a plurality of molds <b>401</b>.</p>
+<p id="p-0078" num="0077"><figref idref="DRAWINGS">FIG. <b>28</b></figref> is a top view of a tray <b>403</b> having a plurality of cylindrical shaped molds.</p>
+<p id="p-0079" num="0078"><figref idref="DRAWINGS">FIG. <b>29</b></figref> is a top view of a tray <b>404</b> having a plurality of rectangular shaped molds.</p>
+<p id="p-0080" num="0079"><figref idref="DRAWINGS">FIG. <b>30</b></figref> is a top view of a tray <b>405</b> having a plurality of hexagonal shaped molds.</p>
+<p id="p-0081" num="0080"><figref idref="DRAWINGS">FIG. <b>31</b></figref> is a top view of a tray <b>406</b> having a plurality of triangular shaped molds.</p>
+<p id="p-0082" num="0081"><figref idref="DRAWINGS">FIG. <b>32</b></figref> is a top view of a tray <b>407</b> having a plurality of star shaped molds.</p>
+<p id="p-0083" num="0082"><figref idref="DRAWINGS">FIG. <b>33</b></figref> is a top view of a tray <b>408</b> having a plurality of trapezoidal shaped molds.</p>
+<p id="p-0084" num="0083"><figref idref="DRAWINGS">FIG. <b>34</b></figref> is a top view of a tray <b>409</b> having a plurality of concave shaped molds.</p>
+<p id="p-0085" num="0084"><figref idref="DRAWINGS">FIG. <b>35</b></figref> is a top view of a tray <b>410</b> having a plurality of parallelogram shaped molds.</p>
+<p id="p-0086" num="0085"><figref idref="DRAWINGS">FIG. <b>36</b></figref> is a top view of a tray <b>411</b> having a plurality of leaf shaped molds.</p>
+<p id="p-0087" num="0086"><figref idref="DRAWINGS">FIG. <b>37</b></figref> is a diagram of a conventional coconut milk based <i>Cannabis </i>ice cream <b>420</b>.</p>
+<p id="p-0088" num="0087"><figref idref="DRAWINGS">FIG. <b>38</b></figref> is a diagram showing how the container <b>421</b> is placed onto a container holder <b>423</b>.</p>
+<p id="p-0089" num="0088"><figref idref="DRAWINGS">FIG. <b>39</b></figref> is a diagram showing how the container holder <b>423</b> having six containers is placed into a package <b>425</b>.</p>
+<p id="p-0090" num="0089"><figref idref="DRAWINGS">FIG. <b>40</b></figref> is a diagram of the package <b>425</b> containing the container holder <b>423</b> having the six containers with coconut milk based <i>Cannabis </i>ice creams.</p>
+<p id="p-0091" num="0090"><figref idref="DRAWINGS">FIG. <b>41</b></figref> is a table <b>500</b> showing the advantages of novel package <b>154</b> (shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>) and novel package <b>254</b> (shown in <figref idref="DRAWINGS">FIG. <b>19</b></figref>) over the conventional package <b>425</b> shown in <figref idref="DRAWINGS">FIG. <b>40</b></figref>.</p>
+<p id="p-0092" num="0091"><figref idref="DRAWINGS">FIG. <b>42</b></figref> is a flowchart of a method <b>600</b> in accordance with a third embodiment.</p>
+<p id="p-0093" num="0092"><figref idref="DRAWINGS">FIG. <b>43</b></figref> is a perspective diagram showing how the <i>Cannabis </i>juice pur&#xe9;e <b>621</b> is deposited into container <b>622</b>.</p>
+<p id="p-0094" num="0093"><figref idref="DRAWINGS">FIG. <b>44</b></figref> is a perspective diagram showing how the container <b>622</b> having the <i>Cannabis </i>juice pur&#xe9;e <b>621</b> is placed in a freezer <b>631</b>.</p>
+<p id="p-0095" num="0094"><figref idref="DRAWINGS">FIG. <b>45</b>A</figref> is a perspective diagram of the packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>632</b> with only non-decarboxylated cannabinoids.</p>
+<p id="p-0096" num="0095"><figref idref="DRAWINGS">FIG. <b>45</b>B</figref> is a perspective diagram of another embodiment of a packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e with added non-decarboxylated high concentrate <i>Cannabis </i>extract.</p>
+<p id="p-0097" num="0096"><figref idref="DRAWINGS">FIG. <b>46</b>A</figref> is a perspective diagram of a packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>634</b> with added decarboxylated cannabinoids.</p>
+<p id="p-0098" num="0097"><figref idref="DRAWINGS">FIG. <b>46</b>B</figref> is a perspective diagram of another embodiment of a packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e with added decarboxylated <i>Cannabis </i>infusion and non-decarboxylated high concentrate <i>Cannabis </i>extract.</p>
+<p id="p-0099" num="0098"><figref idref="DRAWINGS">FIG. <b>46</b>C</figref> is a perspective diagram of another embodiment of a packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e with added decarboxylated high concentrate <i>Cannabis </i>extract.</p>
+<p id="p-0100" num="0099"><figref idref="DRAWINGS">FIG. <b>46</b>D</figref> is a perspective diagram of another embodiment of a packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e with added decarboxylated high concentrate <i>Cannabis </i>extract and non-decarboxylated high concentrate <i>Cannabis </i>extract.</p>
+<p id="p-0101" num="0100"><figref idref="DRAWINGS">FIG. <b>47</b></figref> is a diagram of a user <b>635</b> consuming the packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>632</b>/<b>634</b>.</p>
+<p id="p-0102" num="0101"><figref idref="DRAWINGS">FIG. <b>48</b></figref> is a diagram of a side view of the packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>632</b>/<b>634</b>.</p>
+<p id="p-0103" num="0102"><figref idref="DRAWINGS">FIG. <b>49</b></figref> is a diagram of a top view of the packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>632</b>/<b>634</b>.</p>
+<p id="p-0104" num="0103"><figref idref="DRAWINGS">FIG. <b>50</b></figref> is a diagram of a side view of another embodiment of a packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>650</b> having a container <b>651</b> that is not resealable.</p>
+<p id="p-0105" num="0104"><figref idref="DRAWINGS">FIG. <b>51</b></figref> is a flowchart of a method <b>700</b> to package a plurality of packaged frozen ice pops of <i>Cannabis </i>juice pur&#xe9;es.</p>
+<p id="p-0106" num="0105"><figref idref="DRAWINGS">FIG. <b>52</b></figref> is a perspective diagram showing how a plurality of packaged frozen ice pops of <i>Cannabis </i>juice pur&#xe9;es <b>711</b> is placed inside a package <b>712</b>.</p>
+<p id="p-0107" num="0106"><figref idref="DRAWINGS">FIG. <b>53</b></figref> is a flowchart of a method <b>800</b> to store packages comprising a plurality of packaged frozen ice pops of <i>Cannabis </i>juice pur&#xe9;e.</p>
+<p id="p-0108" num="0107"><figref idref="DRAWINGS">FIG. <b>54</b></figref> is a perspective diagram showing how a plurality of packages <b>811</b> are stored in a freezer <b>812</b>.</p>
+<p id="p-0109" num="0108"><figref idref="DRAWINGS">FIG. <b>55</b></figref> is a flowchart of a method <b>900</b> in accordance with fourth embodiment.</p>
+<p id="p-0110" num="0109"><figref idref="DRAWINGS">FIG. <b>56</b></figref> is a perspective diagram showing how the <i>Cannabis </i>juice pur&#xe9;e <b>921</b> is deposited into a container <b>922</b>.</p>
+<p id="p-0111" num="0110"><figref idref="DRAWINGS">FIG. <b>57</b></figref> is a perspective diagram of performing high pressure processing (HPP) during the packaging of the <i>Cannabis </i>juice pur&#xe9;e <b>921</b>.</p>
+<p id="p-0112" num="0111"><figref idref="DRAWINGS">FIG. <b>58</b>A</figref> is a perspective diagram of the packaged <i>Cannabis </i>juice pur&#xe9;e with only non-decarboxylated cannabinoids.</p>
+<p id="p-0113" num="0112"><figref idref="DRAWINGS">FIG. <b>58</b>B</figref> is a perspective diagram of another embodiment of a packaged <i>Cannabis </i>juice pur&#xe9;e with added non-decarboxylated high concentrate <i>Cannabis </i>extract.</p>
+<p id="p-0114" num="0113"><figref idref="DRAWINGS">FIG. <b>59</b>A</figref> is a perspective diagram of a packaged <i>Cannabis </i>juice pur&#xe9;e having decarboxylated cannabinoids.</p>
+<p id="p-0115" num="0114"><figref idref="DRAWINGS">FIG. <b>59</b>B</figref> is a perspective diagram of another embodiment of a packaged <i>Cannabis </i>juice pur&#xe9;e with added decarboxylated <i>Cannabis </i>infusion and non-decarboxylated high concentrate <i>Cannabis </i>extract.</p>
+<p id="p-0116" num="0115"><figref idref="DRAWINGS">FIG. <b>59</b>C</figref> is a perspective diagram of another embodiment of a packaged <i>Cannabis </i>juice pur&#xe9;e with added decarboxylated high concentrate <i>Cannabis </i>extract.</p>
+<p id="p-0117" num="0116"><figref idref="DRAWINGS">FIG. <b>59</b>D</figref> is a perspective diagram of another embodiment of a packaged <i>Cannabis </i>juice pur&#xe9;e with added decarboxylated high concentrate <i>Cannabis </i>extract and non-decarboxylated high concentrate <i>Cannabis </i>extract.</p>
+<p id="p-0118" num="0117"><figref idref="DRAWINGS">FIG. <b>60</b></figref> is a flowchart of a method <b>1000</b> to store packaged containers having a <i>Cannabis </i>juice pur&#xe9;e.</p>
+<p id="p-0119" num="0118"><figref idref="DRAWINGS">FIG. <b>61</b></figref> is a perspective diagram of containers <b>1011</b> each having a <i>Cannabis </i>juice pur&#xe9;e that are stored on a shelf <b>1012</b>.</p>
+<p id="p-0120" num="0119"><figref idref="DRAWINGS">FIG. <b>62</b></figref> is a table <b>1100</b> that shows the therapeutic benefits of various types of cannabinoids.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<p id="p-0121" num="0120">Reference will now be made in detail to some embodiments of the invention, examples of which are illustrated in the accompanying drawings.</p>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0122" num="0121"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a flowchart of a method <b>100</b> in accordance with one embodiment. The method <b>100</b> is a method of manufacturing and packaging a plurality of frozen structures of <i>Cannabis </i>juice pur&#xe9;e that comprises a pre-determined amount of non-decarboxylated cannabinoids.</p>
+<p id="p-0123" num="0122">In a first step (step <b>110</b>), raw <i>Cannabis </i>material is collected. The raw <i>Cannabis </i>material includes an amount of non-decarboxylated cannabinoids. The term &#x201c;non-decarboxylated&#x201d; means that the cannabinoids are in their acid form. Non-decarboxylated cannabinoids are not considered to be psychoactive. For example, in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, raw <i>Cannabis </i>material <b>112</b> is collected by trimming leaves <b>113</b> from the <i>Cannabis </i>plant <b>111</b>. The cannabinoid profile indicates types and proportions of cannabinoids present in the <i>Cannabis </i>material. An example of a cannabinoid profile is shown in <figref idref="DRAWINGS">FIG. <b>10</b>A</figref> where the cannabinoid contents of the cubes is shown.</p>
+<p id="p-0124" num="0123">The <i>Cannabis </i>plant <b>111</b> is cultivated to have a specific cannabinoid profile. Different cannabinoid profiles yield different therapeutic benefits appreciated by an artisan of ordinary skill. In this example, the <i>Cannabis </i>plant <b>111</b> has a cannabinoid profile that includes tetrahydrocannabinolic acid (THCa) and cannabidiolic acid (CBDa). The <i>Cannabis </i>plant <b>111</b> is selected having a cannabinoid profile where the amount of THCa and CBDa is present in a desired ratio. In the example of <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the ratio is 3 CBDa to 2 THCa. In other examples, the ratio is taken from the group consisting of: 2 CBDa to 1 THCa, 1 CBDa to 1 THCa, 1 CBDa to 2 THCa, 1 CBDa to 3 THCa, 3 CBDa to 1 THCa, 0 CBDa to 1 THCa (no CBDa, only THCa), and 1 CBDa to 0 THCa (no THCa, only CBDa).</p>
+<p id="p-0125" num="0124">For additional information on cannabinoid profiles, their therapeutic benefits, and techniques for delivering the cannabinoids to a user, see: (1) U.S. Pat. No. 9,220,294, entitled &#x201c;Methods and Devices Using <i>Cannabis </i>Vapors&#x201d;, filed Apr. 29, 2014 by McCullough; (2) U.S. Pat. No. 9,205,063, entitled &#x201c;Cannabinoid-containing Plant Extracts As Neuroprotective Agents&#x201d;, filed Jan. 24, 2014 by Guy et al.; (3) U.S. Pat. No. 9,186,386, entitled &#x201c;Pharmaceutical Composition And Method Of Manufacturing&#x201d;, filed May 28, 2015 by Speier; (4) U.S. Pat. No. 9,155,767, entitled &#x201c;Essential Element Management&#x201d;, filed Oct. 18, 2012 by Hospodor et al.; (5) U.S. Pat. No. 9,149,499, entitled &#x201c;<i>Cannabis </i>Based Therapeutic And Method Of Use&#x201d;, filed May 19, 2014 by Robinson; (6) U.S. Pat. No. 9,095,563, entitled &#x201c;Topical Treatments Incorporating <i>Cannabis </i>Sp. Derived Botanical Drug Product&#x201d;, filed Sep. 26, 2014 by Sekura et al.; (7) U.S. Pat. No. 9,095,544, entitled &#x201c;Breeding, Production, Processing and Use of Specialty <i>Cannabis</i>&#x201d;, filed Mar. 17, 2014 by Lewis et al.; (8) U.S. Pat. No. 9,078,838, entitled &#x201c;Cosmetic or Dermatological Compositions Comprising A Mixture Of Essential Oils, And Its Uses Thereof, Particularly For The Care Of Sensitive Or Sensitized Skin&#x201d;, filed Sep. 3, 2009 by Andre et al.; (9) U.S. Pat. No. 9,066,910, entitled &#x201c;Methods and Compositions of <i>Cannabis </i>Extracts&#x201d;, filed Apr. 15, 2010 by Rosenblatt et al.; (10) U.S. Pat. No. 9,050,631, entitled &#x201c;Apparatus and Related Methods For Extracting Resins From <i>Cannabis</i>&#x201d;, filed Feb. 6, 2013 by Raichart; and (11) U.S. Pat. No. 9,044,390, entitled &#x201c;Pharmaceutical Composition And Method Of Manufacturing&#x201d;, filed Apr. 17, 2014 by Speier (the subject matter of these patent documents is incorporated herein in its entirety).</p>
+<p id="p-0126" num="0125">In a second step (step <b>120</b>), a <i>Cannabis </i>juice pur&#xe9;e is formed from the collected raw <i>Cannabis </i>material. The <i>Cannabis </i>juice pur&#xe9;e has a liquid composition and is also referred to as a uniform pur&#xe9;e. For example, in <figref idref="DRAWINGS">FIG. <b>3</b></figref>, the raw <i>Cannabis </i>material <b>112</b> is blended in a blender <b>121</b> with water <b>122</b> and a thickening agent <b>123</b> to form a <i>Cannabis </i>juice pur&#xe9;e. In one example, 210.0 grams of fresh <i>Cannabis </i>leaves, 200.0 grams of banana, and 20.0 ounces of filtered water are combined in blender <b>121</b> and blended together. The blender <b>121</b> is not a juicing machine. Both the shredded <i>Cannabis </i>plant material and the extracted <i>Cannabis </i>juice remain in the blender after the blending process and become part of the resulting <i>Cannabis </i>juice pur&#xe9;e.</p>
+<p id="p-0127" num="0126">In accordance with one novel aspect, the <i>Cannabis </i>juice pur&#xe9;e is formed without a juicing process. In a juicing process, a portion of the <i>Cannabis </i>plant material is separated from the juice of the <i>Cannabis </i>plant. At least part of the separated <i>Cannabis </i>plant material is treated as waste and is disposed. To form the <i>Cannabis </i>juice pur&#xe9;e, however, all of the <i>Cannabis </i>plant material is converted into the <i>Cannabis </i>juice pur&#xe9;e. The resulting <i>Cannabis </i>juice pur&#xe9;e includes all of the <i>Cannabis </i>plant material placed in the blender and all of the extracted <i>Cannabis </i>juice that is extracted in the blending process. No waste product is generated in forming the <i>Cannabis </i>juice pur&#xe9;e. Accordingly, the <i>Cannabis </i>juice pur&#xe9;e has all of the <i>Cannabis </i>plant material and is rich in dietary fibers and non-cannabinoid components that include terpenes, fatty acids, aminoacids, enzymes, vitamins, minerals, carotenoids, chlorophyll, and flavonoids.</p>
+<p id="p-0128" num="0127">The water <b>122</b> may be filtered water, unfiltered water, ice formed from filtered water, or ice formed from unfiltered water. Alternatively, fruit juice or vegetable juice can be used in addition to or instead of water. The thickening agent <b>123</b> aids in suspending the <i>Cannabis </i>material throughout thereby yielding a more uniform distribution of cannabinoids than would otherwise be achieved without the thickening agent <b>123</b>. If no thickening agent <b>123</b> is used, then blending the <i>Cannabis </i>material <b>112</b> and water <b>122</b> results in a mixture having the <i>Cannabis </i>material sinking to the bottom with water disposed above the <i>Cannabis </i>material. The thickening agent <b>123</b> may be banana, avocado, psyllium husk, tapioca, or any other food-grade thickening agent.</p>
+<p id="p-0129" num="0128">In a third step (step <b>130</b>), the <i>Cannabis </i>juice pur&#xe9;e is deposited into molds of a tray. The tray has a plurality of molds each having a substantially identical size, shape, and volume. Depositing the <i>Cannabis </i>juice pur&#xe9;e into similar molds results in each cube having a substantially similar cannabinoid profile. For example, in <figref idref="DRAWINGS">FIG. <b>4</b></figref>, the <i>Cannabis </i>juice pur&#xe9;e <b>131</b> is deposited into molds <b>132</b> of a tray <b>133</b>. In the embodiment of <figref idref="DRAWINGS">FIG. <b>4</b></figref>, the tray <b>133</b> has fifteen cubic shaped molds that each holds one fluid ounce. The size, shape, and volume of each mold and the number of molds on the tray are selected depending on the desired size of the frozen <i>Cannabis </i>juice pur&#xe9;e cubes and amount of cannabinoids to be delivered in each dose.</p>
+<p id="p-0130" num="0129">In a fourth step (step <b>140</b>), the tray of molds having the <i>Cannabis </i>juice pur&#xe9;e are frozen to form frozen structures of <i>Cannabis </i>juice pur&#xe9;e. In one example, frozen structures of <i>Cannabis </i>juice pur&#xe9;e are frozen <i>Cannabis </i>juice pur&#xe9;e cubes. In <figref idref="DRAWINGS">FIG. <b>5</b></figref>, for example, the tray <b>133</b> of molds <b>132</b> having the <i>Cannabis </i>juice pur&#xe9;e <b>131</b> is placed in a freezer <b>141</b> so that the <i>Cannabis </i>juice pur&#xe9;e <b>131</b> in each mold of tray <b>133</b> can freeze. The temperature within freezer <b>141</b> is typically between 0.0&#xb0; F. and 5.0&#xb0; F., but may be less than 0.0&#xb0; F. Freezing the <i>Cannabis </i>juice pur&#xe9;e promotes preservation because harvested raw <i>Cannabis </i>material is not acceptable for consumption after three days, even when the <i>Cannabis </i>material is stored in a refrigerator. However, by freezing the <i>Cannabis </i>juice pur&#xe9;e to form frozen <i>Cannabis </i>juice pur&#xe9;e cubes, the shelf-life is extended for at least six months if the frozen <i>Cannabis </i>juice pur&#xe9;e cubes are properly stored in a freezer.</p>
+<p id="p-0131" num="0130">In a fifth step (step <b>150</b>), the frozen structures of <i>Cannabis </i>juice pur&#xe9;e are packaged into a package. The frozen structures of <i>Cannabis </i>juice pur&#xe9;e are packaged in a vacuum sealed package, a bag, or a container having a detachable lid. The frozen structures may be loosely packed or may directly contact each other. In the example of <figref idref="DRAWINGS">FIG. <b>6</b></figref>, the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>151</b> are removed from the molds <b>132</b> of the tray <b>133</b> and are placed on vacuum sealed bag <b>152</b>. The vacuum sealed bag <b>152</b> is sealed by vacuum sealing machine <b>153</b> to form a vacuum sealed package having the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>151</b>.</p>
+<p id="p-0132" num="0131"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a perspective diagram of a package <b>154</b> with the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>151</b>. The frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>151</b> have non-decarboxylated cannabinoids because the <i>Cannabis </i>material <b>112</b> involved in forming the cubes <b>151</b> has not been heated. The package <b>154</b> delivers the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>151</b> cheaply because the only packaging material involved is the vacuum sealed bag. The package <b>154</b> provides for optimal storing, packing, and transporting because the packages are rectangular or square and have flat surfaces that allow the packages to be stacked above each other. The frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>151</b> consume over 95% of the total volume of package <b>154</b> allowing for maximum delivery of frozen <i>Cannabis </i>juice pur&#xe9;e cubes per shipment of packages.</p>
+<p id="p-0133" num="0132"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a side view of the package <b>154</b> with the cubes <b>151</b>. The package <b>154</b> has an upper portion <b>155</b> and a lower portion <b>156</b>. Each of the cubes <b>151</b> has an upper surface <b>157</b> and a lower surface <b>158</b>. Each upper surface <b>157</b> of the cubes contacts the upper portion <b>155</b> of the package <b>154</b> and each lower surface <b>158</b> of the cubes <b>151</b> contacts a lower portion <b>156</b> of the package <b>154</b>. No packaging material is disposed within the package.</p>
+<p id="p-0134" num="0133"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is top view of the package <b>154</b> with the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>151</b>. The frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>151</b> are packaged in an array formation. Each of the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>151</b> has a substantially identical shape and each cube is adjacent to at least one other cube. Reference numeral <b>159</b> identifies a surface of one cube adjacent to a surface of another cube. Each cube has at least two surfaces that are adjacent to surfaces of at least two other cubes.</p>
+<p id="p-0135" num="0134">Reference numeral <b>160</b> identifies a cube along a corner of the array of cubes <b>151</b> having a first surface that is adjacent to a surface of a second cube and a second surface that is adjacent to a surface of a third cube. Cube <b>160</b> has two surfaces each of which contacts a surface of one of two other cubes. Reference numeral <b>161</b> identifies a cube along an edge of the array of cubes <b>151</b> having a first surface that is adjacent to a surface of a second cube, a second surface that is adjacent to a surface of a third cube, and a third surface that is adjacent to a surface of a fourth cube. Cube <b>161</b> has three surfaces each of which contacts a surface of one of three other cubes. Reference numeral <b>162</b> identifies a cube at an inner portion of the array of cubes <b>151</b> having a first surface that is adjacent to a surface of a second cube, a second surface that is adjacent to a surface of a third cube, a third surface that is adjacent to a surface of a fourth cube, and a fourth surface that is adjacent to a surface of a fifth cube. Cube <b>162</b> has four surfaces each of which contacts a surface of one of four other cubes.</p>
+<p id="p-0136" num="0135">In accordance with at least one novel aspect, the cubes <b>151</b> are not contained in separate containers. No packaging material is present between the cubes <b>151</b>. Although a gap is shown between the cubes <b>151</b>, some or all of the cubes <b>151</b> may be directly contacting each other. The tight packing of the cubes <b>151</b> and the omission of additional packaging material between the cubes significantly reduces packaging, storing, and shipping costs.</p>
+<p id="p-0137" num="0136">In another example, the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>151</b> are loosely packed in a bag without vacuum sealing. Costs and packaging time are substantially reduced by not vacuum sealing. Not all of the cubes <b>151</b> contact a surface of the bag. Some of the cubes in the bag are surrounded by other cubes and do not touch a surface of the bag. In yet another example, the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>151</b> are loosely packed in a plastic container having a lid. Not all of the cubes contact a surface of the plastic container. Depending on the size of the container, the cubes may not contact the lid of the container.</p>
+<p id="p-0138" num="0137"><figref idref="DRAWINGS">FIG. <b>10</b>A</figref> is a perspective diagram of frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>151</b> having an amount of non-decarboxylated cannabinoids. The amount of non-decarboxylated cannabinoids comprises an amount of tetrahydrocannabinolic acid (THCa) and an amount of cannabidiolic acid (CBDa). The cubes <b>151</b> do not include any decarboxylated cannabinoids and the cubes <b>151</b> are not psychoactive. Each of cubes <b>151</b> is a frozen cube of one fluid ounce and has ten milligrams of THCa and fifteen milligrams of CBDa. The ratio of CBDa to THCa is 3:2. In other examples, each frozen structure has between 0.1 fluid ounce and 5.0 fluid ounces of <i>Cannabis </i>juice pur&#xe9;e. Each cube comprises <i>Cannabis </i>plant material that includes leaves, stems, flowers, or trichomes of the <i>Cannabis </i>plant. Each cube can be modified to include or exclude non-cannabinoid components of the <i>Cannabis </i>plant such as terpenes, fatty acids, aminoacids, enzymes, vitamins, minerals, carotenoids, chlorophyll, flavonoids, and dietary fibers.</p>
+<p id="p-0139" num="0138">In the example of <figref idref="DRAWINGS">FIG. <b>10</b>A</figref>, the amount of CBDa in each cube is greater than the amount of THCa. In other embodiments, each cube has ratio of CBDa to THCa taken from the group consisting of: 2 CBDa to 1 THCa, 1 CBDa to 1 THCa, 1 CBDa to 2 THCa, 1 CBDa to 3 THCa, 3 CBDa to 1 THCa, 0 CBDa to 1 THCa (no CBDa, only THCa), and 1 CBDa to 0 THCa (no THCa, only CBDa). An artisan will appreciate that another combination of cannabinoids (amount, type, or ratio) can be selected to form the cubes according to the type of ailment being targeted.</p>
+<p id="p-0140" num="0139"><figref idref="DRAWINGS">FIG. <b>10</b>B</figref> is a perspective diagram of another embodiment of the frozen structures where an amount of non-decarboxylated high concentrate <i>Cannabis </i>extract has been added to the <i>Cannabis </i>juice pur&#xe9;e prior to freezing. High concentrate <i>Cannabis </i>extract is also referred to as &#x201c;kief&#x201d;. The added amount of non-decarboxylated high concentrate <i>Cannabis </i>extract substantially increases the amount of non-decarboxylated cannabinoids in each cube. For example, in addition to the 25 milligrams of non-decarboxylated cannabinoids derived from the <i>Cannabis </i>leaf, there is an additional 500 milligrams of non-decarboxylated cannabinoids in each cube derived from the added non-decarboxylated high concentrate <i>Cannabis </i>extract. The amount of cannabinoids from the non-decarboxylated high concentrate <i>Cannabis </i>extract is at least ten times the amount of non-decarboxylated cannabinoids from the raw <i>Cannabis </i>plant. The high concentrate <i>Cannabis </i>extract is obtained through numerous processes and added to the cubes, as explained below in connection with <figref idref="DRAWINGS">FIG. <b>10</b>C</figref>.</p>
+<p id="p-0141" num="0140"><figref idref="DRAWINGS">FIG. <b>10</b>C</figref> is a diagram of a female <i>Cannabis </i>plant with flowers <b>165</b> having trichomes <b>164</b>. The high concentrate <i>Cannabis </i>extract is obtained by collecting the trichomes <b>164</b> from many <i>Cannabis </i>plants. The trichomes <b>164</b> are typically present along an upper surface of a <i>Cannabis </i>flower <b>165</b>. Each trichome has a stalk <b>166</b> and a gland head <b>167</b>. Secretory vesicles along the gland head <b>167</b> receive nutrients and turn them into cannabinoids. As flowering progresses, cannabinoids accumulate on an outer layer of the gland head <b>167</b>. Generally, the greatest concentration of cannabinoids in a <i>Cannabis </i>plant is found in the trichomes <b>164</b>. The high concentrate <i>Cannabis </i>extract is obtained by extracting the cannabinoids from the trichomes <b>164</b> of the <i>Cannabis </i>plant. High concentrate <i>Cannabis </i>extract is any material that has a greater percentage of cannabinoids per unit mass than <i>Cannabis </i>in its unprocessed and natural occurring state, such as in the leaves <b>168</b> or stem <b>169</b>. The high concentrate <i>Cannabis </i>extract is also referred to as &#x201c;kief&#x201d; or &#x201c;high potency resin extract&#x201d;.</p>
+<p id="p-0142" num="0141">Several techniques exist to obtain high concentrate <i>Cannabis </i>extract. A first technique to obtain high concentrate <i>Cannabis </i>extract involves sifting or tumbling raw <i>Cannabis </i>flower material. The <i>Cannabis </i>material that contains trichrome&#x2014;the cannabinoid crystals&#x2014;is generally present in the <i>Cannabis </i>flower material. Agitating and sifting the flower material causes the trichrome crystals to separate from the plant material. By employing this technique, the high concentrate <i>Cannabis </i>extract will have much higher percentage of cannabinoids per gram. It is not uncommon for high concentrate <i>Cannabis </i>extract to contain between 30% and 60% cannabinoids per gram. This could result in at least between 300 milligrams and 600 milligrams of cannabinoids (THCa or CBDa) per gram of high concentrate <i>Cannabis </i>extract. When adding raw kief to frozen <i>Cannabis </i>juice pur&#xe9;e cubes, each gram of high concentrate <i>Cannabis </i>extract added to the cube can increase the amount of cannabinoids per ounce of cube by between 300 milligrams and 600 milligrams.</p>
+<p id="p-0143" num="0142">A second type of high concentrate <i>Cannabis </i>extract is obtained by using CO<sub>2 </sub>extraction, alcohol extraction, or other forms of high concentrate extraction using solvents or alcohols. High concentrate <i>Cannabis </i>extract obtained through these other extractions methods may be obtained and added to the frozen <i>Cannabis </i>juice pur&#xe9;e cubes prior to freezing or after freezing. Such high concentrate extraction, when performed with high quality precision equipment, results in considerably high concentrate <i>Cannabis </i>extract or oils with almost undetectable amounts of the solvent remaining. If the resulting high concentrate <i>Cannabis </i>extract are never heated (decarboxylated), these high concentrate <i>Cannabis </i>extract or oils can be added to the <i>Cannabis </i>juice pur&#xe9;e to dramatically increase the amount of cannabinoids per cube.</p>
+<p id="p-0144" num="0143">In one example, while pouring the <i>Cannabis </i>juice pur&#xe9;e into the molds, an amount of high concentrate <i>Cannabis </i>extract is weighed and added into each of the individual molds. For example, the <i>Cannabis </i>juice pur&#xe9;e is filled to half the volume of the mold. Next, the high concentrate <i>Cannabis </i>extract is deposited into the half filled mold. Next, the remainder of the mold is filled with the <i>Cannabis </i>juice pur&#xe9;e. This would maintain the high concentrate <i>Cannabis </i>extract in a center of the frozen <i>Cannabis </i>juice pur&#xe9;e cubes. In another example, while blending the raw <i>Cannabis </i>material, high concentrate <i>Cannabis </i>extract is added to the entire <i>Cannabis </i>juice pur&#xe9;e. This is not as preferred, as some of the valuable high concentrate <i>Cannabis </i>extract could be lost in the residue on the side of the mixing or blending apparatus.</p>
+<p id="p-0145" num="0144">By adding high concentrate <i>Cannabis </i>extract to the cubes, the concentration of cannabinoids per cube can be increased to over 600 mg of cannabinoids per cube, if an entire gram of high concentrate <i>Cannabis </i>extract were added per cube. In one specific embodiment, 500 milligrams of high concentrate <i>Cannabis </i>extract is added in each cannabinoid cube. An artisan of ordinary skill will appreciate that employing high concentrate <i>Cannabis </i>extract allows for a completely &#x2018;natural&#x2019; way to achieve very high cannabinoid potency per cube. In addition, there are no solvents or alcohol used to extract the high concentrate <i>Cannabis </i>extract thereby reducing costs and production time and yields &#x2018;food grade&#x2019; frozen <i>Cannabis </i>juice pur&#xe9;e cubes.</p>
+<p id="p-0146" num="0145"><figref idref="DRAWINGS">FIG. <b>10</b>D</figref> is a table <b>170</b> showing various non-cannabinoid components and cannabinoid components that are obtainable from <i>Cannabis </i>plant material. The left-side column of table <b>170</b> shows non-cannabinoid components that can be obtained from the <i>Cannabis </i>plant. The non-cannabinoid components include terpenes, fatty acids, aminoacids, enzymes, vitamins, minerals, carotenoids, chlorophyll, flavonoids, and dietary fibers. The right-side column of table <b>170</b> shows cannabinoid components that can be obtained from the <i>Cannabis </i>plant. The cannabinoid components include cannabigerolic acid (CBGa), cannabigerovarin acid (CBGVA), tetrahydrocannabinolic acid (THCA), tetrahydrocannabivarin carboxylic acid (THCVA), cannadidiolic acid (CBDA), cannabidivarin acid (CBDVA), cannabichrome carboxylic acid (CBCA), cannabichrome varinic acid (CBCVA), tetrahydrocannabinol (THC), tetrahydrocannabidivarin (THCV), tetrahydrocannabivarin acid (THVA), cannabidiol (CBD), cannabidivarin (CBDV), cannabichromene (CBC), cannabichromevarin (CBCV), cannabigerol (CBG), cannabigerovarin (CBGV), cannabinerolic acid (CBNA), cannabigerovarinic acid (CBNVA), cannabinol (CBN), cannabicyclol (CBL), and cannabicyclol acid (CBLA).</p>
+<p id="p-0147" num="0146"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a table <b>163</b> showing two general types of non-decarboxylated cannabinoids, THCa and CBDa, along with their chemical names and structural formulas. The non-decarboxylated cannabinoids include a carboxyl group (COOH).</p>
+<p id="p-0148" num="0147"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a flowchart of a method <b>200</b> in accordance with a second embodiment. The method <b>200</b> is a method of manufacturing and packaging a plurality of frozen structures of <i>Cannabis </i>juice pur&#xe9;e that comprises a pre-determined amount of non-decarboxylated and decarboxylated cannabinoids. The amount of decarboxylated cannabinoids in each frozen structure is at least 5 mg. A structure with less than 5 mg is not considered to be a therapeutic dose of decarboxylated cannabinoids because consuming less than 5 mg decarboxylated cannabinoids has negligible, if any, effects on the user. The amount of decarboxylated cannabinoids may include one type of decarboxylated cannabinoid (such as CBD) or more than one type of decarboxylated cannabinoid (such as CBD and THC).</p>
+<p id="p-0149" num="0148">Non-decarboxylated cannabinoids exhibit therapeutic benefits without psychoactive side effects. Decarboxylated cannabinoids also offer therapeutic benefits but may be considered psychoactive depending on the amount of THC present. Decarboxylated cannabinoids are typically produced by heating raw <i>Cannabis </i>material. By providing the pre-determined amount of non-decarboxylated cannabinoids and decarboxylated cannabinoids in a single frozen structure, therapeutic results in treating certain medical conditions are achieved.</p>
+<p id="p-0150" num="0149">In a first step (step <b>210</b>), raw <i>Cannabis </i>material is collected. For example, in <figref idref="DRAWINGS">FIG. <b>13</b></figref>, raw <i>Cannabis </i>material <b>211</b> is collected from a first <i>Cannabis </i>plant <b>212</b> and a second <i>Cannabis </i>plant <b>213</b>. A first portion <b>214</b> of the raw <i>Cannabis </i>material <b>211</b> is obtained from the first <i>Cannabis </i>plant <b>212</b>. The first portion <b>214</b> has a first cannabinoid profile <b>215</b> of 3 CBDa to 2 THCa. A second portion <b>216</b> of the raw <i>Cannabis </i>material <b>211</b> is obtained from the second <i>Cannabis </i>plant <b>213</b>. The second portion <b>216</b> has a second cannabinoid profile <b>217</b> of 30 CBDa to 1 THCa. The second portion <b>216</b> of the raw <i>Cannabis </i>material <b>211</b> will eventually be heated to obtain decarboxylated cannabinoids. At step <b>210</b>, the first portion <b>214</b> and second portion <b>216</b> in <figref idref="DRAWINGS">FIG. <b>13</b></figref> are non-decarboxylated as both are raw <i>Cannabis </i>material that has not been heated.</p>
+<p id="p-0151" num="0150">The amounts of non-decarboxylated and decarboxylated cannabinoids can be created in unlimited combinations based on using different strains of <i>Cannabis </i>which have different ratios of THCa and CBDa. In this example, the second portion <b>216</b> has a second cannabinoid profile <b>217</b> different from the first cannabinoid profile <b>215</b>. In other embodiments, the first portion <b>214</b> and the second portion <b>216</b> have the same cannabinoid profile. Other cannabinoid profiles for the first portion include: 2 CBDa to 1 THCa, 1 CBDa to 1 THCa, 1 CBDa to 2 THCa, 1 CBDa to 3 THCa, 3 CBDa to 1 THCa, 0 CBDa to 1 THCa (no CBDa, only THCa), and 1 CBDa to 0 THCa (no THCa, only CBDa). Other cannabinoid profiles for the second portion include: 20 CBD to 1 THC, 10 CBD to 1 THC, or 5 CBD to 1 THC. A skilled artisan will appreciate that other cannabinoid profiles are obtainable.</p>
+<p id="p-0152" num="0151">In a second step (step <b>220</b>), a non-decarboxylated <i>Cannabis </i>juice pur&#xe9;e is formed from the first portion of collected raw <i>Cannabis </i>material and a decarboxylated <i>Cannabis </i>infusion is formed from the second portion of collected raw <i>Cannabis </i>material. Forming the non-decarboxylated <i>Cannabis </i>juice pur&#xe9;e does not involve heating the raw <i>Cannabis </i>material. For example, in <figref idref="DRAWINGS">FIG. <b>14</b></figref>, the first portion of raw <i>Cannabis </i>material <b>214</b> is blended in a blender <b>221</b> with water <b>222</b> and a thickening agent <b>223</b> to form a non-decarboxylated <i>Cannabis </i>juice pur&#xe9;e. In one example, 210.0 grams of fresh <i>Cannabis </i>leaves <b>214</b>, 200.0 grams of banana <b>223</b>, and 20.0 ounces of filtered water <b>222</b> are combined in blender <b>221</b> and blended together. The blender <b>221</b> is not a juicing machine. Both the <i>Cannabis </i>plant material and the extracted <i>Cannabis </i>juice remain in the blender after blending and become part of the resulting <i>Cannabis </i>juice pur&#xe9;e. The water <b>222</b> may be filtered water, unfiltered water, ice formed from filtered water, or ice formed from unfiltered water. The thickening agent <b>223</b> aids in suspending the <i>Cannabis </i>material yielding a more uniform mixture than would be achieved without the thickening agent <b>223</b>. The thickening agent <b>223</b> may be banana, avocado, psyllium husk, tapioca, corn starch, or any other food-grade thickener.</p>
+<p id="p-0153" num="0152">The <i>Cannabis </i>juice pur&#xe9;e is formed without a juicing process. In a juicing process, a portion of the <i>Cannabis </i>plant material is separated from the juice of the <i>Cannabis </i>plant. At least part of the separated <i>Cannabis </i>plant material is treated as waste and is disposed. To form the <i>Cannabis </i>juice pur&#xe9;e, however, all of the <i>Cannabis </i>plant material is converted into the <i>Cannabis </i>juice pur&#xe9;e. The resulting <i>Cannabis </i>juice pur&#xe9;e includes all of the <i>Cannabis </i>plant material placed in the blender and all of the extracted <i>Cannabis </i>juice that is extracted in the blending process. No waste product is generated in forming the <i>Cannabis </i>juice pur&#xe9;e. Accordingly, the <i>Cannabis </i>juice pur&#xe9;e has all of the <i>Cannabis </i>plant material and is rich in dietary fibers and non-cannabinoid components that include terpenes, fatty acids, aminoacids, enzymes, vitamins, minerals, carotenoids, chlorophyll, flavonoids, and dietary fibers.</p>
+<p id="p-0154" num="0153">Forming the decarboxylated <i>Cannabis </i>infusion involves heating the second portion of collected raw <i>Cannabis </i>material. For example, in <figref idref="DRAWINGS">FIG. <b>15</b></figref>, the second portion of raw <i>Cannabis </i>material <b>216</b> is heated along with fatty oil <b>224</b> in a heating mechanism <b>225</b>. A typical ratio is one ounce of dried <i>Cannabis </i>flower mixed with six cups of olive or coconut oil and is heated in a heating mechanism <b>225</b> for one to eight hours to create the decarboxylated <i>Cannabis </i>infusion. The heating mechanism <b>225</b> shown in <figref idref="DRAWINGS">FIG. <b>15</b></figref> is a crock pot.</p>
+<p id="p-0155" num="0154">In another example, the decarboxylated cannabinoid is generated by heating dried <i>Cannabis </i>flower in an oven without oil. For example, the dried <i>Cannabis </i>flower is heated in an oven at 240&#xb0; F. for thirty to forty minutes. Other conventional methods for generating decarboxylated <i>Cannabis </i>may be employed.</p>
+<p id="p-0156" num="0155">In a third step (step <b>230</b>), the non-decarboxylated <i>Cannabis </i>juice pur&#xe9;e and the decarboxylated <i>Cannabis </i>infusion are deposited into molds of a tray such that each mold has non-decarboxylated and decarboxylated cannabinoids. The tray has a plurality of molds each having a substantially identical size, shape, and volume. Depositing the <i>Cannabis </i>juice pur&#xe9;e and <i>Cannabis </i>infusion into similar molds results in each cube having a substantially similar cannabinoid profile. For example, in <figref idref="DRAWINGS">FIG. <b>16</b></figref>, the non-decarboxylated <i>Cannabis </i>juice pur&#xe9;e <b>231</b> and the decarboxylated <i>Cannabis </i>infusion <b>234</b> are deposited into molds <b>232</b> of a tray <b>233</b>. First, the non-decarboxylated <i>Cannabis </i>juice pur&#xe9;e <b>231</b> is deposited into each mold <b>232</b> to fill approximately half of the mold <b>232</b>. Next, the decarboxylated <i>Cannabis </i>infusion <b>234</b> is deposited at a center location on the top surface of the half-filled mold. In this example, a measuring syringe <b>235</b> is employed to deposit a particular amount decarboxylated <i>Cannabis </i>infusion <b>234</b> into the molds <b>232</b>. Next, the non-decarboxylated <i>Cannabis </i>juice pur&#xe9;e <b>231</b> is deposited into each mold above the layer of decarboxylated <i>Cannabis </i>infusion <b>234</b> to fill the rest of each mold <b>232</b>.</p>
+<p id="p-0157" num="0156">In the embodiment of <figref idref="DRAWINGS">FIG. <b>16</b></figref>, the tray <b>233</b> has fifteen cubic shaped molds that each holds one fluid ounce. The size, shape, and volume of each mold and the number of molds on the tray are selected depending on the desired size of the frozen <i>Cannabis </i>juice pur&#xe9;e cubes and amount of cannabinoids to be delivered in each dose.</p>
+<p id="p-0158" num="0157">In another example, the decarboxylated <i>Cannabis </i>infusion is deposited directly into the non-decarboxylated <i>Cannabis </i>juice pur&#xe9;e <b>231</b> in the blender <b>221</b> of <figref idref="DRAWINGS">FIG. <b>14</b></figref>. The resulting mixture has generally uniform distribution of decarboxylated cannabinoids and non-decarboxylated cannabinoids that is deposited into the molds of the tray. No syringe <b>235</b> is needed using this technique.</p>
+<p id="p-0159" num="0158">In a fourth step (step <b>240</b>), the tray of molds having the <i>Cannabis </i>juice pur&#xe9;e and decarboxylated <i>Cannabis </i>infusion are frozen to form frozen <i>Cannabis </i>juice pur&#xe9;e cubes having non-decarboxylated cannabinoids and decarboxylated cannabinoids. For example, in <figref idref="DRAWINGS">FIG. <b>17</b></figref>, the tray <b>233</b> having the non-decarboxylated <i>Cannabis </i>juice pur&#xe9;e <b>231</b> and the decarboxylated <i>Cannabis </i>infusion <b>234</b> is placed in a freezer <b>242</b> so that the non-decarboxylated <i>Cannabis </i>juice pur&#xe9;e <b>231</b> and the decarboxylated <i>Cannabis </i>infusion <b>234</b> in each mold <b>232</b> of tray <b>233</b> can freeze. The temperature within freezer <b>242</b> is typically between 0.0&#xb0; F. and 5.0&#xb0; F., but may be less than 0.0&#xb0; F. Freezing the <i>Cannabis </i>juice pur&#xe9;e promotes preservation because harvested raw <i>Cannabis </i>material is not acceptable for consumption after three days, even when the <i>Cannabis </i>material is stored in a refrigerator. However, by freezing the <i>Cannabis </i>juice pur&#xe9;e to form frozen <i>Cannabis </i>juice pur&#xe9;e cubes, the shelf-life is extended for at least six months if the frozen <i>Cannabis </i>juice pur&#xe9;e cubes are properly stored in a freezer.</p>
+<p id="p-0160" num="0159">In a fifth step (step <b>250</b>), the cubes having non-decarboxylated cannabinoids and decarboxylated cannabinoids are packaged into a package. The frozen <i>Cannabis </i>juice pur&#xe9;e cubes are packaged in a vacuum sealed package, a bag, or a container having a detachable lid. For example, in <figref idref="DRAWINGS">FIG. <b>18</b></figref>, the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>251</b> are removed from the molds <b>232</b> of the tray <b>233</b> and are placed on vacuum sealed bag <b>252</b>. The vacuum sealed bag <b>252</b> is sealed by vacuum sealing machine <b>253</b> to form a vacuum sealed package having the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>251</b>.</p>
+<p id="p-0161" num="0160"><figref idref="DRAWINGS">FIG. <b>19</b></figref> is a perspective diagram of a package <b>254</b> with the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>251</b>. The frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>251</b> have non-decarboxylated cannabinoids and decarboxylated cannabinoids. The package <b>254</b> delivers the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>251</b> cheaply because the only packaging material involved is the vacuum sealed bag <b>252</b>. The package <b>254</b> provides for optimal storing, packing, and transporting because the packages are rectangular or square and have flat surfaces that allow the packages to be stacked above each other. The frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>251</b> consume over 95% of the total volume of package <b>254</b> allowing for maximum delivery of frozen <i>Cannabis </i>juice pur&#xe9;e cubes per shipment of packages.</p>
+<p id="p-0162" num="0161"><figref idref="DRAWINGS">FIG. <b>20</b></figref> is a side view of the package <b>254</b> with the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>251</b>. The package <b>254</b> has an upper portion <b>255</b> and a lower portion <b>256</b>. Each of the cubes <b>251</b> has an upper surface <b>257</b> and a lower surface <b>258</b>. Each upper surface <b>257</b> of the cubes contacts the upper portion <b>255</b> of the package <b>254</b> and each lower surface <b>258</b> of the cubes <b>251</b> contacts a lower portion <b>256</b> of the package <b>254</b>. No packaging material is disposed within the package.</p>
+<p id="p-0163" num="0162"><figref idref="DRAWINGS">FIG. <b>21</b></figref> is top view of the package <b>254</b> with the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>251</b>. The frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>251</b> are packaged in an array formation. Each of the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>251</b> has a substantially identical shape and each cube is adjacent to at least one other cube. Reference numeral <b>259</b> identifies a surface of one cube adjacent to a surface of another of the cubes. Each frozen <i>Cannabis </i>juice pur&#xe9;e cube has at least two surfaces that are adjacent to surfaces of at least two other cubes.</p>
+<p id="p-0164" num="0163">Reference numeral <b>260</b> identifies a frozen <i>Cannabis </i>juice pur&#xe9;e cube along a corner of the array of cubes <b>251</b> having a first surface that is adjacent to a surface of a second cube and a second surface that is adjacent to a surface of a third cube. Cube <b>260</b> has two surfaces each of which contacts a surface of one of two other cubes. Reference numeral <b>261</b> identifies a frozen <i>Cannabis </i>juice pur&#xe9;e cube along an edge of the array of cubes <b>251</b> having a first surface that is adjacent to a surface of a second cube, a second surface that is adjacent to a surface of a third cube, and a third surface that is adjacent to a surface of a fourth cube. Cube <b>261</b> has three surfaces each of which contacts a surface of one of three other cubes. Reference numeral <b>262</b> identifies a frozen <i>Cannabis </i>juice pur&#xe9;e cube at an inner portion of the array of cubes <b>251</b> having a first surface that is adjacent to a surface of a second cube, a second surface that is adjacent to a surface of a third cube, a third surface that is adjacent to a surface of a fourth cube, and a fourth surface that is adjacent to a surface of a fifth cube. Cube <b>262</b> has four surfaces each of which contacts a surface of one of four other cubes.</p>
+<p id="p-0165" num="0164">In accordance with at least one novel aspect, the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>251</b> are not contained in separate containers. No packaging material is present between the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>251</b>. Although a gap is shown between the cubes <b>251</b>, some or all of the cubes <b>251</b> may be directly contacting each other. The tight packing of the cubes <b>251</b> significantly reduces packaging, storing, and shipping costs.</p>
+<p id="p-0166" num="0165">In another example, the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>251</b> are loosely packed in a bag without vacuum sealing. Costs and packaging time are substantially reduced by not vacuum sealing. Not all of the cubes contact a surface of the bag. Some of the cubes in the bag are surrounded by other cubes and do not touch a surface of the bag. In yet another example, the frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>251</b> are loosely packed in a plastic container having a lid. Not all of the cubes contact a surface of the plastic container. Depending on the size of the container, the cubes may not contact the lid of the container.</p>
+<p id="p-0167" num="0166"><figref idref="DRAWINGS">FIG. <b>22</b>A</figref> is a perspective diagram of frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>251</b> having an amount of non-decarboxylated cannabinoids and an amount of decarboxylated cannabinoids. The amount of non-decarboxylated cannabinoids comprises an amount of tetrahydrocannabinolic acid (THCa) and an amount of cannabidiolic acid (CBDa). The amount of decarboxylated cannabinoids comprises an amount of tetrahydrocannabinol (THC) and an amount of cannabidiol (CBD). Each of cubes <b>251</b> is a frozen cube of one fluid ounce and has 10 mg of THCa, 1 mg of THC, 15 mg of CBDa, and 30 mg of CBD. In this example, the ratio of CBDa to THCa is 3:2 and the ratio of CBD to THC is 30:1. The amount of CBDa in each cube is greater than the amount of THCa, and the amount of CBD in each cube is greater than the amount of THC. The frozen <i>Cannabis </i>juice pur&#xe9;e cubes may be made to include or exclude non-cannabinoid components that include terpenes, fatty acids, aminoacids, enzymes, vitamins, minerals, carotenoids, chlorophyll, flavonoids, and dietary fibers.</p>
+<p id="p-0168" num="0167"><figref idref="DRAWINGS">FIG. <b>22</b>B</figref> is a perspective diagram of another embodiment of frozen structures of <i>Cannabis </i>juice pur&#xe9;e having decarboxylated <i>Cannabis </i>infusion and non-decarboxylated high concentrate <i>Cannabis </i>extract. In the example of <figref idref="DRAWINGS">FIG. <b>22</b>B</figref>, the frozen structures have 25 mg of non-decarboxylated cannabinoids from raw <i>Cannabis </i>plant, 31 mg of decarboxylated cannabinoids from decarboxylated <i>Cannabis </i>infusion, 500 mg of non-decarboxylated cannabinoids from non-decarboxylated high concentrate <i>Cannabis </i>extract. The added amount of non-decarboxylated high concentrate <i>Cannabis </i>extract substantially increases the amount of cannabinoids in each frozen structure. In this example, the non-decarboxylated high concentrate <i>Cannabis </i>extract adds an additional 500 mg of non-decarboxylated cannabinoids in each structure. The amount of non-decarboxylated cannabinoids from the non-decarboxylated high concentrate <i>Cannabis </i>extract is at least ten times the amount of non-decarboxylated cannabinoids derived from the raw <i>Cannabis </i>plant. The high concentrate <i>Cannabis </i>extract is obtained through numerous processes and included in the frozen structures as explained above in connection with <figref idref="DRAWINGS">FIG. <b>10</b>B</figref>.</p>
+<p id="p-0169" num="0168"><figref idref="DRAWINGS">FIG. <b>22</b>C</figref> is a perspective diagram of another embodiment of frozen structures of <i>Cannabis </i>juice pur&#xe9;e having decarboxylated high concentrate <i>Cannabis </i>extract. In the example of <figref idref="DRAWINGS">FIG. <b>22</b>C</figref>, the frozen structures have 25 mg of non-decarboxylated cannabinoids from raw <i>Cannabis </i>plant and 105 mg of decarboxylated cannabinoids from decarboxylated high concentrate <i>Cannabis </i>extract. The added amount of decarboxylated high concentrate <i>Cannabis </i>extract substantially increases the amount of cannabinoids in each frozen structure. In this example, the decarboxylated high concentrate <i>Cannabis </i>extract adds an additional 105 mg of decarboxylated cannabinoids to each structure. The decarboxylated high concentrate <i>Cannabis </i>extract is obtained by heating the high concentrate <i>Cannabis </i>extract obtained through numerous processes described above in connection with <figref idref="DRAWINGS">FIG. <b>10</b>B</figref>. A few techniques are described below.</p>
+<p id="p-0170" num="0169">The high concentrate <i>Cannabis </i>extract is decarboxylated by first heating the non-decarboxylated high concentrate <i>Cannabis </i>extract on a dish in an oven at temperatures between 212&#xb0; F. and 340&#xb0; F. The high concentrate <i>Cannabis </i>extract becomes decarboxylated as a result of heating thus converting the THCa and CBDa to THC and CBD, respectively, as well as other decarboxylated cannabinoids. This results in a substantially high potency of THC and CBD, for example, approximately 30% and 60% decarboxylated cannabinoids per gram. In a second technique, the <i>Cannabis </i>flower and flower trim can also be decarboxylated in an oven at temperatures between 212&#xb0; F. and 340&#xb0; F. This would result in plant material being decarboxylated at between about 10% and 30% decarboxylated cannabinoids per gram. The percentage yield in this technique is less due to plant material. In a third technique, the high concentrate <i>Cannabis </i>extract or <i>Cannabis </i>flower can also be added to a food grade oil mixture and heated to between 212&#xb0; F. and 340&#xb0; F. Such food grade oil mixture is selected from the group consisting of olive oil, coconut oil, avocado oil, or similar cooking oil. A crockpot or pressure cooker can be employed to heat the oils. The result of this technique is an infused oil that contains decarboxylated cannabinoids comprising between 100 mg and 300 mg of cannabinoids per fluid ounce.</p>
+<p id="p-0171" num="0170">To incorporate the decarboxylated high concentrate <i>Cannabis </i>into the frozen structures, several techniques may be employed. In one example, while pouring the <i>Cannabis </i>juice pur&#xe9;e into the molds, an amount of decarboxylated high concentrate <i>Cannabis </i>extract is weighed and added into each of the individual molds. For example, the <i>Cannabis </i>juice pur&#xe9;e is filled to half the volume of the mold. Next, the decarboxylated high concentrate <i>Cannabis </i>extract is deposited. Next, the remainder of the mold is filled with the <i>Cannabis </i>juice pur&#xe9;e. This would maintain the decarboxylated high concentrate <i>Cannabis </i>extract within a center of the frozen <i>Cannabis </i>juice pur&#xe9;e cubes. In another example, while blending the raw <i>Cannabis </i>material, decarboxylated high concentrate <i>Cannabis </i>extract is added to the entire <i>Cannabis </i>juice pur&#xe9;e. The resulting <i>Cannabis </i>juice pur&#xe9;e would have a uniform amount of the decarboxylated high concentrate <i>Cannabis </i>extract. This is not as preferred, as some of the valuable decarboxylated high concentrate <i>Cannabis </i>extract could be lost in the residue on the side of the mixing or blending apparatus. Depending on the potency desired, any amount of decarboxylated high concentrate <i>Cannabis </i>extract can be added to the <i>Cannabis </i>juice pur&#xe9;e.</p>
+<p id="p-0172" num="0171">The amounts and types of cannabinoids varies and is selected according to the desired potency and amount desired. For example, non-decarboxylated frozen <i>Cannabis </i>juice pur&#xe9;e cubes that do not have the high concentrate <i>Cannabis </i>extract range between 5 mg and 200 mg of non-decarboxylated cannabinoid per fluid ounce of cube. Non-decarboxylated frozen <i>Cannabis </i>juice pur&#xe9;e cubes that do have the high concentrate <i>Cannabis </i>extract range between 5 mg and 2,500 mg of non-decarboxylated cannabinoid per fluid ounce of cube. Decarboxylated frozen <i>Cannabis </i>juice pur&#xe9;e cubes that have the high concentrate <i>Cannabis </i>extract range between 5 mg and 2,500 mg of non-decarboxylated cannabinoids per fluid ounce of cube and between 5 mg and 2,500 mg of decarboxylated cannabinoids per fluid ounce of cube. Decarboxylated frozen <i>Cannabis </i>juice pur&#xe9;e cubes that have the decarboxylated oil or flower described above range between 5 mg and 2,500 mg of non-decarboxylated cannabinoids per fluid ounce of cube and between 5 mg and 2,500 mg of decarboxylated cannabinoids per fluid ounce of cube.</p>
+<p id="p-0173" num="0172"><figref idref="DRAWINGS">FIG. <b>22</b>D</figref> is a perspective diagram of another embodiment of frozen structures of <i>Cannabis </i>juice pur&#xe9;e having decarboxylated high concentrate <i>Cannabis </i>extract and non-decarboxylated high concentrate <i>Cannabis </i>extract. In the example of <figref idref="DRAWINGS">FIG. <b>22</b>D</figref>, the frozen structures have 25 mg of non-decarboxylated cannabinoids from raw <i>Cannabis </i>plant, 105 mg of decarboxylated cannabinoids from decarboxylated high concentrate <i>Cannabis </i>extract, and 500 mg of non-decarboxylated cannabinoids from non-decarboxylated high concentrate <i>Cannabis </i>extract.</p>
+<p id="p-0174" num="0173"><figref idref="DRAWINGS">FIG. <b>23</b></figref> is a table <b>263</b> showing two general types of decarboxylated cannabinoids, THC and CBD, along with their chemical names and structural formulas. The decarboxylated cannabinoids are formed through a decarboxylation process that removes the carboxyl group (COOH).</p>
+<p id="p-0175" num="0174"><figref idref="DRAWINGS">FIG. <b>24</b></figref> is a flowchart of a method <b>300</b> in accordance with another novel aspect. In a first step (step <b>310</b>), a plurality of packages having frozen structures of <i>Cannabis </i>juice pur&#xe9;e is stored. For example, in <figref idref="DRAWINGS">FIG. <b>25</b></figref>, a plurality of packages <b>311</b> is stored in a freezer <b>312</b>. The packages <b>311</b> are stored by stacking each package above another package. For example, package <b>313</b> is disposed above package <b>314</b>. Package <b>315</b> is to be placed above package <b>313</b>. Each of the packages comprises a plurality of frozen <i>Cannabis </i>juice pur&#xe9;e cubes <b>316</b>. At least one of the frozen <i>Cannabis </i>juice pur&#xe9;e cubes contacts the package. Each package has at least two flat surfaces due to the uniform size and shape of each cube <b>316</b>. Accordingly, the packages <b>311</b> stack compactly in the freezer <b>312</b>. If, on the other hand, the cubes within in each package were not uniform in size and shape, then the packages would not have flat surfaces adapted for stacking. Additionally, by not placing each cube in a separate package and by not including any additional packaging materials between the package <b>315</b> and each cube <b>316</b>, each package consumes minimal space in freezer <b>312</b> thereby increasing the number of packages that can be stored per unit volume of storage capacity.</p>
+<p id="p-0176" num="0175"><figref idref="DRAWINGS">FIG. <b>26</b></figref> is a perspective diagram of a tray <b>400</b> having a plurality of molds <b>401</b>. All of the molds <b>401</b> have a substantially identical structure thereby yielding cubes having a consistent size and dosage of cannabinoids. In this example, each mold is cubic shaped and holds one fluid ounce. In other embodiments, the molds may be smaller or larger depending on the desired size of the cubes. The volume of each mold <b>401</b> is typically between 0.125 cubic inches (0.5 inches&#xd7;0.5 inches&#xd7;0.5 inches) and 8.0 cubic inches (2.0 inches&#xd7;2.0 inches&#xd7;2.0 inches). An artisan of ordinary skill appreciates that the molds may be larger or shaped differently. Other trays may be selected that frozen structures of <i>Cannabis </i>juice pur&#xe9;e of between 0.1 fluid ounce and 5.0 fluid ounces of <i>Cannabis </i>juice pur&#xe9;e.</p>
+<p id="p-0177" num="0176"><figref idref="DRAWINGS">FIG. <b>27</b></figref> is a top view of the tray <b>400</b> having a plurality of molds <b>401</b>.</p>
+<p id="p-0178" num="0177">Other frozen structures of <i>Cannabis </i>juice pur&#xe9;e may be formed having different shapes. <figref idref="DRAWINGS">FIGS. <b>28</b>-<b>36</b></figref> show how the frozen structures may be formed into various other shapes that are non-cubic.</p>
+<p id="p-0179" num="0178"><figref idref="DRAWINGS">FIG. <b>28</b></figref> is a top view of a tray <b>403</b> having a plurality of cylindrical shaped molds.</p>
+<p id="p-0180" num="0179"><figref idref="DRAWINGS">FIG. <b>29</b></figref> is a top view of a tray <b>404</b> having a plurality of rectangular shaped molds.</p>
+<p id="p-0181" num="0180"><figref idref="DRAWINGS">FIG. <b>30</b></figref> is a top view of a tray <b>405</b> having a plurality of hexagonal shaped molds.</p>
+<p id="p-0182" num="0181"><figref idref="DRAWINGS">FIG. <b>31</b></figref> is a top view of a tray <b>406</b> having a plurality of triangular shaped molds.</p>
+<p id="p-0183" num="0182"><figref idref="DRAWINGS">FIG. <b>32</b></figref> is a top view of a tray <b>407</b> having a plurality of star shaped molds.</p>
+<p id="p-0184" num="0183"><figref idref="DRAWINGS">FIG. <b>33</b></figref> is a top view of a tray <b>408</b> having a plurality of trapezoidal shaped molds.</p>
+<p id="p-0185" num="0184"><figref idref="DRAWINGS">FIG. <b>34</b></figref> is a top view of a tray <b>409</b> having a plurality of concave shaped molds.</p>
+<p id="p-0186" num="0185"><figref idref="DRAWINGS">FIG. <b>35</b></figref> is a top view of a tray <b>410</b> having a plurality of parallelogram shaped molds.</p>
+<p id="p-0187" num="0186"><figref idref="DRAWINGS">FIG. <b>36</b></figref> is a top view of a tray <b>411</b> having a plurality of leaf shaped molds.</p>
+<p id="p-0188" num="0187"><figref idref="DRAWINGS">FIG. <b>37</b></figref> is a diagram of a conventional coconut milk based <i>Cannabis </i>ice cream <b>420</b>. The coconut milk based <i>Cannabis </i>ice cream <b>420</b> is packaged in a container <b>421</b> having a lid <b>422</b>. The conventional coconut milk based <i>Cannabis </i>ice cream <b>420</b> is available from Ohana Farms at (http://www.ohanaedu.org/index.php/products/cbd-cubes/). The conventional coconut milk based <i>Cannabis </i>ice cream <b>420</b> has a soft, ice-cream texture and requires separate packaging for each dose of ice cream <b>420</b>.</p>
+<p id="p-0189" num="0188"><figref idref="DRAWINGS">FIG. <b>38</b></figref> is a diagram showing how the container <b>421</b> is placed onto a container holder <b>423</b>. The container holder <b>423</b> includes a retainer opening <b>424</b> into which the container <b>421</b> is placed. The container holder <b>423</b> includes six retainer openings and holds up to six of the containers <b>421</b>.</p>
+<p id="p-0190" num="0189"><figref idref="DRAWINGS">FIG. <b>39</b></figref> is a diagram showing how the container holder <b>423</b> having six containers is placed into a package <b>425</b>. The container holder <b>423</b> having the six containers is inserted via opening <b>426</b>. After the container holder <b>423</b> having the six containers is inside the package <b>425</b>, the package <b>425</b> is sealed.</p>
+<p id="p-0191" num="0190"><figref idref="DRAWINGS">FIG. <b>40</b></figref> is a diagram of the package <b>425</b> containing the container holder <b>423</b> having the six containers with coconut milk based <i>Cannabis </i>ice creams.</p>
+<p id="p-0192" num="0191"><figref idref="DRAWINGS">FIG. <b>41</b></figref> is a table <b>500</b> showing the advantages of novel package <b>154</b> (shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>) and novel package <b>254</b> (shown in <figref idref="DRAWINGS">FIG. <b>19</b></figref>) over the conventional package <b>425</b> shown in <figref idref="DRAWINGS">FIG. <b>40</b></figref>. The novel packages <b>154</b> and <b>254</b> exhibit advantages with respect to storage capacity, packaging costs, waste generation, and quantity of cubes per package.</p>
+<p id="p-0193" num="0192">The novel packages <b>154</b> and <b>254</b> utilize minimal storage capacity as compared to the conventional package <b>425</b>. The novel packages <b>154</b> and <b>254</b> have at least two flat surfaces allowing several of the novel packages <b>154</b> and <b>254</b> to be stacked above each other. The conventional package <b>425</b>, on the other hand, does not have flat surfaces and does not provide an advantageous utilization of storage space.</p>
+<p id="p-0194" num="0193">The novel packages <b>154</b> and <b>254</b> involve minimal packaging costs as compared to the conventional package <b>425</b>. The only packaging involved is the vacuum seal bag, resealable bag, or container in which the novel cubes are stored. At least one of the frozen <i>Cannabis </i>juice pur&#xe9;e cubes contacts the package. No additional packaging is inserted between the cubes. No additional packaging is inserted between the cubes and the outer package. The conventional package <b>425</b>, on the other hand, has substantial packaging. For example, each cannabinoid structure is individually packaged in a separate container and covered with a lid. In addition, each of the individual containers is then placed onto a holder. Therefore, the conventional package <b>425</b> has significantly greater packaging costs than the novel packages <b>154</b> and <b>254</b>.</p>
+<p id="p-0195" num="0194">The novel packages <b>154</b> and <b>254</b> generate minimal waste as compared to the conventional package <b>425</b>. The novel packages <b>154</b> and <b>254</b> only generate waste from a single package, such as a bag, vacuum sealed bag, or container. The novel packages <b>154</b> and <b>254</b> may have a label disposed on an outer surface, but no other waste is generated because the entire contents of the novel packages <b>154</b> and <b>254</b> are consumed. The conventional package <b>425</b>, on the other hand, generates substantial waste as compared to the novel packages <b>154</b> and <b>254</b> because of all of the packaging, including six containers, six lids, the container holder, and the outer packaging.</p>
+<p id="p-0196" num="0195">The novel packages <b>154</b> and <b>254</b> deliver significantly more cannabinoids per unit volume of packaging as compared to the conventional package <b>425</b>. A single one of the novel packages <b>154</b> and <b>254</b> delivers twenty cubes due, in part, to the minimal packaging involved. The conventional package <b>425</b>, on the other hand, only carries six coconut milk based <i>Cannabis </i>ice creams.</p>
+<p id="p-0197" num="0196"><figref idref="DRAWINGS">FIG. <b>42</b></figref> is a flowchart of a method <b>600</b> in accordance with a third embodiment. The method <b>600</b> is a method of manufacturing and packaging a frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e. In one specific embodiment, the packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e has an amount of non-decarboxylated cannabinoids and is non-psychoactive. In another specific embodiment, the packaged frozen ice pops of <i>Cannabis </i>juice pur&#xe9;e has an amount of non-decarboxylated cannabinoids and an amount of decarboxylated cannabinoids. The amount of decarboxylated cannabinoids in each ice pop is at least 5 mg. Decarboxylated <i>Cannabis </i>infusion, non-decarboxylated high concentrate <i>Cannabis </i>extract, or decarboxylated high concentrate <i>Cannabis </i>extract are optionally added to the frozen ice pops of <i>Cannabis </i>juice pur&#xe9;e.</p>
+<p id="p-0198" num="0197">In a first step (step <b>610</b>), a <i>Cannabis </i>juice pur&#xe9;e is formed. To form a frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e that is non-psychoactive, raw <i>Cannabis </i>material having an amount of non-decarboxylated cannabinoids is collected. For example, in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, raw <i>Cannabis </i>material <b>112</b> is collected by trimming leaves <b>113</b> from the <i>Cannabis </i>plant <b>111</b>, and in <figref idref="DRAWINGS">FIG. <b>3</b></figref>, the raw <i>Cannabis </i>material <b>112</b> is blended in a blender <b>121</b> with water <b>122</b> and a thickening agent <b>123</b> to form a <i>Cannabis </i>juice pur&#xe9;e.</p>
+<p id="p-0199" num="0198">To form a packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e that has decarboxylated cannabinoids, a portion of the collected raw <i>Cannabis </i>material is heated. For example, in <figref idref="DRAWINGS">FIG. <b>13</b></figref>, raw <i>Cannabis </i>material <b>211</b> is collected from a first <i>Cannabis </i>plant <b>212</b> and a second <i>Cannabis </i>plant <b>213</b>. A first portion <b>214</b> of the raw <i>Cannabis </i>material <b>211</b> is obtained from the first <i>Cannabis </i>plant <b>212</b>. Next, the first portion of raw <i>Cannabis </i>material <b>214</b> is blended in a blender <b>221</b> with water <b>222</b> and a thickening agent <b>223</b> to form a non-decarboxylated <i>Cannabis </i>juice pur&#xe9;e as shown in <figref idref="DRAWINGS">FIG. <b>14</b></figref>. Next, a second portion <b>216</b> of the raw <i>Cannabis </i>material <b>211</b> is obtained from the second <i>Cannabis </i>plant <b>213</b> as shown in <figref idref="DRAWINGS">FIG. <b>13</b></figref>. Next, the second portion of collected raw <i>Cannabis </i>material is heated to form a decarboxylated <i>Cannabis </i>infusion, as shown for example in <figref idref="DRAWINGS">FIG. <b>15</b></figref>. The non-decarboxylated <i>Cannabis </i>juice pur&#xe9;e and decarboxylated <i>Cannabis </i>infusion are combined prior to freezing.</p>
+<p id="p-0200" num="0199">In both the non-decarboxylated and decarboxylated embodiments of the packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e, a sweetening agent is optionally added to the <i>Cannabis </i>juice pur&#xe9;e. The sweetening agent is selected from the group consisting of honey, <i>stevia</i>, fruit juice, sugar, corn syrup, or any other type of food grade sweetener. The sweetening agent provides a frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e that is more palatable than if the sweetening agent were not included. Flavoring agents are optionally added to the packaged <i>Cannabis </i>juice pur&#xe9;e, such as fruit flavor, spice (apple, cherry, mint, tart, etc.), or any other type of food grade flavoring. Fruit juice, fruit, or vegetable material may also be added, such as blueberries, blueberry juice, carrots, or carrot juice.</p>
+<p id="p-0201" num="0200">In a second step (step <b>620</b>), the <i>Cannabis </i>juice pur&#xe9;e is deposited into a container. In one example, the container is a tube shaped container made of a flexible material. For example, in <figref idref="DRAWINGS">FIG. <b>43</b></figref>, the <i>Cannabis </i>juice pur&#xe9;e <b>621</b> is deposited into container <b>622</b> through opening <b>623</b>. The container <b>622</b> is a tube shaped container formed from a thermoplastic polymer such as polypropylene plastic resin. In one example, the opening <b>623</b> of the container <b>622</b> is resealable. The container <b>622</b> with the resealable opening <b>623</b> is available from the following internet address: http://zipzicles.com/. In one example, the opening <b>623</b> of the container <b>622</b> is not resealable and is permanently sealed after the <i>Cannabis </i>juice pur&#xe9;e <b>621</b> is deposited into the container <b>622</b>.</p>
+<p id="p-0202" num="0201">In a third step (step <b>630</b>), the container having the <i>Cannabis </i>juice pur&#xe9;e is frozen to form a packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e. For example, in <figref idref="DRAWINGS">FIG. <b>44</b></figref> the container <b>622</b> having the <i>Cannabis </i>juice pur&#xe9;e <b>621</b> is placed in a freezer <b>631</b> so that the <i>Cannabis </i>juice pur&#xe9;e <b>621</b> in the container <b>622</b> can freeze. The temperature within freezer <b>631</b> is typically between 0.0&#xb0; F. and 5.0&#xb0; F., but may be less than 0.0&#xb0; F. Freezing the <i>Cannabis </i>juice pur&#xe9;e promotes preservation because harvested raw <i>Cannabis </i>material is not acceptable for consumption after three days, even when the <i>Cannabis </i>material is stored in a refrigerator. However, by freezing the <i>Cannabis </i>juice pur&#xe9;e to form the packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e, the shelf-life is extended for at least six months if properly stored in a freezer.</p>
+<p id="p-0203" num="0202"><figref idref="DRAWINGS">FIG. <b>45</b>A</figref> is a perspective diagram of the packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>632</b> with only non-decarboxylated cannabinoids. The frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>632</b> has a cannabinoid profile <b>633</b>. The packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>632</b> is formed by carrying out the steps set forth in method <b>600</b> such that the <i>Cannabis </i>juice pur&#xe9;e in the first step (step <b>610</b>) has only raw, blended <i>Cannabis </i>material. None of the collected <i>Cannabis </i>material is heated. The packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>632</b> does not include any decarboxylated cannabinoids and the packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>632</b> is not psychoactive. In this example, frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>632</b> has 30 mg of THCa per 3 fluid ounces and 45 mg of CBDa per 3 fluid ounces. The ratio of CBDa to THCa is 3:2. The amount of CBDa in each ice pop is greater than the amount of THCa, and the amount of CBD in each ice pop is greater than the amount of THC. In other embodiments, each ice pop has ratio of CBDa to THCa taken from the group consisting of: 2 CBDa to 1 THCa, 1 CBDa to 1 THCa, 1 CBDa to 2 THCa, 1 CBDa to 3 THCa, 3 CBDa to 1 THCa, 0 CBDa to 1 THCa (no CBDa, only THCa), and 1 CBDa to 0 THCa (no THCa, only CBDa). The frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e may be made to include or exclude non-cannabinoid components of the <i>Cannabis </i>plant that include terpenes, fatty acids, aminoacids, enzymes, vitamins, minerals, carotenoids, chlorophyll, flavonoids, and dietary fibers. In yet other embodiments, the frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e has between 1 mg and 500 mg of THCa and between 1 mg and 500 mg of CBDa. Non-decarboxylated high concentrate <i>Cannabis </i>extract may also be added to the frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e to achieve high concentrations of non-decarboxylated cannabinoids.</p>
+<p id="p-0204" num="0203"><figref idref="DRAWINGS">FIG. <b>45</b>B</figref> is a perspective diagram of another embodiment of a packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e with added non-decarboxylated high concentrate <i>Cannabis </i>extract. In the example of <figref idref="DRAWINGS">FIG. <b>45</b>B</figref>, the packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e has 75 mg of non-decarboxylated cannabinoids from raw <i>Cannabis </i>plant and 1,500 mg of non-decarboxylated cannabinoids from non-decarboxylated high concentrate <i>Cannabis </i>extract.</p>
+<p id="p-0205" num="0204"><figref idref="DRAWINGS">FIG. <b>46</b>A</figref> is a perspective diagram of a packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>634</b> with added decarboxylated cannabinoids. The packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>634</b> is formed by carrying out the steps set forth in method <b>600</b> such that the <i>Cannabis </i>juice pur&#xe9;e in the first step (step <b>610</b>) has raw, blended <i>Cannabis </i>material in addition to decarboxylated <i>Cannabis </i>infusion. The packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>634</b> includes non-decarboxylated cannabinoids and decarboxylated cannabinoids. In this example, packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>634</b> has 75 mg of non-decarboxylated cannabinoids from raw <i>Cannabis </i>plant and 95 mg of decarboxylated cannabinoids from decarboxylated <i>Cannabis </i>infusion.</p>
+<p id="p-0206" num="0205"><figref idref="DRAWINGS">FIG. <b>46</b>B</figref> is a perspective diagram of another embodiment of a packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e with added decarboxylated <i>Cannabis </i>infusion and non-decarboxylated high concentrate <i>Cannabis </i>extract. In the example of <figref idref="DRAWINGS">FIG. <b>46</b>B</figref>, the packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e has 75 mg of non-decarboxylated cannabinoids from raw <i>Cannabis </i>plant, 95 mg of decarboxylated cannabinoids from decarboxylated <i>Cannabis </i>infusion, and 1,500 mg of non-decarboxylated cannabinoids from non-decarboxylated high concentrate <i>Cannabis </i>extract.</p>
+<p id="p-0207" num="0206"><figref idref="DRAWINGS">FIG. <b>46</b>C</figref> is a perspective diagram of another embodiment of a packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e with added decarboxylated high concentrate <i>Cannabis </i>extract. In the example of <figref idref="DRAWINGS">FIG. <b>46</b>C</figref>, the packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e has 75 mg of non-decarboxylated cannabinoids from raw <i>Cannabis </i>plant and 310 mg of decarboxylated cannabinoids from decarboxylated high concentrate <i>Cannabis </i>extract.</p>
+<p id="p-0208" num="0207"><figref idref="DRAWINGS">FIG. <b>46</b>D</figref> is a perspective diagram of another embodiment of a packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e with added decarboxylated high concentrate <i>Cannabis </i>extract and non-decarboxylated high concentrate <i>Cannabis </i>extract. In the example of <figref idref="DRAWINGS">FIG. <b>46</b>D</figref>, the packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e has 75 mg of non-decarboxylated cannabinoids from raw <i>Cannabis </i>plant, 310 mg of decarboxylated cannabinoids from decarboxylated high concentrate <i>Cannabis </i>extract, and 1,500 mg of non-decarboxylated cannabinoids from non-decarboxylated high concentrate <i>Cannabis </i>extract.</p>
+<p id="p-0209" num="0208"><figref idref="DRAWINGS">FIG. <b>47</b></figref> is a diagram of a user <b>635</b> consuming the packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>632</b>/<b>634</b>. The user <b>635</b> opens the top of the container <b>622</b> thereby forming an opening <b>623</b>. The frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>636</b> passes through the opening for the user <b>635</b> to consume. In this example the opening <b>623</b> is resealable such that the user <b>635</b> can consume a portion of the packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>632</b>/<b>634</b>, reseal the top, and store the partially consumed packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>632</b>/<b>634</b> in a freezer for future consumption.</p>
+<p id="p-0210" num="0209"><figref idref="DRAWINGS">FIG. <b>48</b></figref> is a diagram of a side view of the packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>632</b>/<b>634</b>. The container <b>622</b> has an upper extent <b>637</b>, a lower extent <b>638</b>, a first side extent <b>639</b>, and a second side extent <b>640</b>. The frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>636</b> is disposed within an inner portion <b>641</b>. The frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>636</b> directly contacts the inner portion <b>641</b> of container <b>622</b>. No packaging material is disposed between the frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>636</b> and the inner portion <b>641</b> of container <b>622</b>. The packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>632</b>/<b>634</b> includes a resealable mechanism <b>642</b>. The resealable mechanism <b>642</b> is similar to the resealable mechanisms provided in zipper storage bags or slider storage bags.</p>
+<p id="p-0211" num="0210">In this example, the packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>632</b>/<b>634</b> is between 1.0 to 2.0 inches wide (dimension of upper and lower extents <b>637</b>/<b>638</b>) and between 7.0 and 9.0 inches long (dimension of side extents <b>639</b>/<b>640</b>). Each of the first and second side extents <b>639</b> and <b>640</b> is at least three times a length of each of the upper and lower extents <b>637</b> and <b>638</b>. The upper extent <b>637</b> extends parallel to the lower extent <b>638</b>. The first side extent <b>639</b> extends parallel to the second side extents <b>640</b>. The packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>632</b>/<b>634</b> has a rectangular shaped when viewed from the side perspective of <figref idref="DRAWINGS">FIG. <b>48</b></figref>.</p>
+<p id="p-0212" num="0211"><figref idref="DRAWINGS">FIG. <b>49</b></figref> is a diagram of a top view of the packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>632</b>/<b>634</b>. The packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>632</b>/<b>634</b> has an edge portion <b>643</b> having a first thickness <b>644</b>. The packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>632</b>/<b>634</b> has a center portion <b>645</b> having a second thickness <b>646</b>. The second thickness <b>646</b> is at least ten times the first thickness <b>644</b>. The packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>632</b>/<b>634</b> has an oval shape when viewed from the top perspective of <figref idref="DRAWINGS">FIG. <b>49</b></figref>.</p>
+<p id="p-0213" num="0212"><figref idref="DRAWINGS">FIG. <b>50</b></figref> is a diagram of a side view of another embodiment of a packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>650</b> having a container <b>651</b> that is not resealable. A frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>652</b> is disposed within container <b>651</b>. The packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>650</b> has a top portion <b>653</b> that does not include a resealable mechanism as in the packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>632</b>/<b>634</b> shown in <figref idref="DRAWINGS">FIG. <b>47</b></figref>. A user tears the top portion <b>653</b> of the container <b>651</b> to provide an opening so that the frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>652</b> passes through the opening and is consumed by the user.</p>
+<p id="p-0214" num="0213"><figref idref="DRAWINGS">FIG. <b>51</b></figref> is a flowchart of a method <b>700</b> to package a plurality of packaged frozen ice pops of <i>Cannabis </i>juice pur&#xe9;e. In a first step (step <b>710</b>), a plurality of packaged frozen ice pops of <i>Cannabis </i>juice pur&#xe9;e is packaged into a container. For example, in <figref idref="DRAWINGS">FIG. <b>52</b></figref>, a plurality of packaged frozen ice pops of <i>Cannabis </i>juice pur&#xe9;e <b>711</b> is placed inside a package <b>712</b>. The plurality of packaged frozen ice pops of <i>Cannabis </i>juice pur&#xe9;e <b>711</b> is disposed within the package <b>712</b>. An amount of instructions is included with the package. In one example, the amount of instructions is provided on a label <b>713</b> affixed or printed directly onto the package and instructs the user on the types and amounts of cannabinoids present in each frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e. In another example, a label is also printed or affixed onto each of the plurality of packaged frozen ice pops of <i>Cannabis </i>juice pur&#xe9;e <b>711</b>. The amount of instructions may also instruct a user on how to consume the frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e as well as provide information regarding health benefits and possible side effects.</p>
+<p id="p-0215" num="0214"><figref idref="DRAWINGS">FIG. <b>53</b></figref> is a flowchart of a method <b>800</b> to store packages comprising a plurality of packaged frozen ice pops of <i>Cannabis </i>juice pur&#xe9;e. For example, in a first step (step <b>810</b>), a plurality of packaged frozen ice pops of <i>Cannabis </i>juice pur&#xe9;e are stored at a temperature that prevents the packaged frozen ice pops of <i>Cannabis </i>juice pur&#xe9;e from melting. For example, in <figref idref="DRAWINGS">FIG. <b>54</b></figref>, a plurality of packages <b>811</b> is stored in a freezer <b>812</b>. The packages <b>811</b> are stored by arranging each package in a compartment of the freezer <b>812</b>. The stored packages <b>813</b> are stored until they are to be distributed to dispensaries or users.</p>
+<p id="p-0216" num="0215"><figref idref="DRAWINGS">FIG. <b>55</b></figref> is a flowchart of a method <b>900</b> in accordance with a fourth embodiment. The method <b>900</b> is a method of manufacturing and packaging a <i>Cannabis </i>juice pur&#xe9;e. In one specific embodiment, the packaged <i>Cannabis </i>juice pur&#xe9;e has an amount of non-decarboxylated cannabinoids and is non-psychoactive. In another specific embodiment, the packaged <i>Cannabis </i>juice pur&#xe9;e has an amount of non-decarboxylated cannabinoids and an amount of decarboxylated cannabinoids. The amount of decarboxylated cannabinoids in each packaged <i>Cannabis </i>juice pur&#xe9;e is at least 5 mg. The packaged <i>Cannabis </i>juice pur&#xe9;e is not frozen and can be stored at room temperature or in a refrigerator until opened.</p>
+<p id="p-0217" num="0216">In a first step (step <b>910</b>), a <i>Cannabis </i>juice pur&#xe9;e is formed. To form a packaged <i>Cannabis </i>juice pur&#xe9;e that is non-psychoactive, raw <i>Cannabis </i>material having an amount of non-decarboxylated cannabinoids is collected. For example, in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, raw <i>Cannabis </i>material <b>112</b> is collected by trimming leaves <b>113</b> from the <i>Cannabis </i>plant <b>111</b>, and in <figref idref="DRAWINGS">FIG. <b>3</b></figref>, the raw <i>Cannabis </i>material <b>112</b> is blended in a blender <b>121</b> with water <b>122</b> and a thickening agent <b>123</b> to form a <i>Cannabis </i>juice pur&#xe9;e.</p>
+<p id="p-0218" num="0217">To form a packaged <i>Cannabis </i>juice pur&#xe9;e that is psychoactive, a portion of the collected raw <i>Cannabis </i>material is heated. For example, in <figref idref="DRAWINGS">FIG. <b>13</b></figref>, raw <i>Cannabis </i>material <b>211</b> is collected from a first <i>Cannabis </i>plant <b>212</b> and a second <i>Cannabis </i>plant <b>213</b>. A first portion <b>214</b> of the raw <i>Cannabis </i>material <b>211</b> is obtained from the first <i>Cannabis </i>plant <b>212</b>. Next, the first portion of raw <i>Cannabis </i>material <b>214</b> is blended in a blender <b>221</b> with water <b>222</b> and a thickening agent <b>223</b> to form a non-decarboxylated <i>Cannabis </i>juice pur&#xe9;e as shown in <figref idref="DRAWINGS">FIG. <b>14</b></figref>. Next, a second portion <b>216</b> of the raw <i>Cannabis </i>material <b>211</b> is obtained from the second <i>Cannabis </i>plant <b>213</b> as shown in <figref idref="DRAWINGS">FIG. <b>13</b></figref>. Next, the second portion of collected raw <i>Cannabis </i>material is heated, as shown for example in <figref idref="DRAWINGS">FIG. <b>15</b></figref>. The non-decarboxylated <i>Cannabis </i>juice pur&#xe9;e is combined with the decarboxylated <i>Cannabis </i>juice pur&#xe9;e prior to packaging.</p>
+<p id="p-0219" num="0218">In both the non-decarboxylated embodiment and the decarboxylated embodiment of the packaged <i>Cannabis </i>juice pur&#xe9;e, a sweetening agent or flavoring agent is optionally added to the <i>Cannabis </i>juice pur&#xe9;e. The sweetening agent is selected from the group consisting of honey, <i>stevia</i>, fruit juice, sugar, corn syrup, or any other type of food grade sweetener. The sweetening agent provides a cannabinoid juice blend that is more palatable than if the sweetening agent were not included. Flavoring agents are optionally added to the packaged <i>Cannabis </i>juice pur&#xe9;e, such as fruit flavor, spice (apple, cherry, mint, tart, etc.), or any other type of food grade flavoring. Fruit juice, fruit, or vegetable material may also be added, such as blueberries, blueberry juice, carrots, or carrot juice.</p>
+<p id="p-0220" num="0219">In a second step (step <b>920</b>), the <i>Cannabis </i>juice pur&#xe9;e is deposited into a container. In one example, the container is a cylindrical shaped structure having a lid. The container <b>921</b> is formed from a glass material, a plastic material, or a paper-based material. For example, in <figref idref="DRAWINGS">FIG. <b>56</b></figref>, the <i>Cannabis </i>juice pur&#xe9;e <b>921</b> is deposited into a container <b>922</b> through opening <b>923</b>.</p>
+<p id="p-0221" num="0220">In a third step (step <b>930</b>), the container having the <i>Cannabis </i>juice pur&#xe9;e is packaged without heating the <i>Cannabis </i>juice pur&#xe9;e. For example, in <figref idref="DRAWINGS">FIG. <b>57</b></figref>, the <i>Cannabis </i>juice pur&#xe9;e <b>921</b> is packaged using high pressure processing (HPP) without applying heat thereby preventing the <i>Cannabis </i>juice pur&#xe9;e <b>921</b> from decarboxylating during the packaging process. Conventional pasteurization methods, on the other hand, apply heat which may undesirably decarboxylate the cannabinoids in the <i>Cannabis </i>juice pur&#xe9;e.</p>
+<p id="p-0222" num="0221">During the HPP process, the <i>Cannabis </i>juice pur&#xe9;e <b>921</b> is loaded into a high pressure chamber filled with pressure transmitting fluid. In one example, the pressure transmitting fluid is water. The generated pressure is applied to the <i>Cannabis </i>juice pur&#xe9;e <b>921</b>. A lid <b>924</b> is used to seal the opening <b>923</b> of the container <b>922</b>. For additional information on HPP, see: (1) U.S. Pat. No. 9,277,763, entitled &#x201c;Biopreservation Methods For Beverages And Other Foods&#x201d;, filed Jun. 23, 2014 by Beckman et al.; (2) U.S. Pat. No. 7,906,160, entitled &#x201c;Protein beverage and method of making the same&#x201d;, filed Mar. 7, 2007 by Sherwood et al.; and (3) U.S. Pat. No. 5,232,726, entitled &#x201c;Ultra-high pressure homogenization of unpasteurized juice&#x201d;, filed Oct. 8, 1992 by Clark et al. (the subject matter of these patent documents is incorporated herein in its entirety).</p>
+<p id="p-0223" num="0222"><figref idref="DRAWINGS">FIG. <b>58</b>A</figref> is a perspective diagram of the packaged <i>Cannabis </i>juice pur&#xe9;e with only non-decarboxylated cannabinoids. The packaged <i>Cannabis </i>juice pur&#xe9;e has 120 mg of THCa and 180 mg of CBDa. The packaged <i>Cannabis </i>juice pur&#xe9;e is formed by carrying out the steps set forth in method <b>900</b> such that the <i>Cannabis </i>juice pur&#xe9;e in the first step (step <b>910</b>) has only raw, blended <i>Cannabis </i>material. None of the collected <i>Cannabis </i>material is heated. The packaged <i>Cannabis </i>juice pur&#xe9;e does not include any decarboxylated cannabinoids and the packaged <i>Cannabis </i>juice pur&#xe9;e is not psychoactive. In this example, the ratio of CBDa to THCa is 3:2. The amount of CBDa in each packaged <i>Cannabis </i>juice pur&#xe9;e is greater than the amount of THCa, and the amount of CBD in each packaged <i>Cannabis </i>juice pur&#xe9;e is greater than the amount of THC. In other embodiments, each packaged <i>Cannabis </i>juice pur&#xe9;e has ratio of CBDa to THCa taken from the group consisting of: 2 CBDa to 1 THCa, 1 CBDa to 1 THCa, 1 CBDa to 2 THCa, 1 CBDa to 3 THCa, 3 CBDa to 1 THCa, 0 CBDa to 1 THCa (no CBDa, only THCa), and 1 CBDa to 0 THCa (no THCa, only CBDa). The packaged <i>Cannabis </i>juice pur&#xe9;e may be made to include or exclude non-cannabinoid components of the <i>Cannabis </i>plant that include terpenes, fatty acids, aminoacids, enzymes, vitamins, minerals, carotenoids, chlorophyll, flavonoids, and dietary fibers. Non-decarboxylated high concentrate <i>Cannabis </i>extract may also be added to the packaged <i>Cannabis </i>juice pur&#xe9;e to achieve high concentrations of non-decarboxylated cannabinoids.</p>
+<p id="p-0224" num="0223"><figref idref="DRAWINGS">FIG. <b>58</b>B</figref> is a perspective diagram of another embodiment of a packaged <i>Cannabis </i>juice pur&#xe9;e with added non-decarboxylated high concentrate <i>Cannabis </i>extract. In the example of <figref idref="DRAWINGS">FIG. <b>58</b>B</figref>, the packaged <i>Cannabis </i>juice pur&#xe9;e has 300 mg of non-decarboxylated cannabinoids from raw <i>Cannabis </i>plant and 6,000 mg of non-decarboxylated cannabinoids from non-decarboxylated high concentrate <i>Cannabis </i>extract.</p>
+<p id="p-0225" num="0224"><figref idref="DRAWINGS">FIG. <b>59</b>A</figref> is a perspective diagram of a packaged <i>Cannabis </i>juice pur&#xe9;e with added decarboxylated cannabinoids. The packaged frozen ice pop of <i>Cannabis </i>juice pur&#xe9;e <b>634</b> is formed by carrying out the steps set forth in method <b>900</b> such that the <i>Cannabis </i>juice pur&#xe9;e in the first step (step <b>910</b>) has raw, blended <i>Cannabis </i>material in addition to decarboxylated <i>Cannabis </i>infusion. The packaged <i>Cannabis </i>juice pur&#xe9;e includes non-decarboxylated cannabinoids and decarboxylated cannabinoids. In this example, packaged <i>Cannabis </i>juice pur&#xe9;e has 300 mg of non-decarboxylated cannabinoids from raw <i>Cannabis </i>plant and 280 mg of decarboxylated cannabinoids from decarboxylated <i>Cannabis </i>infusion.</p>
+<p id="p-0226" num="0225"><figref idref="DRAWINGS">FIG. <b>59</b>B</figref> is a perspective diagram of another embodiment of a packaged <i>Cannabis </i>juice pur&#xe9;e with added decarboxylated <i>Cannabis </i>infusion and non-decarboxylated high concentrate <i>Cannabis </i>extract. In the example of <figref idref="DRAWINGS">FIG. <b>59</b>B</figref>, the packaged <i>Cannabis </i>juice pur&#xe9;e has 300 mg of non-decarboxylated cannabinoids from raw <i>Cannabis </i>plant, 280 mg of decarboxylated cannabinoids from decarboxylated <i>Cannabis </i>infusion, and 6,000 mg of non-decarboxylated cannabinoids from non-decarboxylated high concentrate <i>Cannabis </i>extract.</p>
+<p id="p-0227" num="0226"><figref idref="DRAWINGS">FIG. <b>59</b>C</figref> is a perspective diagram of another embodiment of a packaged <i>Cannabis </i>juice pur&#xe9;e with added decarboxylated high concentrate <i>Cannabis </i>extract. In the example of <figref idref="DRAWINGS">FIG. <b>59</b>C</figref>, the packaged <i>Cannabis </i>juice pur&#xe9;e has 300 mg of non-decarboxylated cannabinoids from raw <i>Cannabis </i>plant and 310 mg of decarboxylated cannabinoids from decarboxylated high concentrate <i>Cannabis </i>extract.</p>
+<p id="p-0228" num="0227"><figref idref="DRAWINGS">FIG. <b>59</b>D</figref> is a perspective diagram of another embodiment of a packaged <i>Cannabis </i>juice pur&#xe9;e with added decarboxylated high concentrate <i>Cannabis </i>extract and non-decarboxylated high concentrate <i>Cannabis </i>extract. In the example of <figref idref="DRAWINGS">FIG. <b>59</b>D</figref>, the packaged <i>Cannabis </i>juice pur&#xe9;e has 300 mg of non-decarboxylated cannabinoids from raw <i>Cannabis </i>plant, 310 mg of decarboxylated cannabinoids from decarboxylated high concentrate <i>Cannabis </i>extract, and 6,000 mg of non-decarboxylated cannabinoids from non-decarboxylated high concentrate <i>Cannabis </i>extract.</p>
+<p id="p-0229" num="0228"><figref idref="DRAWINGS">FIG. <b>60</b></figref> is a flowchart of a method <b>1000</b> to store packaged containers having a <i>Cannabis </i>juice pur&#xe9;e. In a first step (step <b>1010</b>), packaged containers having a <i>Cannabis </i>juice pur&#xe9;e are stored. For example, in <figref idref="DRAWINGS">FIG. <b>61</b></figref>, containers <b>1011</b> each having a <i>Cannabis </i>juice pur&#xe9;e are stored on a shelf <b>1012</b>. The shelf <b>1012</b> may be part of a retail-store, a dispensary, a storage facility, or a transport vehicle.</p>
+<p id="p-0230" num="0229"><figref idref="DRAWINGS">FIG. <b>62</b></figref> is a table <b>1100</b> that shows the therapeutic benefits of various types of cannabinoids. The amount and type of cannabinoid present in each of the embodiments can vary depending on the specific therapeutic benefits being targeted. The <i>Cannabis </i>juice pur&#xe9;e used in the various embodiments has at least one type of cannabinoid listed in table <b>1100</b>.</p>
+<p id="p-0231" num="0230">Although certain specific embodiments are described above for instructional purposes, the teachings of this patent document have general applicability and are not limited to the specific embodiments described above. For example, in addition to THC and CBD, other combinations of cannabinoids can be employed. For example, CBG is another cannabinoid that can be present in certain strains of <i>Cannabis</i>. Non-decarboxylated CBG (CBGa) and decarboxylated CBG (CBG) can be used in forming the <i>Cannabis </i>juice pur&#xe9;e. In addition, CBN is another cannabinoid that can be present in certain strains of <i>Cannabis</i>. Non-decarboxylated CBN (CBNa) and decarboxylated CBN (CBN) can be used in forming the <i>Cannabis </i>juice pur&#xe9;e. In addition, other <i>Cannabis </i>strains with various terpene profiles can be added to the <i>Cannabis </i>juice pur&#xe9;e in the various embodiments. Accordingly, various modifications, adaptations, and combinations of various features of the described embodiments can be practiced without departing from the scope of the invention as set forth in the claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method comprising:
+<claim-text>forming a <i>Cannabis </i>juice pur&#xe9;e, wherein the <i>Cannabis </i>juice pur&#xe9;e is formed by blending <i>Cannabis </i>plant material of a <i>Cannabis </i>plant, wherein all of the <i>Cannabis </i>plant material is converted into the <i>Cannabis </i>juice pur&#xe9;e, wherein the <i>Cannabis </i>juice pur&#xe9;e comprises non-decarboxylated cannabinoids that include cannabidiolic acid (CBDA) and tetrahydrocannabinolic acid (THCA), wherein the CBDA and the THCA are present in accordance with a ratio, and wherein the ratio is taken from the group consisting of: 3 CBDA:1 THCA, 3 CBDA:2 THCA, 2 CBDA:1 THCA, 4 CBDA:1 THCA, 20 CBDA:1 THCA, 30 CBDA:1 THCA, 1 CBDA:1 THCA, 1 CBDA:4 THCA, 1 CBDA:2 THCA, 2 CBDA:3 THCA, 1 CBDA:3 THCA, 1 CBDA:20 THCA, and 1 CBDA:30 THCA;</claim-text>
+<claim-text>depositing the <i>Cannabis </i>juice pur&#xe9;e into a container; and</claim-text>
+<claim-text>packaging the container with the <i>Cannabis </i>juice pur&#xe9;e.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the packaging involves using high pressure processing (HPP) to package the container.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the container into which the <i>Cannabis </i>juice pur&#xe9;e is deposited is a cylindrical container having a lid.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the <i>Cannabis </i>plant material includes at least one non-cannabinoid component taken from the group consisting of: terpenes, fatty acids, aminoacids, enzymes, vitamins, minerals, carotenoids, chlorophyll, flavonoids, and dietary fibers.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the container includes at least one of decarboxylated high concentrate <i>Cannabis </i>extract, non-decarboxylated high concentrate <i>Cannabis </i>extract, decarboxylated <i>Cannabis </i>infusion, or heated <i>Cannabis </i>material.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A method comprising:
+<claim-text>forming a <i>Cannabis </i>juice pur&#xe9;e by blending <i>Cannabis </i>plant material of a <i>Cannabis </i>plant, wherein all of the <i>Cannabis </i>plant material is converted into the <i>Cannabis </i>juice pur&#xe9;e, wherein the <i>Cannabis </i>juice pur&#xe9;e comprises non-decarboxylated cannabinoids that include cannabidiolic acid (CBDA) and tetrahydrocannabinolic acid (THCA), wherein the CBDA and the THCA are present in accordance with a ratio, and wherein the ratio is taken from the group consisting of: 3 CBDA:1 THCA, 3 CBDA:2 THCA, 2 CBDA:1 THCA, 4 CBDA:1 THCA, 20 CBDA:1 THCA, 30 CBDA:1 THCA, 1 CBDA:1 THCA, 1 CBDA:4 THCA, 1 CBDA:2 THCA, 2 CBDA:3 THCA, 1 CBDA:3 THCA, 1 CBDA:20 THCA, and 1 CBDA:30 THCA;</claim-text>
+<claim-text>depositing the <i>Cannabis </i>juice pur&#xe9;e into a container; and</claim-text>
+<claim-text>performing high pressure processing (HPP) on the <i>Cannabis </i>juice pur&#xe9;e within the container thereby obtaining a packaged <i>Cannabis </i>juice pur&#xe9;e.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The method of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the <i>Cannabis </i>plant material includes at least one component taken from the group consisting of: terpenes, fatty acids, aminoacids, enzymes, vitamins, minerals, carotenoids, chlorophyll, flavonoids, and dietary fibers.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the container includes at least one of decarboxylated high concentrate <i>Cannabis </i>extract, non-decarboxylated high concentrate <i>Cannabis </i>extract, decarboxylated <i>Cannabis </i>infusion, or heated <i>Cannabis </i>material.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the <i>Cannabis </i>juice pur&#xe9;e also includes at least one cannabinoid taken from the group consisting of: cannabigerolic acid (CBGA), cannabigerovarin acid (CBGVA), tetrahydrocannabivarin carboxylic acid (THCVA), cannabidivarin acid (CBDVA), cannabichromenic acid (CBCA), cannabichromevarinic acid (CBCVA), tetrahydrocannabinol (THC), tetrahydrocannabivarin (THCV), tetrahydrocannabivarin acid (THVA), cannabidiol (CBD), cannabidivarin (CBDV), cannabichromene (CBC), cannabichromevarin (CBCV), cannabigerol (CBG), cannabigerovarin (CBGV), cannabinolic acid (CBNA), cannabigerovarinic acid (CBNVA), cannabinol (CBN), cannabicyclol (CBL), and cannabicyclol acid (CBLA).</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The method of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the <i>Cannabis </i>juice pur&#xe9;e also includes at least one cannabinoid taken from the group consisting of: cannabigerolic acid (CBGA), cannabigerovarin acid (CBGVA), tetrahydrocannabivarin carboxylic acid (THCVA), cannabidivarin acid (CBDVA), cannabichromenic acid (CBCA), cannabichromevarinic acid (CBCVA), tetrahydrocannabinol (THC), tetrahydrocannabivarin (THCV), tetrahydrocannabivarin acid (THVA), cannabidiol (CBD), cannabidivarin (CBDV), cannabichromene (CBC), cannabichromevarin (CBCV), cannabigerol (CBG), cannabigerovarin (CBGV), cannabinolic acid (CBNA), cannabigerovarinic acid (CBNVA), cannabinol (CBN), cannabicyclol (CBL), and cannabicyclol acid (CBLA).</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. A method comprising:
+<claim-text>forming a <i>Cannabis </i>juice pur&#xe9;e, wherein the <i>Cannabis </i>juice pur&#xe9;e is formed by blending <i>Cannabis </i>plant material of a <i>Cannabis </i>plant, wherein all of the <i>Cannabis </i>plant material is converted into the <i>Cannabis </i>juice pur&#xe9;e, wherein the <i>Cannabis </i>juice pur&#xe9;e comprises non-decarboxylated cannabinoids that include cannabidiolic acid (CBDA) and tetrahydrocannabinolic acid (THCA), wherein the CBDA and the THCA are present in accordance with a ratio, and wherein the ratio is taken from the group consisting of: 3 CBDA:1 THCA, 3 CBDA:2 THCA, 2 CBDA:1 THCA, 4 CBDA:1 THCA, 20 CBDA:1 THCA, 30 CBDA:1 THCA, 1 CBDA:1 THCA, 1 CBDA:4 THCA, 1 CBDA:2 THCA, 2 CBDA:3 THCA, 1 CBDA:3 THCA, 1 CBDA:20 THCA, and 1 CBDA:30 THCA; and</claim-text>
+<claim-text>using high pressure processing (HPP) to package the <i>Cannabis </i>juice pur&#xe9;e into a container.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the container has a removable lid.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the <i>Cannabis </i>plant material includes at least one non-cannabinoid component taken from the group consisting of: terpenes, fatty acids, amino acids, enzymes, vitamins, minerals, carotenoids, chlorophyll, flavonoids, and dietary fibers.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, further comprising:
+<claim-text>adding at least one of decarboxylated high concentrate <i>Cannabis </i>extract, non-decarboxylated high concentrate <i>Cannabis </i>extract, decarboxylated <i>Cannabis </i>infusion, or heated <i>Cannabis </i>material to the <i>Cannabis </i>juice pur&#xe9;e.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the <i>Cannabis </i>juice pur&#xe9;e additionally includes at least one cannabinoid taken from the group consisting of: cannabigerolic acid (CBGA), cannabigerovarin acid (CBGVA), tetrahydrocannabivarin carboxylic acid (THCVA), cannabidivarin acid (CBDVA), cannabichromenic acid (CBCA), cannabichromevarinic acid (CBCVA), tetrahydrocannabinol (THC), tetrahydrocannabivarin (THCV), tetrahydrocannabivarin acid (THVA), cannabidiol (CBD), cannabidivarin (CBDV), cannabichromene (CBC), cannabichromevarin (CBCV), cannabigerol (CBG), cannabigerovarin (CBGV), cannabinolic acid (CBNA), cannabigerovarinic acid (CBNVA), cannabinol (CBN), cannabicyclol (CBL), and cannabicyclol acid (CBLA).</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

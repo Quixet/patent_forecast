@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="US11597712-20230307.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230215" date-publ="20230307">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>11597712</doc-number>
+<kind>B2</kind>
+<date>20230307</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>16908381</doc-number>
+<date>20200622</date>
+</document-id>
+</application-reference>
+<us-application-series-code>16</us-application-series-code>
+<us-term-of-grant><us-term-extension>282</us-term-extension>
+<disclaimer>
+<text>This patent is subject to a terminal disclaimer.</text>
+</disclaimer>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>07</class>
+<subclass>D</subclass>
+<main-group>311</main-group>
+<subgroup>80</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230307</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>07</class>
+<subclass>D</subclass>
+<main-group>311</main-group>
+<subgroup>80</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20230307</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+</classifications-cpc>
+<invention-title id="d2e51">Active fraction from therapeutic cannabis plant extracts</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>9351953</doc-number>
+<kind>B2</kind>
+<name>Stodola</name>
+<date>20160500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>9987567</doc-number>
+<kind>B1</kind>
+<name>Ko</name>
+<date>20180600</date>
+</document-id>
+</patcit>
+<category>cited by third party</category>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>10155176</doc-number>
+<kind>B1</kind>
+<name>Feuer</name>
+<date>20181200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>10195159</doc-number>
+<kind>B2</kind>
+<name>Whittle et al.</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>20180296616</doc-number>
+<kind>A1</kind>
+<name>Rivas</name>
+<date>20181000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>WO</country>
+<doc-number>2018187500</doc-number>
+<kind>A1</kind>
+<date>20181100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00007">
+<othercit>Wang et al., Decarboxylation Study of Acidic Cannabinoids: A Novel Approach Using Ultra-High-Performance Supercritical Fluid Chromophotograpy/Photodiode Array-Mass Spectometry, Cannabis and Cannabinoid Research, 2016, pp. 262-271, vol. 1.1, DOI: 10.1089/can.2016.0020.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00008">
+<othercit>Iffland, et al., Decarboxylation of Tetrahydrocannbolic acid (THCA) to active THC, European Industrial Hemp Association (EIHA) paper, &#x3c;www.eiha.org&#x3e;, Oct. 2016, Hurth, Germany.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00009">
+<othercit>ISA/EU, International Search Report and Written Opinion in co-pending PCT International Application No. PCT/US2020/023798, dated Aug. 11, 2020.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>5</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>None</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>5</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>16569535</doc-number>
+<date>20190912</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>10717717</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>16908381</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<continuation-in-part>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>16365614</doc-number>
+<date>20190326</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>10471113</doc-number>
+<date>20191112</date>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>16569535</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation-in-part>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20200317631</doc-number>
+<kind>A1</kind>
+<date>20201008</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="obligated-assignee">
+<addressbook>
+<orgname>Jenny's Rose, LLC</orgname>
+<address>
+<city>Los Angeles</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Castillo</last-name>
+<first-name>James</first-name>
+<address>
+<city>San Diego</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Kirchanski</last-name>
+<first-name>Stefan J.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Spark</last-name>
+<first-name>Matthew J.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="03" rep-type="attorney">
+<addressbook>
+<orgname>Zuber Lawler LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Jenny's Rose, LLC</orgname>
+<role>02</role>
+<address>
+<city>Los Angeles</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Meller</last-name>
+<first-name>Michael V</first-name>
+<department>1655</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An improved process for producing various types of cannabis extract from harvested cannabis wherein a quantity of harvested cannabis, which typically includes the inflorescence, floral leaves, and small stems of a flowering cannabis plants, is frozen and subjected to cryogenic grinding to produce pulverized cannabis. The pulverized cannabis is then subjected to alcohol extraction to produce an initial cannabis extract which is filtered to yield a remainder fraction and a filtrate. The remainder fraction potentiates the activity of cannabis formulations while the filtrate can be subjected to one of several forms of further processing according to the desired chemical profile of the final product.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="169.42mm" wi="57.23mm" file="US11597712-20230307-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="200.83mm" wi="129.03mm" file="US11597712-20230307-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="188.89mm" wi="123.02mm" file="US11597712-20230307-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="155.96mm" wi="57.23mm" file="US11597712-20230307-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="129.03mm" wi="123.02mm" file="US11597712-20230307-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO PRIOR APPLICATIONS</heading>
+<p id="p-0002" num="0001">The present application is a continuation of U.S. patent application Ser. No. 6/569,535, filed on Sep. 12, 2019, now U.S. Pat. No. 10,717,717, which is a continuation-in-part of U.S. patent application Ser. No. 16/365,614, filed on Mar. 26, 2019, now U.S. Pat. No. 10,471,113, titled PRODUCING CANNABIS EXTRACTS VIA SELECTIVE DECARBOXYLATION, filed on 26 Mar. 2019, the contents of which are incorporated herein by reference.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">U.S. GOVERNMENT SUPPORT</heading>
+<p id="p-0003" num="0002">Not applicable.</p>
+<heading id="h-0003" level="1">BACKGROUND OF THE INVENTION</heading>
+<heading id="h-0004" level="1">Area of the Art</heading>
+<p id="p-0004" num="0003">The present invention is in the art of extracting natural products from plant materials and is more specifically directed to a process for making cannabis extracts.</p>
+<heading id="h-0005" level="1">Background of the Invention</heading>
+<p id="p-0005" num="0004">The cannabis plant (<i>Cannabis sativa </i>L.) (&#x201c;cannabis&#x201d;) has a long history use for both medicinal and recreational purposes. Cannabis plant material contains a variety of chemical compounds, including those responsible for the &#x201c;high&#x201d; associated with cannabis consumption as well as other physiological effects. Among the compounds present in cannabis are tetrahydrocannabinolic acid (&#x201c;THCA&#x201d;) and tetrahydrocannabivaric acid (&#x201c;THCVA&#x201d;). While THCA and THCVA themselves produce few physiological effects when directly ingested, exposing THCA and THCVA to elevated temperatures, such as those produced when cannabis burns during smoking, causes these compounds to undergo a decarboxylation reactions to form psychoactive or other physiologically active compounds. THCA, in particular, is well-known for its conversion via decarboxylation to &#x394;9-tetrahydrocannabinol (&#x201c;&#x394;9-THC&#x201d;), which is psychoactive. Upon heating, THCVA undergoes a similar decarboxylation reaction to form tetrahydrocannabivarin (&#x201c;THCV&#x201d;), which has appetite-suppressing effects.</p>
+<p id="p-0006" num="0005">As of August 2019, ten U.S. states have legalized the recreational use of cannabis, and thirty-two U.S. states have legalized the use of all cannabis products for medicinal purposes while an additional five states allow use of CBD oil. As the state-level legalization of cannabis has expanded, so has the production of cannabis-derived products. Cannabis extracts (sometimes known as &#x201c;cannabis oils&#x201d;) have emerged as an important category of cannabis-derived product. Cannabis extracts are produced by subjecting cannabis to an extraction process, wherein solvents are typically used to dissolve (&#x201c;extract&#x201d;) chemical compounds from harvested cannabis plant material.</p>
+<p id="p-0007" num="0006">However, in the typical extraction process, the goal is to obtain purified extracts containing high concentrations of the cannabinoids, and discarding portions of the extract containing waxes, lipids, and other components of plant materials that do not contain the desired cannabinoids. As such portions of the extracts do not contain cannabinoids, they are not believed to possess therapeutic or commercial value.</p>
+<p id="p-0008" num="0007">For example, U.S. Pat. No. 10,195,159 (the '159 patent) describes a process for removing what it describes as the unwanted &#x201c;ballast&#x201d; from cannabis plant extracts. The ballast described therein includes plant cell constituents comprising &#x201c;fats, waxes, carbohydrates, proteins and sugars.&#x201d; The'159 patent inventors explain that &#x201c;[t]he presence of these substances results in botanical extracts which may be hygroscopic, difficult to reduce to a powder and generally intractable as starting materials for pharmaceutical preparations.&#x201d; In addition, the '159 patent explains &#x201c;that presence of ballast may also limit the shelf-life of pharmaceutical products formulated from such extracts.&#x201d; The '159 patent also explains that some elements of ballast can be &#x201c;removed by an additional step post-extraction referred to as &#x201c;winterization&#x201d;, which involves making a concentrated solution of the extract and cooling it to a temperature at which a proportion of waxes and lipid components may be precipitated, typically &#x2212;20&#xb0; C.&#x201d;</p>
+<p id="p-0009" num="0008">WO2018187500A1 (the '500 application) describes a process for removing waxes and lipids from crude cannabis extracts before the process of decarboxylation and purification of the extracts to obtain purified cannabis extracts. The '500 application explains that crude cannabis extracts are known to contain high concentration of waxes and other hydrocarbons from plant materials. Such waxes and plant materials are typically removed or reduced by a &#x201c;winterization process&#x201d; prior to decarboxylation and purification of the cannabis extract. The &#x201c;winterization process&#x201d; is typically performed by dissolving the distillate in alcohol which is then subjected to subzero temperatures to separate out the fats and waxes. In the '500 application, the winterization process involves dissolving the distillate in 200-proof ethanol and then placing in the solution in a freezer at &#x2212;20&#xb0; C. for 4 hours. While cold, the precipitated material containing the unwanted fats and waxes is filtered out using a filter funnel and the filter was rinsed with 100 ml of ice cold ethanol. The filtered ethanolic solution of the distillate was evaporated to dryness to give 84.0 g residue (78% CBD content). The '500 application described that the CBD recovery in this step is 99.0%, demonstrating that the typical extraction process focuses on removing waxes and lipids during the extraction process, in favor of producing a concentrated cannabinoid residue or extract.</p>
+<p id="p-0010" num="0009">Surprisingly, it has been found that a fraction that is typically discarded, containing the waxes and lipids, is important to the therapeutic value of the extract. This is because it is becoming recognized that the plant's therapeutic value may not be attributable to the major cannabinoids alone. Rather, the therapeutic value may lie in a synergistic effect between numerous chemical components present in the cannabis plants. The plant is believed to contain over a hundred cannabinoids, numerous secondary metabolites of cannabis, terpenes and terpenoids, all of which are hypothesized to contribute synergistically to the plant's therapeutic benefits. This interaction or synergy resulting from the complex mixture of compounds present within the cannabis plant is variously known as the &#x201c;entourage effect,&#x201d; in which a mixture of compounds present demonstrates greater therapeutic efficacy than any of its constituent compounds in isolation.</p>
+<p id="p-0011" num="0010">Capturing the non-cannabinoid portions of the extract that would assist in preserving the &#x201c;entourage effect,&#x201d; while removing plant matter that may detract from the stability or safety of the formulation during the extraction process is challenging. When breaking down the plant matter, the initial extract contains particulate materials, chlorophyll, large sugars, such as plant cellulose, and proteins that may not have the desired effects and impact other aspects of the product, such as its shelf-life and stability. Thus, there is a need to develop an extraction process whereby undesirable plant materials are removed, but desirable waxes and lipids, which assist in creating the &#x201c;entourage effect&#x201d;, are not inadvertently discarded. This portion of the extract, called the &#x201c;remainder&#x201d;, which contains the desirable waxes and lipids, may also be removed prior to the cannabinoids being decarboxylated. High temperatures typically used during decarboxylation processes may destroy the desirable waxes and lipids in the remainder or convert them into &#x201c;sand-like&#x201d; particles which are undesirable in an extract.</p>
+<p id="p-0012" num="0011">The decarboxylation of compounds, such as THCA and THCVA, to form psychoactive or physiologically active compounds, such as &#x394;9-THC and THCV is typically accomplished by heating the extract (or by directly heating the plant material). A major drawback of oven-based decarboxylation is the tendency to cause the loss of desirable volatile compounds, such as caryophyllene and other terpenes, through evaporation or heat-induced chemical reactions. Accordingly, a process is needed to enable a greater degree of control over the decarboxylation of cannabis extracts.</p>
+<heading id="h-0006" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0013" num="0012">The present invention is a process for producing various types of cannabis extract from harvested cannabis. A quantity of harvested cannabis, which typically includes the inflorescence, floral leaves, and small stems of a flowering cannabis plants, is pre-frozen. The harvested cannabis is first subjected to cryogenic grinding to produce pulverized cannabis. The pulverized cannabis is then subjected to alcohol extraction to produce an initial cannabis extract, which can be subjected to one of several forms of further processing according to the desired chemical profile of the final product. The initial cannabis extract may be further fractionated to remove a particulate &#x201c;remainder fraction&#x201d; and the resulting cannabinoid fraction may then be subjected to chemical processing that promote the conversion of THCA to &#x394;9 THC; the conversion of THCVA to THCV; the conversion of THCA to cannabinol (&#x201c;CBN&#x201d;); or the conversion of THCA to &#x394;8-tetrahydrocannabinol (&#x394;8-THC). The various fractions can be mixed in various proportions. The presence or absence of the remainder fraction does not significantly affect subsequent fractionation; however if the remainder fraction is captured, it can be used to augment the other fractions.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0007" level="1">DESCRIPTION OF THE FIGURES</heading>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a flow diagram showing the steps for converting harvested cannabis to pulverized cannabis through cryogenic grinding;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a flow diagram showing the steps for converting pulverized cannabis to an initial cannabis extract using alcohol extraction;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a flow diagram showing the steps for producing &#x394;9-THC and THCV via decarboxylation of an initial cannabis extract;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a flow diagram showing the steps for producing cannabinol via decarboxylation of an initial cannabis extract;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a flow diagram showing the steps for producing &#x394;8-THC via decarboxylation of a cannabis extract containing &#x394;9-THC;</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0008" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0019" num="0018">The following description is provided to enable any person skilled in the art to make and use the invention and sets forth the best modes contemplated by the inventor of carrying out his invention. Various modifications, however, will remain readily apparent to those skilled in the art, since the general principles of the present invention have been defined herein specifically to provide a cannabis extraction method that produces a biologically active remainder fraction.</p>
+<p id="p-0020" num="0019">The present invention is a process that includes several stages, which are described below as Stages 1-2, 3A-3C, and 4. Where the process refers to the use of &#x201c;alcohol,&#x201d; a solution containing at least 99% ethanol by volume or at least 99% isopropyl alcohol by volume is preferred although concentrations as low as about 95% alcohol can be used. Specifically, &#x201c;ethyl alcohol 200 proof&#x201d; or &#x201c;99.9% isopropyl alcohol&#x201d; supplied by Green Wood Cleaning Products, Inc., of Hollister, Calif., may be used.</p>
+<p id="p-0021" num="0020">Stage 1: Cryogenic Grinding</p>
+<p id="p-0022" num="0021">Referring to <figref idref="DRAWINGS">FIG. <b>1</b></figref>, cryogenic grinding is used to convert a quantity of harvested cannabis <b>10</b> into pulverized cannabis <b>14</b>. The harvested cannabis <b>10</b>, which may be fresh or cured, should be pre-frozen (step <b>11</b>) at a temperature of about &#x2212;29&#xb0; C. (&#x2212;20.2&#xb0; F.) prior to processing. Cryogenic grinding should take place at an ambient temperature of 0-10&#xb0; C. (32-50&#xb0; F.). An ambient temperature of 0&#xb0; C. (32&#xb0; F.) is preferable for minimizing the loss of compounds from the harvested cannabis through evaporation or chemical reactions that would occur at higher temperatures, but acceptable results can be obtained when the ambient temperature is as high as 10&#xb0; C. (50&#xb0; F.). In practice, it is advisable to perform cryogenic grinding in a cold room or a walk-in freezer.</p>
+<p id="p-0023" num="0022">When pre-freezing is complete, the harvested cannabis is separated into batches (step <b>12</b>) weighing approximately 450 g (approx. 1.0 lb) each. For each batch, the harvested cannabis is placed into a plastic bag capable of accommodating a volume of approximately 15 cm&#xd7;48 cm&#xd7;20 cm (6 in.&#xd7;19 in.&#xd7;8 in.). A Reynolds&#xae; turkey-size oven cooking bag may be used. The bag is then sealed; sealing may be accomplished by tying the open end of the bag into a knot or with a suitable fastener, such as twist tie. The batches of harvested cannabis are then processed in a tumbling apparatus (step <b>13</b>).</p>
+<p id="p-0024" num="0023">The tumbling apparatus is a horizontally oriented cylindrical drum that is capable of rotating about its own axis. The drum should be capable of performing approximately 40 rotations per minute (rpm). The drum may have a diameter of approximately 60 cm (24 in.) and a length of approximately 91 cm (36 in.). A Triminator&#xae; Dry cannabis-trimming machine supplied by Dana Mosman of Boulder, Colo., may serve as the tumbling apparatus.</p>
+<p id="p-0025" num="0024">Five bags of harvested cannabis are placed into the tumbling apparatus. Approximately 680 g (approx. 1.5 lb) of dry ice (i.e., solid carbon dioxide) is placed into the tumbling apparatus along with the bags of harvested cannabis. The dry ice may be in the form of uniformly sized cylindrical pieces that are approximately 0.64 cm (0.25 in.) in diameter and approximately 5.0 cm (2.0 in) in height. Dry-ice &#x201c;nuggets&#x201d; supplied by Praxair Technology, Inc., of Danbury, Conn., may be used.</p>
+<p id="p-0026" num="0025">The bags of harvested cannabis are tumbled at approximately 40 rpm for about 10 minutes. The appropriate rotational speed can be achieved with a Triminator&#xae; Dry cannabis-trimming machine or with a rheostat controlling the motor speed of a dedicated tumbler. During the tumbling process, the agitation of the harvested cannabis within each bag, in conjunction with the physical impacts of the dry ice against the bag, pulverize the harvested cannabis to a fine powder, thereby producing pulverized cannabis <b>14</b>.</p>
+<p id="p-0027" num="0026">It will be appreciated that the amount of cannabis that can be processed by the tumbling apparatus depends on the size of the tumbling apparatus. The equipment can readily be scaled up for larger amounts of cannabis.</p>
+<p id="p-0028" num="0027">Stage 2: Alcohol Extraction</p>
+<p id="p-0029" num="0028">Referring to <figref idref="DRAWINGS">FIG. <b>2</b></figref>, alcohol extraction is used to separate the compounds present within the pulverized cannabis from solid plant matter. In preparation for alcohol extraction, the bags of pulverized cannabis <b>14</b> are removed from the tumbling apparatus and transferred into filter bags (step <b>21</b>). Each batch of cannabis is transferred from the plastic bag used during cryogenic grinding to a filter bag having a pore diameter of about 220 &#x3bc;m. The filter bag should be sufficiently large to accommodate the pulverized cannabis without deliberate packing. A Bubble Bags&#xae; filter bag with a nominal capacity of 3.78 L (1 gal) and a pore diameter of 220 &#x3bc;m supplied by Fresh Headies Internet Sales Ltd. of Vancouver, Canada, may be used. Transfer of the pulverized cannabis is preferably performed at the same ambient temperature as cryogenic grinding to prevent premature warming of the pulverized cannabis.</p>
+<p id="p-0030" num="0029">Two filter-bags of pulverized cannabis are placed into an extraction apparatus for alcohol extraction (step <b>22</b>). The extraction apparatus is an upright cylindrical drum that is capable of rotating about its own axis. The drum can have a diameter of approximately 38 cm (15 in.) and height of approximately 38 cm (15 in.) and should be capable rotating at 40 rpm. The extraction apparatus is prefilled with approximately 40 L (10 gal) of alcohol. The alcohol should completely immerse the filter bags without a risk of overflowing from the extraction apparatus. The alcohol is preferably pre-chilled to &#x2212;30&#xb0; C. (&#x2212;22&#xb0; F.) to minimize undesirable extraction of chlorophyll and lipid material from the pulverized cannabis. The extraction process, however, will produce acceptable results with an alcohol temperature as high as 0&#xb0; C. (32&#xb0; F.). To maintain chilling of the alcohol during the extraction process, the extraction apparatus may be placed in a chest freezer or cold room.</p>
+<p id="p-0031" num="0030">Once immersed, the drum of the extraction apparatus is rotated at approximately 40 rpm for 10 minutes, during which compounds from the pulverized cannabis dissolve into the alcohol. The alcohol normally takes on a bright-green color as extraction proceeds. The alcohol is then poured from the extraction apparatus for collection (step <b>23</b>). The filter bags, which remain in the extraction apparatus, are subjected to centrifugation at 200 g to spin out any residual alcohol that remains within the filter bags (step <b>24</b>). The filter bags may be manually rearranged within the extraction apparatus prior to centrifugation to ensure adequate balance. The residual alcohol is combined with the alcohol obtained by pouring.</p>
+<p id="p-0032" num="0031">The alcohol extract is then passed through a stainless-steel mesh filter or other filter type with a pore diameter of about 32 &#x3bc;m-45 &#x3bc;m (step <b>25</b>), and the filtrate (the &#x201c;first-pass or first filtrate&#x201d;) is collected. The first-pass filtrate can optionally be passed through the same filter again (step <b>26</b>), and the resulting twice-filtered liquid (the &#x201c;second-pass filtrate&#x201d;) is collected. An 8-inch diameter test sieve with a pore opening size of 32 &#x3bc;m (No. 450) supplied by W.S. Tyler (a division of Haver Tyler, Inc.) of Mentor, Ohio, may be used as the filter. The filtration step(s) is(are) intended to remove undissolved particles of plant material from the solvent. Prior to filtration through the about 32 &#x3bc;m-45 &#x3bc;m filter, the solution is somewhat cloudy. After filtration, the solution is clearer. Additional optional filtration through a 5 &#x3bc;m filter was found to produce an essentially clear final filtrate (step <b>27</b>). Either the initial (32 &#x3bc;m-45 &#x3bc;m) filtrate or the 5 &#x3bc;m filtrate can be further processed for decarboxylation as detailed below. That is to say, the optional 5 &#x3bc;m filtration step does not significantly affect the subsequent decarboxylation steps.</p>
+<p id="p-0033" num="0032">As detailed in U.S. Pat. No. 10,471,113 (the contents of which are incorporated herein by reference), the material, which is known as the &#x201c;remainder&#x201d; fraction, removed by the 5 &#x3bc;m filter can be recovered from the surface of the filter (step <b>29</b>) and used in therapeutic formulations. The remainder fraction from extracts performed at &#x2212;30&#xb0; C. (&#x2212;22&#xb0; F.) is a largely colorless cake whose precise composition has not yet been determined. When extraction takes place at a higher temperature (about 0&#xb0; C. [32&#xb0; F.]), the volume of remainder is larger and has a distinct green chlorophyll color. It is believed that the remainder is primarily micelles of plant waxes, other lipid materials as well as carbohydrates. It may also contain very small particles of undissolved plant material. It has been unexpectedly found that adding significant quantities of the remainder fraction to various medicinal or even recreational formulations intended for oral administration significantly augments the activity of these formulations. It is believed that some compounds within the remainder fraction interact with active cannabis compounds in the formulations to produce an enhanced &#x201c;entourage&#x201d; effect. Alternately or additionally, lipids or other compounds in the remainder fraction could enhance absorption of the formulation thereby increasing observed activity. Because of the great utility of the remainder fraction, use of the 5 &#x3bc;m filtration step and recovery of the remainder fraction has become the preferred procedure. The remainder fraction, if used immediately upon collection, may be added directly to cannabis formulations. If intended for later use, the remainder fraction may be suspended in ethanol, and stored at low temperatures for extended periods. Prior to use, the resuspended remainder may be recovered through pelleting by centrifugation or through filtration. Filtration appears to be the easiest way of separating the remainder from the primary extract, but it will be appreciated that similar results can be achieved with alternate separation technologies such as centrifugation.</p>
+<p id="p-0034" num="0033">Regardless of which separation technology is employed and how many filtration steps are used, the final filtrate (step <b>28</b>) is subjected to rotary evaporation at about 40&#xb0; C. (104&#xb0; F.) at a reduced pressure of about 5332 Pa (40 Torr or 0.05 atm) until substantially all of the alcohol is removed. The liquid that remains is the Initial Cannabis Extract <b>30</b>, which may be stored or subjected to one of the further processing steps designated as Stages 3A-3C below. For every two filter-bags of pulverized cannabis, the extraction process produces approximately 300 ml of initial cannabis extract. The initial cannabis extract is preferably stored at 0&#xb0; C. (32&#xb0; F.) while awaiting further processing.</p>
+<p id="p-0035" num="0034">A CUP-30 Centrifuge Utility Platform Alcohol Extraction System (the &#x201c;CUP-30 system&#x201d;) made by Delta Separations LLC of Santa Rosa, Calif., may serve as the extraction apparatus. The ratio of alcohol to pulverized cannabis described above (i.e., approximately 40 L of alcohol for every 2 filter-bags of pulverized cannabis) may be scaled up to fully use the processing capacity of the CUP-30 system.</p>
+<p id="p-0036" num="0035">Stage 3A: Conversion of Tetrahydrocannabinolic Acid in the Initial Cannabis Extract to Delta-9-Tetrahydrocannabinol</p>
+<p id="p-0037" num="0036">Referring to <figref idref="DRAWINGS">FIG. <b>3</b></figref>, a first diluted solution <b>31</b> is produced by diluting the initial cannabis extract <b>30</b> to 120% of its initial volume using alcohol. For example, 80 ml of initial cannabis extract <b>30</b> should be combined with enough alcohol to produce 100 ml of the first diluted solution. The volume of the first diluted solution is further increased by 3%-5% through the addition of water to produce a second diluted solution (step <b>32</b>). For example, 100 ml of the first diluted solution may be combined with enough water to make 103-105 ml of the second diluted solution. The presence of the water within the second diluted solution inhibits the undesirable formation of cannabinol (&#x201c;CBN&#x201d;) as well as the degradation of terpenes and cannabinoids. This dilution step also prevents the thermal decomposition of the remainder fraction if it has not previously been removed through filtration. After thermal decomposition, the remainder adds gritty particulates to the product.</p>
+<p id="p-0038" num="0037">The second diluted solution is refluxed at 80-100&#xb0; C. for 1-3 hours, preferably 80&#xb0; C. for 2 hours, to promote the decarboxylation of THCA to form &#x394;9-THC (step <b>33</b>). Acceptable results can be obtained by refluxing at 100&#xb0; C. for 1 hour, although the higher temperature may result in an increase in the undesirable formation of CBN. Refluxing is performed in a flask with an attached cold &#x201c;finger&#x201d; or condenser whose temperature is &#x2212;30&#xb0; C. to &#x2212;40&#xb0; C., preferably &#x2212;40&#xb0; C. The cold condenser may be cooled by propylene glycol circulated by an external chiller. Following refluxing, the second diluted solution is subjected to rotary evaporation (step <b>35</b>) until substantially all of the diluent is removed. The liquid that remains is a refined cannabis extract enriched in &#x394;9-THC <b>36</b>.</p>
+<p id="p-0039" num="0038">Refluxing may be used to process the initial cannabis extract in batches of 300 ml. Batch sizes may be adjusted according to the capacity of the refluxing apparatus.</p>
+<p id="p-0040" num="0039">Stage 3B: Conversion of Tetrahydrocannabivaric Acid in the Initial Cannabis Extract to Tetrahydrocannabivarin</p>
+<p id="p-0041" num="0040">Referring to <figref idref="DRAWINGS">FIG. <b>3</b></figref>, the initial cannabis extract <b>28</b> is converted to a first diluted solution and then a second diluted solution (steps <b>31</b> and <b>32</b>) as in Stage 3A above. The second diluted solution is refluxed for 1-2 hours, preferably 1.5 hours, at a temperature of 120&#xb0; C. to promote the decarboxylation of THCVA to form THCV (step <b>34</b>). Refluxing is performed in a flask attached to a cold condenser whose temperature is &#x2212;30&#xb0; C. to &#x2212;40&#xb0; C. The cold condenser may be chilled as in Stage 3A above. Following refluxing, the second diluted solution is subjected to rotary evaporation (step <b>35</b>) until substantially all diluent is removed. The liquid that remains is a refined cannabis extract that is enriched in THCV <b>37</b>.</p>
+<p id="p-0042" num="0041">Stage 3C: Increasing Cannabinol Content of Initial Cannabis Extract</p>
+<p id="p-0043" num="0042">Referring to <figref idref="DRAWINGS">FIG. <b>4</b></figref>, the initial cannabis extract <b>28</b> is diluted with alcohol to a concentration of 80% by volume to produce a diluted solution <b>41</b>. For example, 80 ml of initial cannabis extract <b>30</b> should be combined with enough alcohol to produce 100 ml of the diluted solution. The diluted solution is refluxed at 180&#xb0; C. for 1-3 hours, preferably 2 hours, to promote the formation of cannabinol (step <b>42</b>). Following refluxing, the diluted solution is subjected to rotary evaporation (step <b>43</b>) until substantially all alcohol is removed. The liquid that remains is a refined cannabis extract that is enriched in cannabinol <b>44</b>.</p>
+<p id="p-0044" num="0043">Referring to <figref idref="DRAWINGS">FIG. <b>4</b></figref>, the initial cannabis extract <b>30</b> is converted to a refined cannabis extract enriched in &#x394;9-THC <b>36</b> according to the steps in Stage 3A above.</p>
+<p id="p-0045" num="0044">Stage 4: Increasing &#x394;8-Tetrahydrocannabinol Content of the Initial Cannabis Extract</p>
+<p id="p-0046" num="0045">Referring to <figref idref="DRAWINGS">FIG. <b>5</b></figref>, the volume of the refined cannabis extract <b>36</b> is then increased by 7.5%-15%, preferably 10%, by the addition of powdered bleaching clay (step <b>51</b>). T-41 Canna Bleach supplied by Carbon Chemistry Ltd. of Watkins, Colo., may be used. The volume of refined cannabis extract is then increased by another 7.5%-15%, preferably 10%, by the addition of activated charcoal in powdered form (step <b>52</b>). The volume of powdered bleaching clay added should be essentially identical to the volume of activated charcoal added. Carbon Powder A supplied by Summit Research of Scotts Valley, Calif., may be used. For example, 100 ml of refined cannabis extract may be combined with 7.5 cm<sup>3 </sup>of specialty bleaching clay and 7.5 cm<sup>3 </sup>of activated charcoal to produce a mixture having a final volume of 115 ml.</p>
+<p id="p-0047" num="0046">The resulting mixture is subjected to distillation using a short-path distillation apparatus (the &#x201c;distillation apparatus&#x201d;). The distillation apparatus is composed of a feed flask, which contains the mixture. The feed flask is placed on a combination hotplate-magnetic stirrer, which allows a liquid within the feed flask to be simultaneously heated and agitated by a stir bar. The feed flask is attached to a condenser, which, in turn, is preferably attached to a &#x201c;triple cow&#x201d;-style distillation receiver with a connection point for a vacuum source. Two flasks are connected to the distillation receiver, the first for collecting undesirable distillates (the &#x201c;waste flask&#x201d;); and the second for collecting desirable distillates (the &#x201c;collection flask&#x201d;). Unneeded connections on the distillation apparatus should be sealed with stoppers. The temperature of the condenser is maintained at 21-23&#xb0; C. (70-74&#xb0; F.) by the circulation of water. A distillation receiver (Mfr. No. CG-1276-01) supplied by Thomas Scientific LLC of Swedesboro, N.J., may be used.</p>
+<p id="p-0048" num="0047">The mixture is placed into the feed flask, and the waste flask is placed in a position to receive distillate. The distillation apparatus is connected to a vacuum source, and the pressure within the distillation apparatus is reduced to approximately 66.7 Pa (500 mTorr or 6.7&#xd7;10<sup>&#x2212;4 </sup>atm). The mixture is gradually heated to 140&#xb0; C. while being agitated by the stir bar (step <b>53</b>). It is important to ensure that the mixture does not foam (or &#x201c;muffin&#x201d;) during distillation. Uncontrolled foam may expand to reach and contaminate the condenser, making the distillate unsuitable for use. To minimize foaming, it is advisable to set the stir bar to an initial speed of 400 rpm. The mixture is then gradually heated at a rate of approximately 15&#xb0; C. per minute, and speed of the stir bar increased at a rate of approximately 50 rpm per minute, until the mixture reaches 140&#xb0; C. and the stir bar reaches 900 rpm. Any distillate that incidentally emerges during the initial heating process is collected in the waste flask.</p>
+<p id="p-0049" num="0048">Once the mixture reaches about 140&#xb0; C., the distillate should take on a bluish color as azulene and derivatives thereof begin to distil from the mixture. Heating of the mixture should continue at the rate of approximately 1&#xb0; C. per minute until the mixture reaches 157&#xb0; C. During the heating period, bluish distillate continues to distill from the mixture and is collected in the waste flask (step <b>54</b>). The temperature of the mixture is maintained at 157&#xb0; C. until the condensing distillate is colorless, at which point all azulene and derivatives thereof have been removed from the mixture.</p>
+<p id="p-0050" num="0049">The colorless distillate is collected in the collection flask, which should be rotated into position as soon as bluish distillate stops appearing. The temperature of the mixture is further increased at the rate of approximately 1&#xb0; C. per minute until it reaches 175&#xb0; C. The distillate, which now contains &#x394;8-THC, continues to be collected in the collection flask during this period (step <b>55</b>). The mixture is maintained at a temperature of 175&#xb0; C. until substantially all of the liquid in the feed flask is depleted. The mixture is then heated to 220&#xb0; C., and distillate is collected until no further distillate is produced (step <b>56</b>). The final heating to 220&#xb0; C. promotes the full conversion of liquid remaining in the feed flask to the vapor phase. The distillate is a refined cannabis extract enriched in &#x394;8-THC <b>57</b>.</p>
+<p id="p-0051" num="0050">The refined cannabis extract enriched in &#x394;8-THC <b>57</b> should be colorless. If the distillate in the collection flask has a noticeable color, such as amber or teal, the distillate should be treated as the cannabis extract enriched in &#x394;9-THC <b>36</b> and subjected to a second round of processing according to steps <b>51</b>-<b>56</b>.</p>
+<p id="p-0052" num="0051">The following claims are thus to be understood to include what is specifically illustrated and described above, what is conceptually equivalent, what can be obviously substituted and what incorporates the essential idea of the invention. Those skilled in the art will appreciate that various adaptations and modifications of the just-described preferred embodiment can be configured without departing from the scope of the invention. The illustrated embodiment has been set forth only for the purposes of example and that should not be taken as limiting the invention. Therefore, it is to be understood that, within the scope of the appended claims, the invention may be practiced other than as specifically described herein.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method of producing a remainder fraction from the extraction of cannabis comprising:
+<claim-text>a) freezing a quantity of cannabis to make frozen cannabis;</claim-text>
+<claim-text>b) grinding the frozen cannabis at cryogenic temperatures to produce pulverized cannabis;</claim-text>
+<claim-text>c) extracting the pulverized cannabis with a quantity of alcohol to produce an initial cannabis extract;</claim-text>
+<claim-text>d) performing a first separation which separates the initial cannabis extract into a first separated cannabis extract and a first residue;</claim-text>
+<claim-text>e) performing a second separation which separates the first separated cannabis extract into a second separated cannabis extract and a second residue wherein the second residue is the remainder fraction;</claim-text>
+<claim-text>f) diluting the second separated cannabis extract with a quantity of alcohol to produce a first diluted initial cannabis extract;</claim-text>
+<claim-text>g) adding a quantity of water to the second diluted initial cannabis extract to produce a second diluted initial cannabis extract; and</claim-text>
+<claim-text>h) refluxing the second diluted initial cannabis extract at a temperature of about 80&#xb0; C.-120&#xb0; C. for a period of about 1-3 hours whereby the second diluted initial cannabis extract is decarboxylated to produce a second decarboxylated cannabis extract.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method of producing a remainder fraction of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first separation passes the initial cannabis extract through a filter having a pore size between about 32 &#x3bc;m and about 45 &#x3bc;m.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method of producing a remainder fraction of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the second separation passes the first separated cannabis extract through a filter having a pore size of about 5 &#x3bc;m.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method of producing a remainder fraction of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the remainder fraction is subsequently suspended in alcohol.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method of producing a remainder fraction of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first separation and the second separation take place at about &#x2212;30&#xb0; C.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

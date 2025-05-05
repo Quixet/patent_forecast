@@ -1,0 +1,2533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20240027479A1-20240125.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20240108" date-publ="20240125">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20240027479</doc-number>
+<kind>A1</kind>
+<date>20240125</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>18265541</doc-number>
+<date>20211026</date>
+</document-id>
+</application-reference>
+<us-application-series-code>18</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>33</main-group>
+<subgroup>94</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20240125</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>097</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20240125</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>08</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20240125</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>G</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>33</main-group>
+<subgroup>948</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20240125</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>097</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20240125</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>082</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20240125</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">A Comprehensive Breath Test that Confirms Recent Use of Inhaled Cannabis within the Impairment Window</invention-title>
+<us-related-documents>
+<continuation-in-part>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>17048737</doc-number>
+<date>20201019</date>
+</document-id>
+<parent-status>PENDING</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>18265541</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation-in-part>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>63128547</doc-number>
+<date>20201221</date>
+</document-id>
+</us-provisional-application>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>62661280</doc-number>
+<date>20180423</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>RCU Labs, Inc.</orgname>
+<address>
+<city>Roseville</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>DeGregorio</last-name>
+<first-name>Michael W</first-name>
+<address>
+<city>Granite Bay</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Wurz</last-name>
+<first-name>Gregory T</first-name>
+<address>
+<city>Lincoln</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Kao</last-name>
+<first-name>Chiao-Jung</first-name>
+<address>
+<city>Granite Bay</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>Montoya</last-name>
+<first-name>Edward J</first-name>
+<address>
+<city>Sacramento</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>RCU Labs, Inc.</orgname>
+<role>02</role>
+<address>
+<city>Roseville</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/US2021/056591</doc-number>
+<date>20211026</date>
+</document-id>
+<us-371c12-date><date>20230606</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The present invention provides a method for determining recent use of <i>cannabis</i>, including recent use within the impairment window, following administration through inhalation, the method comprising the collection of samples of exhaled breath and whole blood separated by known intervals of time, analyzing them using appropriate analytical methods, and then calculating pharmacologic parameters associated with recent <i>cannabis </i>use. In particular embodiments, the method is used by employers in the routine monitoring of workplace drug policy compliance among employees and in workplace accident investigations. In some embodiments, the method is utilized by law enforcement personnel to gath-er evidence in driving under the influence investigations.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="114.30mm" wi="126.75mm" file="US20240027479A1-20240125-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="183.30mm" wi="157.06mm" file="US20240027479A1-20240125-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="127.68mm" wi="162.39mm" file="US20240027479A1-20240125-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="158.50mm" wi="126.15mm" file="US20240027479A1-20240125-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="180.85mm" wi="123.78mm" file="US20240027479A1-20240125-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="179.58mm" wi="126.24mm" file="US20240027479A1-20240125-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="167.05mm" wi="120.65mm" file="US20240027479A1-20240125-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="168.91mm" wi="128.78mm" file="US20240027479A1-20240125-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="179.24mm" wi="135.89mm" file="US20240027479A1-20240125-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCES TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims priority to U.S. Provisional Patent Application No. 63/128,547, filed Dec. 21, 2020, the disclosure of which is hereby incorporated by reference in its entirety for all purposes.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002"><i>Cannabis </i>(<i>Cannabis </i>spp), used by human beings for thousands of years, is a complex plant that contains over 100 cannabinoids and hundreds of other chemical compounds such as terpenes and flavonoids [ElSohly M A. et al., <i>Prog Chem Org Nat Prod </i>103:1-36 (2017)]. The main psychoactive cannabinoid found in <i>cannabis </i>is &#x394;<sup>9</sup>-tetrahydrocannabinol (&#x394;<sup>9</sup>-THC), which exerts its activity by binding to endogenous cannabinoid receptors known as CB<sub>1 </sub>and CB<sub>2 </sub>[Maccarrone M. et al., <i>Trends Pharmacol Sci </i>36:277-96 (2015)]. Other common cannabinoids found in <i>cannabis </i>include cannabidiol (CBD), cannabigerol (CBG), cannabinol (CBN), cannabichromene (CBC), and &#x394;<sup>9</sup>-tetrahydrocannabivarin (&#x394;<sup>9</sup>-THCV). Within the <i>cannabis </i>plant, CBD, CBG, &#x394;<sup>9</sup>-THCV, and &#x394;<sup>9</sup>-THC exist predominantly in their carboxylic acid forms, which undergo decarboxylation upon sufficient heating. To become psychoactive, &#x394;<sup>9</sup>-tetrahydrocannabinolic acid A (&#x394;<sup>9</sup>-THCA), which is the natural, carboxylic acid form of &#x394;<sup>9</sup>-THC, requires decarboxylation [Grotenhermen F., <i>Clin Pharmacokinet </i>42:327-60 (2003)].</p>
+<p id="p-0004" num="0003">Despite several different available testing methods for assessing <i>cannabis </i>use, the ability to effectively establish recent use within the impairment window, generally accepted to be approximately three hours [Hartman R L. &#x26; Huestis M A., <i>Clin Chem </i>59(3):478-92 (2013); Couper F J. &#x26; Logan B K., <i>National Highway Traffic Safety Administration </i>DOT HS 809 725 (2014)], has remained elusive. As a result, inappropriate interpretation of test results by employers, for example, can lead to job applicants not getting hired, or to the wrongful termination of current, non-federal employees who are using <i>cannabis </i>lawfully and responsibly in jurisdictions that allow such use, and where employees are not serving in safety-sensitive positions. As of late 2021, recreational <i>cannabis </i>had been legalized in 19 U.S. states plus Washington, D.C. Some of these states, including Nevada, New Jersey, and New York, have begun to enact laws that ban employ-ment discrimination against current or prospective employees who engage in legal, off-duty recreational <i>cannabis </i>use. Ironically, Colorado, one of the first states to legalize recreational <i>cannabis</i>, provides little legal protection of off-duty <i>cannabis </i>use by employees. At the same time, studies have suggested that the legalization of recreational <i>cannabis </i>has been associated with an increase in fatal traffic collisions [Aydelotte J D. et al., <i>Accid Anal Prev </i>132:105284 (2019); Santaella-Tenorio J. et al., <i>JAMA Intern Med </i>180(8):1061-8 (2020)]. Based on data collected from 2007-2018, a recently published study showed that in U.S. states where recreational <i>cannabis </i>is legal, there has been a 15% increase in fatal collisions and a 16% increase in associated deaths, changes that were sustained beyond the first year following legalization [Windle S B. et al., <i>CMAJ Open </i>9(1): E233-E241 (2021)]. Clearly, a new type of test that can identify recent <i>cannabis </i>use within the impairment window is needed to help bring an end to <i>cannabis </i>discrimination practices in the workplace while also accurately detecting inappropriate <i>cannabis </i>use, e.g., driving under the influence (DUI), to protect public safety.</p>
+<p id="p-0005" num="0004">Although some U.S. states, e.g., Colorado and Washington, have enacted legal &#x394;<sup>9</sup>-THC limits for <i>cannabis </i>DUI, no definitive correlation between the degree of impairment and specific blood levels of &#x394;<sup>9</sup>-THC has been established [Brubacher J R. et al., <i>Addiction </i>114:1616-26 (2019); Hartman R L. et al., <i>Accid Anal Prev </i>92:219-29 (2016); Logan B. et al., An Evaluation of Data from Drivers Arrested for Driving Under the Influence in Relation to Per Se Limits for <i>Cannabis, AAA Foundation for Traffic Safety </i>(May 2016); Etue K K. et al., Report from the Impaired Driving Safety Commission, <i>Michigan State Police </i>(March 2019)]. The state of California and other U.S. states where <i>cannabis </i>has been legalized presently rely on specially trained police officers known as drug recognition experts to make a determination of DUI due to <i>cannabis </i>or other drugs. Physical indicators that have been strongly correlated with <i>cannabis </i>impairment include the condition of the eyes (e.g., reddening of conjunctiva, bloodshot, and watery) and their physiological response (e.g., horizontal gaze nystagmus) [Hartman R L. et al., <i>Accid Anal Prev </i>92:219-29 (2016); Porath A J. et al., <i>Traffic Inj Prev </i>20:255-63 (2019); Bosker W M. et al., <i>Psychopharmacology </i>223:439-46 (2012)]. Law enforcement agencies desperately need an objective means of assessing impairment associated with recent <i>cannabis </i>use.</p>
+<p id="p-0006" num="0005">Similar to the situation on the roadways, working under the influence of drugs such as <i>cannabis </i>is a potential workplace safety hazard both to the individual and surrounding personnel, especially when impaired individuals are operating heavy machinery or motor vehicles, or performing critical work duties, for example, firefighters or emergency medical personnel. With the expanding legalization of <i>cannabis </i>for medical and recreational use in the United States and abroad, testing for recent <i>cannabis </i>use, defined as use within approximately three hours for inhalation routes of administration (e.g., smoking and vaping) or within approximately eight hours for edibles [Huestis M A. et al., <i>Clin Chem </i>51:2289-95 (2005); Couper F. et al., In: <i>Drugs and Human Performance Fact Sheets</i>, National Highway Traffic Safety Administration Report DOT HS 809 725:1-100 (2004); Vandrey R. et al., <i>J Anal Toxicol </i>41:83-99 (2017)], has become a major safety and liability issue. Because a correlation between &#x394;<sup>9</sup>-THC and metabolite levels in the blood and recent use or impairment has never been established, current testing methods that rely solely on determining &#x394;<sup>9</sup>-THC and metabolite concentrations in blood [Biecheler M B. et al., <i>Traffic Inj Prev </i>9:11-21 (2008); Karschner E L. et al., <i>Drug Test Anal </i>8:682-9 (2016); Wong A. et al., <i>Drug Alcohol Depend </i>133:763-7 (2013)], urine [Huestis M A. et al., <i>Trends Mol Med </i>24:156-72 (2018); Lowe R H., <i>Drug Alcohol Depend </i>105:24-32 (2009)], saliva [Vandrey R. et al., <i>J Anal Toxicol </i>41:83-99 (2017); Lowe R H., <i>Drug Alcohol Depend </i>105:24-32 (2009); Marsot A. et al., <i>J Pharm Pharm Sci </i>19:411-22 (2016); Swortwood M J. et al., <i>Drug Test Anal </i>9:905-15 (2017); Moore C. et al., <i>Forensic Sci Int </i>212:227-30 (2011)], or breath [Lynch K L. et al., <i>Clin Chem </i>65:1171-79 (2019)] are inconclusive when investigating <i>cannabis </i>use in the event of workplace incidents or suspected DUI.</p>
+<p id="p-0007" num="0006">In humans, 11-hydroxy-A 9-THC (11-OH-A 9-THC) is the main intermediate metabolite of A 9-THC [Matsunaga T. et al., <i>Life Sci </i>56:2089-95 (1995)]. The most psychoactive of the &#x394;<sup>9</sup>-THC metabolites, 11-OH-A 9-THC has been shown to be equipotent to &#x394;<sup>9</sup>-THC in humans [Perez-Reyes M. et al., <i>Science </i>177:633-5 (1972)]. This metabolite is subsequently eliminated in the feces or oxidized to the inactive metabolite 11-nor-9-carboxy-A 9-THC (&#x394;<sup>9</sup>-THC&#x2014;COOH), which is then eliminated in the urine [Grotenhermen F., <i>Clin Pharmacokinet </i>42:327-60 (2003)]. Less common &#x394;<sup>9</sup>-THC metabolites are formed by side chain hydroxylation at the 1&#x2032;, 2&#x2032;, 3&#x2032; or 4&#x2032; position, 8&#x3b1;- and 8&#x3b2;-hydroxylation, and 9&#x3b1;,10&#x3b1;- and 9&#x3b2;,10&#x3b2;-epoxidation [Dinis-Oliveira R J., <i>Drug Metab Rev </i>48:80-7 (2016)]. The metabolism of &#x394;<sup>9</sup>-THC is summarized in <figref idref="DRAWINGS">FIG. <b>1</b></figref>.</p>
+<p id="p-0008" num="0007">The complex nature of cannabinoid pharmacokinetics and pharmacodynamics calls for a new approach for effectively determining recent use of <i>cannabis </i>within the impairment window. We sought to develop a multiple-parameter test based on pharmacological changes in &#x394;<sup>9</sup>-THC and its metabolites in blood over time. This approach requires the collection of two samples separated by a known time interval, which is a critical difference compared to current blood testing methods that rely on the collection of a single sample. The two-sample strategy makes possible the detection of &#x394;<sup>9</sup>-THC in its distribution phase where the half-life is very short [Moeller M R. et al., <i>J Forensic Sci </i>37:969-83 (1992); Wall M E. et al., <i>Clin Pharmacol Ther </i>34:352-63 (1983)], which occurs only within the first few hours after smoking, and for the evaluation of how &#x394;<sup>9</sup>-THC metabolite levels in blood are changing with time relative to &#x394;<sup>9</sup>-THC. A liquid chromatography high-resolution mass spectrometry (LC-HRMS) bioanalytical method for the quantification of cannabinoids in microsamples (50 &#x3bc;L) of whole blood was developed and validated for this purpose [DeGregorio M W. et al., <i>J AOAC Int </i>103:725-35 (2020)]. We hypothesized that the incorporation of a second testing matrix, i.e., exhaled breath, using the same two-sample strategy to detect kinetic changes in breath cannabinoid levels, could strengthen the results of the blood-based test, which by itself cannot be used to establish impairment, prevent false positive test results, and definitively establish whether a subject is in the impairment window following the use of <i>cannabis </i>through inhalation, i.e. smoking or vaping.</p>
+<p id="p-0009" num="0008">While it has been known for over 30 years that &#x394;<sup>9</sup>-THC can be detected in exhaled breath [Manolis A. et al., <i>Clin Biochem </i>16:229-33 (1983)], only relatively recently has this matrix been explored as a potential means of establishing recent <i>cannabis </i>use within the impairment window [Himes S K. et al., <i>Clin Chem </i>59:1780-9 (2013); Coucke L. et al., <i>Clin Biochem </i>49:1072-7 (2016)]. Exhaled breath testing for recent use based on &#x394;<sup>9</sup>-THC alone is predicated on a short period of detection within the impairment window. A study by Himes et al. suggested that &#x394;<sup>9</sup>-THC is generally detectable in breath for only about two hours after smoking even in chronic users [Himes S K. et al., <i>Clin Chem </i>59:1780-9 (2013)], but more recent studies have shown that &#x394;<sup>9</sup>-THC remains detectable in breath for up to several days since last use [Lynch K L. et al., <i>Clin Chem </i>65:1171-9 (2019); 011a P. et al., <i>Cannabis Cannabinoid Res </i>5(1):99-104 (2020)]. This is a major finding because no meaningful correlation has yet been established between impairment and the levels of &#x394;<sup>9</sup>-THC in any matrix tested to date. Because the leading technologies for breath-based testing for recent <i>cannabis </i>use rely solely on detection of &#x394;<sup>9</sup>-THC [Lynch K L. et al., <i>Clin Chem </i>65(9):1171-9 (2019); Mirzaei H. et al., <i>J Breath Res </i>14(3):034002 (2020)], there is a real potential for false positive test results due to the presence of &#x394;<sup>9</sup>-THC in breath outside of the impairment window.</p>
+<p id="p-0010" num="0009">Given the increasing acceptance of <i>cannabis </i>for both medicinal and recreational use in the United States and internationally, and the current lack of an effective method of discriminating recent use of <i>cannabis </i>from past use, there is a need in the art for methods of determining recent <i>cannabis </i>use so that impaired individuals can be more accurately identified without penalizing those who test positive for prior <i>cannabis </i>use but who are not impaired.</p>
+<heading id="h-0003" level="1">BRIEF SUMMARY OF THE INVENTION</heading>
+<p id="p-0011" num="0010">In some aspects the present invention provides a method for determining recent use of <i>cannabis </i>through inhalation (e.g., smoking or vaping) within the impairment window (i.e., within three hours of use) in human subjects, the method comprising: (1) the collection of one or more (e.g., two) samples of exhaled breath separated by a known time interval (e.g., five minutes) utilizing a device containing a filter (e.g., an electrostatic polymer filter) designed to capture exhaled breath aerosols containing nonvolatile drug molecules and retain them for later laboratory analysis; and (2) the collection of one or more (e.g., two) samples of whole blood separated by a known time interval (e.g., 20 minutes) utilizing a device that automatically collects and stores capillary blood for later laboratory analysis. The results of the laboratory analysis of the blood samples are used to compute the probability, based on a statistical model, that a subject has recently used <i>cannabis </i>by inhalation. The blood-based model is based on six or more parameters (e.g., eight parameters) that have been associated with the recent use of <i>cannabis</i>. The higher the number of parameters for which a subject is positive, the higher the probability of recent <i>cannabis </i>use. The results of the laboratory analysis of the breath samples are used to identify parameters (e.g., 12 parameters) that have been associated with recent <i>cannabis </i>use through inhalation within the impairment window. In the event that a single blood sample is collected alongside two breath samples, the blood sample is used as a confirmatory test. If the breath/blood &#x394;<sup>9</sup>-THC concentration or intensity ratio is &#x2265;2, this confirms recent <i>cannabis </i>use through inhalation within the impairment window.</p>
+<p id="p-0012" num="0011">In other aspects, the present invention provides a method for determining recent use of <i>cannabis </i>through inhalation (e.g., smoking or vaping) within the peak impairment window (i.e., within one hour of use) in human subjects, the method comprising the collection of two (2) samples of exhaled breath utilizing a device containing a filter (e.g., an electrostatic polymer filter) designed to capture exhaled breath aerosols containing nonvolatile drug molecules and retain them for later laboratory analysis, and one (1) sample of whole blood utilizing a device that automatically collects and stores capillary blood for later laboratory analysis. The results of the laboratory analysis of the breath samples are used to identify parameters (e.g., 12 parameters) that have been associated with recent <i>cannabis </i>use through inhalation within the peak impairment window. The blood sample is used as a confirmatory test to verify recent use within the peak impairment window. If the results show a short &#x394;<sup>9</sup>-THC half-life (&#x3c;60 minutes) and at least one other recent use parameter in breath, and the breath/blood &#x394;<sup>9</sup>-THC concentration or intensity ratio is &#x2265;2, this constitutes a positive test result.</p>
+<p id="p-0013" num="0012">In particular aspects, the method is used by law enforcement personnel to collect evidence in DUI investigations, the method comprising the collection of two (2) exhaled breath samples approximately five minutes apart using devices equipped with electrostatic polymer filters that capture exhaled breath aerosols containing nonvolatile drug molecules and retain them for later analysis, and the collection of two (2) blood samples approximately 20 minutes apart using devices that automatically collect and store capillary blood for later analysis. The samples are then subjected to laboratory analysis for determination of &#x394;<sup>9</sup>-THC, &#x394;<sup>9</sup>-THC metabolites, and other cannabinoids. Following the analyses, blood sample data are compared to a list of eight pharmacologic blood-based parameters associated with recent use of <i>cannabis</i>, and the breath sample data are compared to a list of 12 pharmacologic breath-based parameters associated with recent use of <i>cannabis</i>. A positive result in four of the eight blood-based parameters indicates a 95% probability of recent use, and a positive result in five or more of the eight blood-based parameters indicates a 99% probability of recent <i>cannabis </i>use. A positive result in four or more of the eight blood-based parameters combined with a positive result in the breath samples (e.g., &#x394;<sup>9</sup>-THC half-life &#x3c;60 minutes, &#x394;<sup>9</sup>-THC breath/blood concentration or intensity ratio &#x2265;2, and at least one other recent use parameter) indicates that the subject is within the period of peak impairment (i.e., within one hour after smoking or vaping) following <i>cannabis </i>use through inhalation. Additional parameters may be used as they are identified to strengthen the statistical power of the model.</p>
+<p id="p-0014" num="0013">In some embodiments, the method is used by employers in the routine monitoring of workplace drug policy compliance among employees, the method comprising the collection of one (1) breath sample utilizing a device containing a filter (e.g., an electrostatic polymer filter) designed to capture exhaled breath aerosols containing nonvolatile drug molecules and retain them for later laboratory analysis, and the collection of one (1) blood sample using a device that automatically collects and stores capillary blood for later analysis. Other blood collection techniques, e.g., the use of lancing devices similar to those used by diabetics for routine blood glucose monitoring, may be used. The breath and blood samples are then subjected to laboratory analysis for the determination of &#x394;<sup>9</sup>-THC, &#x394;<sup>9</sup>-THC metabolites, and other cannabinoids. Following analysis, the breath data are compared to a list of six (6) pharmacologic parameters associated with recent <i>cannabis </i>use by inhalation within the peak impairment window. The presence of CBC and/or &#x394;<sup>9</sup>-THCV in breath, combined with a breath/blood &#x394;<sup>9</sup>-THC concentration or intensity ratio &#x2265;2, indicates that the test subject is positive for recent use within the peak impairment window. Additional breath-based parameters of recent use may be employed as they are identified to strengthen the method.</p>
+<p id="p-0015" num="0014">In other embodiments, the method is used by employers in the routine monitoring of workplace drug policy among employees, the method comprising the collection of two (2) breath samples utilizing devices containing a filter (e.g., an electrostatic polymer filter) designed to capture exhaled breath aerosols containing nonvolatile drug molecules and retain them for later laboratory analysis, and one (1) blood sample using a device that automatically collects and stores capillary blood for later analysis. Other blood collection techniques, e.g., the use of lancing devices similar to those used by diabetics for routine blood glucose monitoring, may be used. The breath and blood samples are then subjected to laboratory analysis for the determination of &#x394;<sup>9</sup>-THC, &#x394;<sup>9</sup>-THC metabolites, and other cannabinoids. Following analysis, the breath data are compared to a list of twelve (12) pharmacologic parameters associated with recent <i>cannabis </i>use by inhalation within the peak impairment window. A &#x394;<sup>9</sup>-THC half-life of &#x3c;60 minutes combined with positivity for at least one other breath-based parameter of recent use and a breath/blood &#x394;<sup>9</sup>-THC concentration or intensity ratio &#x2265;2 indicates that the subject is positive for recent use of <i>cannabis </i>through inhalation within the impairment window. Additional parameters may be used as they are identified to strengthen the model.</p>
+<p id="p-0016" num="0015">In particular embodiments, the method is used by employers in the investigation of workplace accidents, the method comprising the collection of two (2) exhaled breath samples and two (2) blood samples. Exhaled breath samples are collected approximately five (5) minutes apart using devices equipped with electrostatic polymer filters that capture exhaled breath aerosols containing nonvolatile drug molecules and retain them for later analysis. The blood samples are collected approximately 20 minutes apart using devices that automatically collect and store capillary blood for later analysis. Other blood collection techniques, e.g., the use of lancing devices similar to those used by diabetics for routine blood glucose monitoring, may be used. Following laboratory analysis for determination of &#x394;<sup>9</sup>-THC, &#x394;<sup>9</sup>-THC metabolites, and other cannabinoids, the breath sample data are compared to a list of 12 pharmacologic breath-based parameters associated with recent use of <i>cannabis</i>, and the blood sample data are compared to a list of eight (8) pharmacologic blood-based parameters associated with recent use of <i>cannabis</i>. A positive result in four (4) or more of the eight (8) blood-based parameters combined with a positive result in the exhaled breath samples (e.g., &#x394;<sup>9</sup>-THC half-life &#x3c;60 minutes, &#x394;<sup>9</sup>-THC breath/blood concentration or intensity ratio &#x2265;2, and positivity for at least one other recent use parameter) indicates that the subject is within the period of peak impairment (i.e., within one hour after smoking or vaping) following <i>cannabis </i>use through inhalation. A negative breath test result combined with a positive result in four (4) or more of the eight (8) blood-based parameters indicates a &#x3e;95% probability of recent <i>cannabis </i>use only (within 8-12 hours). Additional parameters may be used to strengthen the statistical power of the model.</p>
+<p id="p-0017" num="0016">In some embodiments, the method is used to determine recent use by inhalation of drugs of abuse other than <i>cannabis </i>(e.g., amphetamines, opiates, and cocaine), the method comprising collection of at least one (1) exhaled breath sample utilizing a device containing a filter (e.g., an electrostatic polymer filter) designed to capture exhaled breath aerosols containing nonvolatile drug molecules and retain them for later laboratory analysis, and at least one (1) blood sample using an automatic capillary blood collection device as described or other acceptable means (e.g., lancets). The samples are then subjected to laboratory analysis for the determination of key drug compounds and metabolites of interest. Following analysis, the data are compared to a list of six or more pharmacologic parameters (e.g., eight parameters) associated with the recent use of the compound(s) of interest. A positive result in four of the eight parameters indicates a 95% probability of recent use, and a positive result in five or more of the eight parameters indicates a 99% probability of recent use of the compound(s) of interest. Additional parameters may be used as they are identified to strengthen the statistical power of the model.</p>
+<p id="p-0018" num="0017">In particular embodiments, the method is used by law enforcement personnel and employers to collect evidence in DUI and workplace accident investigations, respectively, involving inhaled drugs of abuse other than <i>cannabis</i>, the method comprising the collection of two (2) exhaled breath samples utilizing a device containing an electrostatic polymer filter designed to capture exhaled breath aerosols containing nonvolatile drug molecules and retain them for later laboratory analysis, and two (2) whole blood samples approximately 20 minutes apart using automatic capillary blood collection devices as described or other acceptable means (e.g., lancets), which are then subjected to laboratory analysis for multiple drugs of abuse (e.g., amphetamines, opiates, and cocaine). Following analysis, the data are compared to a list of eight (8) pharmacologic parameters associated with the recent use of the compound(s) of interest. A positive result for four of the eight parameters indicates a 95% probability of recent use by inhalation, while a positive result for five or more of the eight parameters indicates a 99% probability of recent use of the compound(s) of interest. Additional parameters may be used as they are identified to strengthen the statistical power of the model. Fewer parameters may also be used as appropriate.</p>
+<p id="p-0019" num="0018">Other objects, features, and advantages of the present invention will be apparent to one of skill in the art from the following detailed description and figures.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. <b>1</b></figref>. Metabolism of &#x394;<sup>9</sup>-THC. The major metabolites of &#x394;<sup>9</sup>-THC and the metabolic enzymes primarily responsible for their formation are shown. CYP=cytochrome P450; UGT=uridine 5&#x2032;-diphospho-glucuronosyltransferase; gluc=glucuronic acid.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. <b>2</b></figref>. Self-assessment impairment scale. This scale was used by clinical study subjects to assess their level of impairment prior to and after smoking <i>cannabis. </i></p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. <b>3</b></figref>. &#x394;<sup>9</sup>-THC concentrations in blood do not correlate with impairment. In a scatter plot, pre-smoking &#x394;<sup>9</sup>-THC concentrations in blood from 30 clinical subjects are shown compared to a common legal limit for &#x394;<sup>9</sup>-THC (5 ng/mL; indicated by black horizontal line). Black dashed line indicates the median concentration.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. <b>4</b></figref>. Impairment windows following <i>cannabis </i>smoking. The window of impairment after smoking <i>cannabis </i>was evaluated in 74 subjects who self-assessed their level of impairment prior to smoking and at various time points post-smoking using a 10-point scale.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. <b>5</b></figref>. Incidence of horizontal gaze nystagmus before and after smoking <i>cannabis</i>. Overall incidence of nystagmus within the three-hour impairment window (N=34 pre-smoking; N=44 post-smoking; N=43 three hours post-smoking).</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. <b>6</b></figref>. Incidence of horizontal gaze nystagmus before and after smoking <i>cannabis</i>. Incidence of nystagmus within the three-hour impairment window over time (N=34 pre-smoking; N=44 immediately after smoking; N=33 one hour post-smoking; N=10 two hours post-smoking; N=43 three hours post-smoking).</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. <b>7</b></figref>. Average percent maximum impairment pre-smoking up to three hours post-smoking (N=74). Error bars indicate positive standard deviation.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. <b>8</b></figref>. Breath/blood &#x394;<sup>9</sup>-THC ratios. Solid black horizontal lines indicate mean values. N=29 (pre-smoking baseline; BL); N=32 (immediately after smoking; 0 min); N=35 (20 min post-smoking; N=24 (60 min post-smoking); N=31 (180 min post-smoking). Zero values (13 at BL and two at 180 min) are not shown due to logarithmic scale. Due to assay quantification limits, three values (two immediately after smoking and one at 60 min post-smoking) were excluded. *(p=0.0015), &#x2020;(p=0.0108), &#x2021;(p=0.0107), &#xa7; (p=0.0091) compared to BL (two-tailed t-test with Bonferroni's adjustment for multiple comparisons; &#x3b1;=0.0125).</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0028" num="0027">I. INTRODUCTION</p>
+<p id="p-0029" num="0028">This invention relates to the development of a pharmacologic test based on exhaled breath and blood sampling for detecting recent use of <i>cannabis </i>within the impairment window following consumption of <i>cannabis </i>products through inhalation, e.g., smoking or vaping. The condition and physiological response of the eyes (e.g., horizontal gaze nystagmus) are used as physical indicators of impairment. In blood or dried blood spots, recent use is based on pharmacokinetic information for &#x394;<sup>9</sup>-THC, its principal metabolites (11-0H-A 9-THC, 11-nor-9-carboxy-A 9-THC, and 8&#x3b2;,11-dihydroxy-A 9-THC), concentration or intensity ratios of these metabolites to &#x394;<sup>9</sup>-THC, and the ratios between different metabolites. The presence of, and pharmacokinetic information pertaining to, key recent use indicators, including but not limited to CBN, CBC, CBG, &#x394;<sup>9</sup>-THCV, &#x394;<sup>9</sup>-THC epoxides, and &#x394;<sup>9</sup>-THC-glucuronide, will also be used as blood-based evidence of recent use. At least two (2) blood samples are collected to provide the necessary pharmacokinetic information. The second blood sample is ideally collected approximately 20 minutes after collection of the first sample. Breath-based evidence to support recent <i>cannabis </i>use within the impairment window includes, but is not limited to, pharmacokinetic information pertaining to key cannabinoids (e.g., &#x394;<sup>9</sup>-THC and CBN) and the presence of key indicators of recent use (e.g., CBC, CBG, &#x394;<sup>9</sup>-THCV) in the breath. At least two (2) breath samples are collected to obtain this information. Breath samples are preferably collected no more than 20 minutes apart, more preferably five minutes apart. Alternatively, it is possible to demonstrate recent <i>cannabis </i>use within the peak impairment window based on a single exhaled breath sample, one (1) exhaled breath and one (1) blood sample, or two (2) exhaled breath samples and one (1) blood sample, as described below.</p>
+<p id="p-0030" num="0029">Should distribution phase kinetics be observed (e.g., a half-life of &#x3c;60 minutes for &#x394;<sup>9</sup>-THC or CBN) for key cannabinoids in breath, in addition to a positive test result from blood or dried blood spot samples and physical evidence of impairment, this is definitive evidence that the subject was within the peak impairment window (the first hour after smoking or vaping) when the samples were collected. Physical evidence of impairment gathered during standardized field sobriety testing includes a finding of horizontal gaze nystagmus or other physiological responses (e.g., red, bloodshot, watery eyes) that are indicative of recent <i>cannabis </i>use. In the event that distribution phase kinetics and recent use indicators are not observed in the breath, but the subject receives a positive test result in blood or dried blood spots, this is indicative only of recent <i>cannabis </i>use (within approximately 8-12 hours). In order to prevent false positive test results from breath samples, certain criteria may be applied. For example, to be considered a valid positive test result for recent use within the impairment window, the breath/blood &#x394;<sup>9</sup>-THC concentration or intensity ratio must be &#x2265;2.</p>
+<p id="p-0031" num="0030">An obvious advantage of this invention is in the law enforcement setting, as there are currently no effective methods for establishing recent <i>cannabis </i>use within the impairment window in DUI investigations. Current methods rely on single measurements of cannabinoids in blood, urine, saliva, or breath, none of which provides sufficient evidence of recent use or impairment due to <i>cannabis</i>. For cases of suspected DUI, it is critical for the law enforcement officer to collect breath samples as quickly as possible because peak impairment occurs within the first hour after smoking or vaping <i>cannabis </i>and evidence dissipates rapidly. Due to the non-invasive nature of breath sampling, no warrant is required, which will facilitate this process. Immediately upon suspicion of DUI, two breath samples are collected approximately three to five minutes apart utilizing single-use breath collection devices. Nonvolatile drug molecules contained within exhaled breath aerosols are captured by the electrostatic polymer filter within the collection device. While a longer time interval (e.g., 20 minutes) can be used if necessary, the shorter time interval between samples helps prevent the loss of rapidly dissipating evidence. If a driver is arrested on suspicion of DUI, blood samples should also be collected as soon as possible to minimize the dissipation of evidence. Blood sampling can be performed concomitantly with breath sampling, but this is not required. At least two (2) blood samples are collected approximately 20 minutes apart using automated devices designed to collect capillary blood. Such a device operates in a fashion similar to lancing devices used by diabetics for blood glucose testing; that is, the device will lance a suitable body part (e.g., the upper arm) so that a small quantity of blood (e.g., 250 &#x3bc;L) may be collected and stored within a sealed chamber or collection tube containing anticoagulant. As a convenient alternative, dried blood spots may also be used, and devices are available that are capable of automatically collecting capillary blood and preparing dried blood spots. Lancets for collecting capillary blood are also acceptable, in addition to traditional venipuncture. As soon as possible after collection, all breath and blood samples are shipped to the laboratory for analysis. For convenience, the supplies needed for breath and blood sample collection, identification, and shipping can be combined within a kit designed for law enforcement applications.</p>
+<p id="p-0032" num="0031">Another advantage of this invention is in the setting of workplace drug testing in states where recreational and/or medicinal use of <i>cannabis </i>has been legalized. For employers, the exhaled breath and blood test will better differentiate those employees who have used <i>cannabis </i>recently and may be impaired from employees who have used <i>cannabis </i>in the past, but not recently enough to be impaired. This would protect both the employer, who can identify impaired employees who pose a genuine threat to the business, and the employees, who can avoid unjustified termination as a result of legal and responsible <i>cannabis </i>use. The availability of this invention gives employers a compelling reason to abandon zero-tolerance policies, which are unnecessarily burdensome, in those jurisdictions where such policies have not already been disallowed for many non-public safety related positions through legislation. In a workplace environment, two (2) breath samples are collected approximately five minutes apart, and either a single blood sample or two (2) blood samples collected approximately 20 minutes apart, are taken depending on the desired application. For example, in the event of a workplace accident where maximum evidence to support impairment is needed, two (2) breath and two (2) blood samples are collected. For routine monitoring of employees for drug policy compliance, employers may elect to collect only two (2) breath samples with or without a single blood sample, which can be used to establish recent use of <i>cannabis </i>by inhalation within the peak impairment window when sufficient evidence is observed (one or more breath-based parameters of recent use combined with a breath/blood &#x394;<sup>9</sup>-THC ratio &#x2265;2). Blood may be collected via venipuncture, automated capillary blood collection devices, or lancet. As soon as possible after collection, all breath and blood samples are shipped to the laboratory for analysis. For convenience, the supplies needed for breath and blood sample collection, identification, and shipping can be combined within kits customized for workplace applications.</p>
+<p id="p-0033" num="0032">Blood and breath samples will be analyzed in a laboratory for the determination of various cannabinoids and metabolites including, but not limited to, &#x394;<sup>9</sup>-THC, 11-OH-A 9-THC, 11-nor-9-carboxy-&#x394;<sup>9</sup>-THC, 8&#x3b2;,11-dihydroxy-&#x394;<sup>9</sup>-THC, CBN, CBG, CBC, &#x394;<sup>9</sup>-THCV, CBGA, &#x394;<sup>9</sup>-THC glucuronide, and &#x394;<sup>9</sup>-THC epoxides using validated analytical methods; for example high-performance liquid chromatography (HPLC), gas chromatography tandem mass spectrometry (GC-MS/MS), liquid chromatography tandem mass spectrometry (LC-MS/MS), or LC or GC high-resolution mass spectrometry (HRMS), as appropriate. Other drugs of abuse and their various metabolites will be analyzed utilizing these methods. Once the concentrations or relative intensities of these compounds have been determined, the various pharmacologic parameters will be calculated so that a determination of recent <i>cannabis </i>use within the impairment window can be made.</p>
+<p id="p-0034" num="0033">The breath and blood-based test method can also be used for DUI and non-DUI investigations related to inhaled drugs of abuse other than <i>cannabis </i>including, but not limited to, illegal synthetic cannabinoids, methamphetamines, and cocaine. The type of filter contained within the breath collection devices utilized in testing for recent <i>cannabis </i>use is already known to capture multiple different drugs of abuse in exhaled breath, drugs and metabolites of which that are readily detectable in blood.</p>
+<p id="p-0035" num="0034">The application of this invention is not restricted to just a two-point blood and two-point breath analysis. Three, four, or more blood and breath samples can be collected to further strengthen the predictive accuracy of the model. When testing only for recent use within the peak impairment window (e.g., in a workplace setting), only a single breath sample may provide sufficient evidence that the subject was within the peak impairment window following the use of <i>cannabis </i>through inhalation (i.e., smoking or vaping), as mentioned above. One breath and one blood sample may likewise be sufficient; for example, if the breath/blood &#x394;<sup>9</sup>-THC concentration or intensity ratio is &#x2265;2, and there is at least one other recent use indicator observed in the breath (e.g., the presence of CBC and/or &#x394;<sup>9</sup>-THCV), this is sufficient evidence of recent use within the impairment window.</p>
+<p id="p-0036" num="0035">An exhaled breath and blood-based model utilizing multiple recent use parameters will be used to determine whether a test subject recently used <i>cannabis </i>and was within the established impairment window (approximately three hours after use through inhalation). For example, a positive breath test result (short &#x394;<sup>9</sup>-THC half-life and at least one other recent use indicator) combined with supporting blood evidence (breath/blood &#x394;<sup>9</sup>-THC concentration or intensity ratio &#x2265;2) indicates recent <i>cannabis </i>use within the impairment window. A negative breath test result and a positive blood test result (e.g., four or more positive parameters out of eight) indicates recent use of <i>cannabis </i>only through inhalation within the last 8-12 hours. When considering blood evidence alone, the greater the number of recent use parameters for which the subject is positive, the higher the statistical probability of recent <i>cannabis </i>use through inhalation. The model is based on the following breath and blood-based parameters that have been associated with recent use of <i>cannabis </i>through inhalation. This list is for illustration purposes only. As additional recent use parameters are identified, they may be added to the model.</p>
+<p id="p-0037" num="0036">A short &#x394;<sup>9</sup>-THC half-life (less than one hour) in breath, blood, or dried blood spots, indicating distribution phase kinetics, when comparing two test samples.</p>
+<p id="p-0038" num="0037">A short CBN half-life (less than one hour) in breath, blood or dried blood spots, indicating distribution phase kinetics, when comparing two test samples.</p>
+<p id="p-0039" num="0038">A short &#x394;<sup>9</sup>-tetrahydrocannabinolic acid A (&#x394;<sup>9</sup>-THCA) half-life (less than one hour) in breath, indicating distribution phase kinetics, when comparing two test samples.</p>
+<p id="p-0040" num="0039">A short 11-OH-&#x394;<sup>9</sup>-THC half-life (less than one hour) in blood or dried blood spots, indicating distribution phase kinetics, when comparing two test samples.</p>
+<p id="p-0041" num="0040">A short CBG half-life (less than one hour) in breath, indicating distribution phase kinetics, when comparing two test samples.</p>
+<p id="p-0042" num="0041">A short CBC half-life (less than one hour) in breath, indicating distribution phase kinetics, when comparing two test samples.</p>
+<p id="p-0043" num="0042">A short &#x394;<sup>9</sup>-THCV half-life (less than one hour) in breath, indicating distribution phase kinetics, when comparing two test samples.</p>
+<p id="p-0044" num="0043">A ratio of 11-nor-9-carboxy-&#x394;<sup>9</sup>-THC to &#x394;<sup>9</sup>-THC in blood or dried blood spots that is increasing at least 25% when comparing two test samples.</p>
+<p id="p-0045" num="0044">A ratio of 11-nor-9-carboxy-&#x394;<sup>9</sup>-THC to CBN in blood or dried blood spots that is increasing at least 25% when comparing two test samples.</p>
+<p id="p-0046" num="0045">A ratio of 11-OH-&#x394;<sup>9</sup>-THC to &#x394;<sup>9</sup>-THC in blood or dried blood spots that is increasing at least 25% when comparing two test samples.</p>
+<p id="p-0047" num="0046">A ratio of 8&#x3b2;,11-dihydroxy-&#x394;<sup>9</sup>-THC to &#x394;<sup>9</sup>-THC in blood or dried blood spots that is increasing at least 25% when comparing two test samples.</p>
+<p id="p-0048" num="0047">A ratio of 11-nor-9-carboxy-&#x394;<sup>9</sup>-THC to 11-OH-&#x394;<sup>9</sup>-THC in blood or dried blood spots that is increasing at least 25% when comparing two test samples.</p>
+<p id="p-0049" num="0048">The presence of CBG in breath.</p>
+<p id="p-0050" num="0049">The presence of CBC in breath.</p>
+<p id="p-0051" num="0050">The presence of &#x394;<sup>9</sup>-THCV in breath.</p>
+<p id="p-0052" num="0051">The presence of &#x394;<sup>9</sup>-THC-glucuronide in whole blood or dried blood spots.</p>
+<p id="p-0053" num="0052">The presence of &#x394;<sup>9</sup>-THC epoxides in whole blood or dried blood spots.</p>
+<p id="p-0054" num="0053">A short CBGA half-life (less than one hour) in breath, indicating distribution phase kinetics, when comparing two test samples.</p>
+<p id="p-0055" num="0054">The presence of CBGA in breath.</p>
+<p id="p-0056" num="0055">A breath/blood &#x394;<sup>9</sup>-THC concentration or intensity ratio that is &#x2265;2.</p>
+<p id="p-0057" num="0056">In summary, a pharmacologic model based on a combination of exhaled breath and blood testing has been developed for the assessment of recent <i>cannabis </i>use within the impairment window. As a theoretical example, if breath and blood samples from a subject show a &#x394;<sup>9</sup>-THC half-life less than one hour, a breath/blood &#x394;<sup>9</sup>-THC concentration or intensity ratio &#x2265;2, and are positive for least one other breath-based recent use parameter, this is sufficient evidence of recent use within the peak impairment window (within one hour after use). A subject with a negative breath test but who's blood samples are positive for at least four (4) recent use parameters out of a total of eight (8) has a &#x3e;95% probability of having used <i>cannabis </i>recently (within the last 8-12 hours) through inhalation. It is also possible to determine recent <i>cannabis </i>use through inhalation within the impairment window based on breath samples only. As a non-limiting example, if exhaled breath samples from a subject show a &#x394;<sup>9</sup>-THC half-life &#x3c;60 minutes in addition to at least one other recent use indicator, e.g., the presence of &#x394;<sup>9</sup>-THCV, this is sufficient evidence of recent <i>cannabis </i>use within the peak impairment window.</p>
+<p id="p-0058" num="0057">II. DEFINITIONS</p>
+<p id="p-0059" num="0058">Unless specifically indicated otherwise, all technical and scientific terms used herein have the same meaning as commonly understood by those of ordinary skill in the art to which this invention belongs. In addition, any method or material similar or equivalent to a method or material described herein can be used in the practice of the present invention. For purposes of the present invention, the following terms are defined.</p>
+<p id="p-0060" num="0059">The terms &#x201c;a,&#x201d; &#x201c;an,&#x201d; or &#x201c;the&#x201d; as used herein not only include aspects with one member, but also include aspects with more than one member. For instance, the singular forms &#x201c;a,&#x201d; &#x201c;an,&#x201d; and &#x201c;the&#x201d; include plural referents unless the context clearly dictates otherwise. Thus, for example, reference to &#x201c;a parameter&#x201d; includes a plurality of such parameters, and reference to &#x201c;the metabolite&#x201d; includes reference to one or more metabolites known to those skilled in the art, and so forth.</p>
+<p id="p-0061" num="0060">The terms &#x201c;subject,&#x201d; &#x201c;patient,&#x201d; or &#x201c;individual&#x201d; are used herein interchangeably. The term &#x201c;sample&#x201d; includes whole blood, capillary blood, plasma, serum, breath, oral fluid, and urine.</p>
+<p id="p-0062" num="0061">As used herein, the term &#x201c;consumption&#x201d; includes smoking, vaping, oral administration, sublingual administration, topical contact, and administration as a suppository. One skilled in the art will know of additional methods of administering <i>cannabis </i>and <i>cannabis</i>-derived compounds.</p>
+<p id="p-0063" num="0062">The term &#x201c;cannabinoid&#x201d; refers to any member of the broad class of phytocannabinoid compounds derived from the <i>cannabis </i>plant (<i>Cannabis </i>spp.), or their synthetic equivalents, including, but not limited to, &#x394;<sup>8</sup>-THC, &#x394;<sup>9</sup>-THC, CBD, CBG, CBC, CBN, &#x394;<sup>9</sup>-THCV, and any of their associated carboxylic acid forms.</p>
+<p id="p-0064" num="0063">The term &#x201c;metabolite&#x201d; includes any of the products resulting from the metabolism of cannabinoids within the body, including, but not limited to, 11-0H-&#x394;<sup>9</sup>-THC, 11-nor-9-carboxy-&#x394;<sup>9</sup>-THC, 8&#x3b2;,11-dihydroxy-&#x394;<sup>9</sup>-THC, &#x394;<sup>9</sup>-THC-glucuronide, and &#x394;<sup>9</sup>-THC epoxides.</p>
+<p id="p-0065" num="0064">&#x394;<sup>8</sup>-THC and &#x394;<sup>9</sup>-THC refer to, respectively, &#x394;<sup>8</sup>-tetrahydrocannabinol and &#x394;<sup>9</sup>-tetrahydrocannabinol.</p>
+<p id="p-0066" num="0065">11-OH-&#x394;<sup>9</sup>-THC refers to the metabolite 11-hydroxy-&#x394;<sup>9</sup>-tetrahydrocannabinol.</p>
+<p id="p-0067" num="0066">&#x394;<sup>9</sup>-THC&#x2014;COOH refers to the metabolite 11-nor-9-carboxy-&#x394;<sup>9</sup>-tetrahydrocannabinol.</p>
+<p id="p-0068" num="0067">&#x394;<sup>9</sup>-THCV refers to the cannabinoid &#x394;<sup>9</sup>-tetrahydrocannabivarin.</p>
+<p id="p-0069" num="0068">&#x394;<sup>9</sup>-THCA refers to the cannabinoid &#x394;<sup>9</sup>-tetrahydrocannabinolic acid A.</p>
+<p id="p-0070" num="0069">CBN refers to the cannabinoid cannabinol.</p>
+<p id="p-0071" num="0070">CBD refers to the cannabinoid cannabidiol.</p>
+<p id="p-0072" num="0071">CBDA refers to the cannabinoid cannabidiolic acid.</p>
+<p id="p-0073" num="0072">CBG refers to the cannabinoid cannabigerol.</p>
+<p id="p-0074" num="0073">CBC refers to the cannabinoid cannabichromene.</p>
+<p id="p-0075" num="0074">CBGA refers to the cannabinoid cannabigerolic acid.</p>
+<p id="p-0076" num="0075">The term &#x201c;illegal synthetic cannabinoid&#x201d; refers to any of the illegal cannabinoid-like designer drugs that have been identified, including, but not limited to, Spice, K2, synthetic marijuana, AK-47, Mr. Happy, Scooby Snax, Kush, and Kronic.</p>
+<p id="p-0077" num="0076">The term &#x201c;recent <i>cannabis </i>use test&#x201d; refers both to a blood-based test applied to determine whether a subject has used <i>cannabis </i>recently through smoking, vaping, or consumption of edibles, and to the breath- and blood-based test applied to determine whether a subject has used <i>cannabis </i>recently through inhalation (e.g., smoking or vaping) and is within the impairment window.</p>
+<p id="p-0078" num="0077">The term &#x201c;impairment window&#x201d; refers to the three-hour time period immediately following the use of <i>cannabis </i>through inhalation (e.g., smoking or vaping).</p>
+<p id="p-0079" num="0078">The terms &#x201c;peak impairment&#x201d; and &#x201c;peak impairment window&#x201d; refer to the one-hour time period immediately following the use of <i>cannabis </i>through inhalation (e.g., smoking or vaping).</p>
+<p id="p-0080" num="0079">III. DESCRIPTION OF THE METHOD</p>
+<p id="p-0081" num="0080">For exhaled breath-based testing or combined breath and blood-based testing for recent <i>cannabis </i>use within the impairment window, the method underlying this invention relies on specific breath-based parameters of recent use. A subject manifesting a short &#x394;<sup>9</sup>-THC half-life (&#x3c;60 minutes) and at least one other breath-based indicator of recent use, e.g., the presence of CBC, is considered positive for recent use of <i>cannabis </i>within the impairment window. If additional evidence is desired or if the subject is manifesting only a short &#x394;<sup>9</sup>-THC half-life, an optional confirmatory test utilizing a blood sample can be performed. If the breath/blood &#x394;<sup>9</sup>-THC concentration or intensity ratio is &#x2265;2, this confirms that the subject was within the impairment window after having used <i>cannabis </i>through inhalation.</p>
+<p id="p-0082" num="0081">For blood-based testing, the method underlying this invention relies on the use of a statistical model to derive the probability that a DUI suspect, employee, or other test subject recently used <i>cannabis </i>or some other substance of abuse for which testing is desired. Comprising the model are various parameters that have been associated with the recent use of <i>cannabis </i>or other compounds of interest. Ideally, at least six (6) parameters are used, but more may be added as they are identified to strengthen the statistical power of the model. The greater the number of parameters for which a subject is positive, the higher the statistical probability of recent use and therefore impairment. It may also be possible to determine recent use based on fewer parameters. The subjects' pharmacokinetic and pharmacodynamic data are used to determine whether the particular subject is positive, for which a value of &#x201c;1&#x201d; is assigned, or negative, for which a value of &#x201c;0&#x201d; is assigned, in each of the parameters. An appropriate statistical test is then applied to determine whether the subjects' average scores are significantly different from the hypothetical average of &#x201c;0,&#x201d; which would represent a non-recent user.</p>
+<p id="p-0083" num="0082">As a non-limiting example of the application of the invention for blood-based testing, take eight (8) of the described blood-based pharmacologic parameters that have been associated with recent <i>cannabis </i>use. After determining positivity or negativity for each of these eight parameters, a Student's t-test with two-sample equal variance, two-tailed distribution, and significance level of 0.05 is then applied. The null hypothesis for this test is that there is no meaningful difference between the subject's average score for the eight parameters and that of a hypothetical non-recent user. The result of this test will return the probability (p) that the test subject could have come from a population of non-recent users. A p-value result of &#x3c;0.05 is considered statistically significant. In the example of eight (8) pharmacologic parameters, a statistically significant result is achieved when the test subject is positive for four (4) or more of the parameters. Other statistical tests may be suitable and may be employed in the evaluation. This model may be adapted to test for the recent use of other drugs of interest, and additional parameters may be added to this model to strengthen its statistical power. It may also be possible to use fewer than eight parameters, e.g., at least one or as many as seven, to determine recent use based on blood evidence.</p>
+<p id="p-0084" num="0083">When considering recent <i>cannabis </i>use and impairment, based on the specific positive test parameters in exhaled breath and blood samples, a test subject may be placed into one of the following three categories: (1) a recent <i>cannabis </i>user who is within the peak impairment window (positive test result in breath and blood); (2) a recent user who is outside of the peak impairment window (positive test result in blood only); or (3) a non-recent user (negative test result in blood and breath). As a non-limiting example, a test subject whose samples show short half-lives for &#x394;<sup>9</sup>-THC and CBN in breath and blood or dried blood spots, and a short 11-OH-&#x394;<sup>9</sup>-THC half-life, &#x394;<sup>9</sup>-THC&#x2014;COOH/A 9-THC ratio increasing &#x2265;25% in blood or dried blood spots, and &#x394;<sup>9</sup>-THC-COOH/CBN ratio increasing &#x2265;25% in blood or dried blood spots, combined with a breath/blood &#x394;<sup>9</sup>-THC concentration or intensity ratio &#x2265;2, has a &#x3e;99% probability of being a recent user based on blood evidence alone, and is a recent user within the peak impairment window based on combined breath and blood evidence. A software program can be written that automatically computes positivity or negativity in each parameter specified following sample analysis and places the subject into one of the three categories. This program would be applicable to <i>cannabis </i>use through inhalation.</p>
+<p id="p-0085" num="0084">IV. EXAMPLES</p>
+<p id="p-0086" num="0085">The following examples are offered to illustrate, but not to limit, the claimed invention.</p>
+<p id="p-0087" num="0086">A total of 92 subjects were included in clinical trials designed to evaluate the feasibility of the described method for determining recent <i>cannabis </i>use (blood-based study in 48 subjects) and recent <i>cannabis </i>use and impairment (breath- and blood-based study in 44 subjects). Each subject was given a single <i>cannabis </i>cigarette and instructed to smoke as much of it as possible within a 10-minute period. Cigarettes containing 500 mg of dried <i>cannabis </i>flower were prepared immediately before each smoking session. During the studies, subjects were given a variety of <i>cannabis </i>chemovars to smoke, with &#x394;<sup>9</sup>-THC content ranging from a low of 8.5% to a high of 28.4%. A wide variety of chemovars was included to account for the variability in &#x394;<sup>9</sup>-THC potencies available in numerous <i>cannabis </i>retail establishments in the various U.S. states where recreational and/or medicinal <i>cannabis </i>has been legalized. Capillary blood samples (50-100 collected at various time points prior to smoking and up to 200 minutes after smoking, were obtained from a total of 92 subjects using a variety of methods including lancets and two types of automated blood collection devices. Exhaled breath samples were collected from a total of 44 subjects at various time points prior to smoking and up to 240 minutes post-smoking. Breath samples were collected using devices equipped with electrostatic polymer filters and that are designed to collect approximately 20 L of exhaled breath through normal breathing. The time required for breath sample collection was approximately 2-3 minutes. A total of 74 subjects were asked to self-assess their level of impairment before smoking and at each designated sampling time point after smoking based on a scale ranging from 0 (not impaired) to 10 (very impaired) as shown in <figref idref="DRAWINGS">FIG. <b>2</b></figref>. As a physical indicator of impairment, 44 subjects were evaluated for horizontal gaze nystagmus.</p>
+<heading id="h-0006" level="1">Example 1: &#x394;<sup>9</sup>-THC Blood Levels do not Correlate with Impairment</heading>
+<p id="p-0088" num="0087">One of the first endpoints investigated during clinical development of the recent use test method was whether there is any relationship between blood &#x394;<sup>9</sup>-THC levels and impairment. Prior to smoking, &#x394;<sup>9</sup>-THC blood concentrations were evaluated in a group of 30 subjects before and up to 200 minutes after smoking a 500-mg <i>cannabis </i>cigarette and compared to a common legal limit (5 ng/mL) for establishing driver impairment due to <i>cannabis</i>. As of August 2020, the U.S. states of Illinois, Montana, and Washington were using 5 ng/mL as a legal limit. The results showed that 16 of these subjects had baseline (BL) &#x394;<sup>9</sup>-THC levels that exceeded 5 ng/mL, while the other 14 had &#x394;<sup>9</sup>-THC levels ranging between 0 and 4.8 ng/mL, as seen in <figref idref="DRAWINGS">FIG. <b>3</b></figref>. The average baseline &#x394;<sup>9</sup>-THC concentration was 10.5&#xb1;15 ng/mL (n=30), while the median value (indicated by the dashed line in <figref idref="DRAWINGS">FIG. <b>3</b></figref>) was 6.4 ng/mL.</p>
+<p id="p-0089" num="0088">As part of the inclusion criteria for this clinical study, all subjects were instructed to abstain from the use of <i>cannabis </i>products for at least 12 hours, but no more than 24 hours, prior to beginning the study. These subjects were also asked to self-assess their level of impairment on a 10-point scale (<figref idref="DRAWINGS">FIG. <b>2</b></figref>) prior to smoking and at all time points after smoking. All 30 subjects reported a zero level of impairment prior to smoking, and no evidence of horizontal gaze nystagmus was observed in any of these subjects prior to smoking. This data is consistent with recently published studies showing no significant correlation between impairment and specific blood concentrations of &#x394;<sup>9</sup>-THC [Brubacher J R. et al., <i>Addiction </i>114:1616-26 (2019); Hartman R L. et al., <i>Accid Anal Prev </i>92:219-29 (2016); Logan B. et al., An Evaluation of Data from Drivers Arrested for Driving Under the Influence in Relation to Per Se Limits for <i>Cannabis, AAA Foundation for Traffic Safety </i>(May 2016); Etue K K. et al., Report from the Impaired Driving Safety Commission, <i>Michigan State Police </i>(March 2019)].</p>
+<p id="p-0090" num="0089">This Example reinforces the fact that a single measure of &#x394;<sup>9</sup>-THC in the blood or breath by itself is not sufficient to demonstrate recent use of <i>cannabis</i>, with or without impairment. This finding adds to growing body of scientific evidence that &#x394;<sup>9</sup>-THC levels in blood are not correlated with impairment, and thus the use of legal &#x394;<sup>9</sup>-THC blood concentration limits is arbitrary and not scientifically supportable.</p>
+<heading id="h-0007" level="1">Example 2: Window of Impairment Following <i>Cannabis </i>Smoking</heading>
+<p id="p-0091" num="0090">The window of impairment following <i>cannabis </i>smoking was evaluated in 74 subjects who self-assessed their impairment level prior to smoking and at various time points post-smoking using the 10-point scale shown in <figref idref="DRAWINGS">FIG. <b>2</b></figref>. Among these subjects, all 74 (100%) reported peak impairment within the first hour after smoking (48 subjects immediately after smoking, 24 subjects at 20 minutes post-smoking, and two subjects at 60 minutes post-smoking) (see Table 1 below). The overall window of impairment was found to be approximately three hours after smoking, at which time 68 of 74 subjects (92%) last reported any impairment. There were six subjects (8%) still reporting some degree of impairment outside this window (see <figref idref="DRAWINGS">FIG. <b>4</b></figref>). In these six subjects, the percentage of maximum impairment was an average 23.0&#xb1;21.7% (range 11.1 to 66.7%). To normalize self-assessed impairment data, the reported impairment levels at each time point for each subject were divided by the maximum reported impairment level for each subject, with the result expressed as a percentage as shown in Table 1 below.</p>
+<p id="p-0092" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="273pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Percent maximum self-assessed impairment.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="245pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Percent Maximum Self-Assessed Impairment Post-Smoking (minutes)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="12">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="21pt" align="center"/>
+<colspec colname="5" colwidth="21pt" align="center"/>
+<colspec colname="6" colwidth="21pt" align="center"/>
+<colspec colname="7" colwidth="21pt" align="center"/>
+<colspec colname="8" colwidth="21pt" align="center"/>
+<colspec colname="9" colwidth="21pt" align="center"/>
+<colspec colname="10" colwidth="21pt" align="center"/>
+<colspec colname="11" colwidth="21pt" align="center"/>
+<colspec colname="12" colwidth="21pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Pre-</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Subject</entry>
+<entry>Smoking</entry>
+<entry>0</entry>
+<entry>20</entry>
+<entry>40</entry>
+<entry>60</entry>
+<entry>80</entry>
+<entry>120</entry>
+<entry>140</entry>
+<entry>180</entry>
+<entry>200</entry>
+<entry>240</entry>
+</row>
+<row>
+<entry namest="1" nameend="12" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="12">
+<colspec colname="1" colwidth="28pt" align="char" char="."/>
+<colspec colname="2" colwidth="35pt" align="char" char="."/>
+<colspec colname="3" colwidth="21pt" align="char" char="."/>
+<colspec colname="4" colwidth="21pt" align="char" char="."/>
+<colspec colname="5" colwidth="21pt" align="center"/>
+<colspec colname="6" colwidth="21pt" align="char" char="."/>
+<colspec colname="7" colwidth="21pt" align="char" char="."/>
+<colspec colname="8" colwidth="21pt" align="char" char="."/>
+<colspec colname="9" colwidth="21pt" align="char" char="."/>
+<colspec colname="10" colwidth="21pt" align="char" char="."/>
+<colspec colname="11" colwidth="21pt" align="char" char="."/>
+<colspec colname="12" colwidth="21pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>1</entry>
+<entry>0.0</entry>
+<entry>66.7</entry>
+<entry>100.0</entry>
+<entry>&#x2014;*</entry>
+<entry>83.3</entry>
+<entry>50.0</entry>
+<entry>16.7</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>0.0</entry>
+<entry>33.3</entry>
+<entry>100.0</entry>
+<entry>&#x2014;</entry>
+<entry>66.7</entry>
+<entry>66.7</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>0.0</entry>
+<entry>66.7</entry>
+<entry>83.3</entry>
+<entry>&#x2014;</entry>
+<entry>100.0</entry>
+<entry>100.0</entry>
+<entry>83.3</entry>
+<entry>66.7</entry>
+<entry>33.3</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>84.6</entry>
+<entry>&#x2014;</entry>
+<entry>46.2</entry>
+<entry>23.1</entry>
+<entry>7.7</entry>
+<entry>7.7</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>5</entry>
+<entry>0.0</entry>
+<entry>60.0</entry>
+<entry>100.0</entry>
+<entry>&#x2014;</entry>
+<entry>60.0</entry>
+<entry>20.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>62.5</entry>
+<entry>&#x2014;</entry>
+<entry>12.5</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>7</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>83.3</entry>
+<entry>&#x2014;</entry>
+<entry>66.7</entry>
+<entry>66.7</entry>
+<entry>50.0</entry>
+<entry>33.3</entry>
+<entry>16.7</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>8</entry>
+<entry>0.0</entry>
+<entry>66.7</entry>
+<entry>100.0</entry>
+<entry>&#x2014;</entry>
+<entry>66.7</entry>
+<entry>66.7</entry>
+<entry>33.3</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>9</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>80.0</entry>
+<entry>&#x2014;</entry>
+<entry>40.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>10</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>62.5</entry>
+<entry>&#x2014;</entry>
+<entry>25.0</entry>
+<entry>12.5</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>11</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>100.0</entry>
+<entry>&#x2014;</entry>
+<entry>66.7</entry>
+<entry>50.0</entry>
+<entry>33.3</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>12</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>90.0</entry>
+<entry>&#x2014;</entry>
+<entry>80.0</entry>
+<entry>80.0</entry>
+<entry>60.0</entry>
+<entry>50.0</entry>
+<entry>30.0</entry>
+<entry>20.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>13</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>80.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>14</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>83.3</entry>
+<entry>&#x2014;</entry>
+<entry>16.7</entry>
+<entry>16.7</entry>
+<entry>16.7</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>15</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>83.3</entry>
+<entry>&#x2014;</entry>
+<entry>50.0</entry>
+<entry>33.3</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>16</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>66.7</entry>
+<entry>&#x2014;</entry>
+<entry>33.3</entry>
+<entry>33.3</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>17</entry>
+<entry>0.0</entry>
+<entry>75.0</entry>
+<entry>100.0</entry>
+<entry>&#x2014;</entry>
+<entry>25.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>18</entry>
+<entry>0.0</entry>
+<entry>87.5</entry>
+<entry>100.0</entry>
+<entry>&#x2014;</entry>
+<entry>50.0</entry>
+<entry>50.0</entry>
+<entry>37.5</entry>
+<entry>12.5</entry>
+<entry>12.5</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>19</entry>
+<entry>0.0</entry>
+<entry>66.7</entry>
+<entry>100.0</entry>
+<entry>&#x2014;</entry>
+<entry>55.6</entry>
+<entry>44.4</entry>
+<entry>22.2</entry>
+<entry>11.1</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>20</entry>
+<entry>0.0</entry>
+<entry>20.0</entry>
+<entry>80.0</entry>
+<entry>&#x2014;</entry>
+<entry>100.0</entry>
+<entry>80.0</entry>
+<entry>60.0</entry>
+<entry>40.0</entry>
+<entry>20.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>21</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>75.0</entry>
+<entry>&#x2014;</entry>
+<entry>37.5</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>22</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>100.0</entry>
+<entry>&#x2014;</entry>
+<entry>71.4</entry>
+<entry>28.6</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>23</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>77.8</entry>
+<entry>&#x2014;</entry>
+<entry>22.2</entry>
+<entry>11.1</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>24</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>85.7</entry>
+<entry>&#x2014;</entry>
+<entry>71.4</entry>
+<entry>57.1</entry>
+<entry>42.9</entry>
+<entry>28.6</entry>
+<entry>14.3</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>25</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>60.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>26</entry>
+<entry>0.0</entry>
+<entry>75.0</entry>
+<entry>100.0</entry>
+<entry>&#x2014;</entry>
+<entry>50.0</entry>
+<entry>25.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>27</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>90.0</entry>
+<entry>&#x2014;</entry>
+<entry>80.0</entry>
+<entry>60.0</entry>
+<entry>50.0</entry>
+<entry>40.0</entry>
+<entry>30.0</entry>
+<entry>15.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>28</entry>
+<entry>0.0</entry>
+<entry>60.0</entry>
+<entry>100.0</entry>
+<entry>&#x2014;</entry>
+<entry>80.0</entry>
+<entry>60.0</entry>
+<entry>20.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>29</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>100.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>30</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>71.4</entry>
+<entry>&#x2014;</entry>
+<entry>42.9</entry>
+<entry>28.6</entry>
+<entry>14.3</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>31</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>47.1</entry>
+<entry>&#x2014;</entry>
+<entry>23.5</entry>
+<entry>11.8</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>32</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>100.0</entry>
+<entry>&#x2014;</entry>
+<entry>33.3</entry>
+<entry>33.3</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>33</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>42.9</entry>
+<entry>&#x2014;</entry>
+<entry>14.3</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>34</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>75.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>35</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>68.8</entry>
+<entry>&#x2014;</entry>
+<entry>43.8</entry>
+<entry>37.5</entry>
+<entry>25.0</entry>
+<entry>&#x2014;</entry>
+<entry>18.8</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>36</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>100.0</entry>
+<entry>&#x2014;</entry>
+<entry>85.7</entry>
+<entry>71.4</entry>
+<entry>42.9</entry>
+<entry>&#x2014;</entry>
+<entry>28.6</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+</row>
+<row>
+<entry>37</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>66.7</entry>
+<entry>&#x2014;</entry>
+<entry>33.3</entry>
+<entry>33.3</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+</row>
+<row>
+<entry>38</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>75.0</entry>
+<entry>&#x2014;</entry>
+<entry>50.0</entry>
+<entry>25.0</entry>
+<entry>12.5</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+</row>
+<row>
+<entry>39</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>83.3</entry>
+<entry>&#x2014;</entry>
+<entry>50.0</entry>
+<entry>16.7</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+</row>
+<row>
+<entry>40</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>100.0</entry>
+<entry>&#x2014;</entry>
+<entry>75.0</entry>
+<entry>50.0</entry>
+<entry>25.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+</row>
+<row>
+<entry>41</entry>
+<entry>0.0</entry>
+<entry>66.7</entry>
+<entry>100.0</entry>
+<entry>83.3</entry>
+<entry>16.7</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>42</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>90.0</entry>
+<entry>70.0</entry>
+<entry>40.0</entry>
+<entry>&#x2014;</entry>
+<entry>30.0</entry>
+<entry>&#x2014;</entry>
+<entry>10.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>43&#x2020;</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>44</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>45</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>100.0</entry>
+<entry>50.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>46</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>60.0</entry>
+<entry>60.0</entry>
+<entry>40.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>47</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>60.0</entry>
+<entry>30.0</entry>
+<entry>10.0</entry>
+<entry>&#x2014;</entry>
+<entry>10.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>48</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>80.0</entry>
+<entry>40.0</entry>
+<entry>20.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>49</entry>
+<entry>0.0</entry>
+<entry>83.3</entry>
+<entry>100.0</entry>
+<entry>100.0</entry>
+<entry>50.0</entry>
+<entry>&#x2014;</entry>
+<entry>16.7</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>50</entry>
+<entry>0.0</entry>
+<entry>85.7</entry>
+<entry>100.0</entry>
+<entry>42.9</entry>
+<entry>28.6</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>51</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>80.0</entry>
+<entry>60.0</entry>
+<entry>40.0</entry>
+<entry>&#x2014;</entry>
+<entry>20.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>52</entry>
+<entry>0.0</entry>
+<entry>83.3</entry>
+<entry>100.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>66.7</entry>
+<entry>66.7</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>53</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>75.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>25.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>54</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>66.7</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>16.7</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>55</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>83.3</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>56</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>80.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>57</entry>
+<entry>0.0</entry>
+<entry>20.0</entry>
+<entry>100.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>20.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>58</entry>
+<entry>0.0</entry>
+<entry>75.0</entry>
+<entry>100.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>50.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>59</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>75.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>37.5</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>60</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>75.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>37.5</entry>
+<entry>12.5</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>61</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>70.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>20.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>62</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>100.0</entry>
+<entry>&#x2014;</entry>
+<entry>75.0</entry>
+<entry>62.5</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>63</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>77.8</entry>
+<entry>&#x2014;</entry>
+<entry>55.6</entry>
+<entry>44.4</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>22.2</entry>
+<entry>11.1</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>64</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>87.5</entry>
+<entry>&#x2014;</entry>
+<entry>62.5</entry>
+<entry>37.5</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>37.5</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>65</entry>
+<entry>0.0</entry>
+<entry>100.0</entry>
+<entry>87.5</entry>
+<entry>&#x2014;</entry>
+<entry>62.5</entry>
+<entry>50.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>12.5</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>66</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>100.0</entry>
+<entry>87.5</entry>
+<entry>87.5</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>37.5</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>67</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>100.0</entry>
+<entry>75.0</entry>
+<entry>50.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>25.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>68</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>100.0</entry>
+<entry>70.0</entry>
+<entry>40.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>69</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>100.0</entry>
+<entry>75.0</entry>
+<entry>62.5</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>12.5</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>70</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>100.0</entry>
+<entry>80.0</entry>
+<entry>70.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>71</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>100.0</entry>
+<entry>40.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>72</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>100.0</entry>
+<entry>87.5</entry>
+<entry>87.5</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>50.0</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>73</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>100.0</entry>
+<entry>88.9</entry>
+<entry>77.8</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>33.3</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>74</entry>
+<entry>0.0</entry>
+<entry>&#x2014;</entry>
+<entry>100.0</entry>
+<entry>62.5</entry>
+<entry>50.0</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>25.0</entry>
+<entry>12.5</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry namest="1" nameend="12" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="12" align="left" id="FOO-00001">*Dashes indicate subjects were not sampled at these time points</entry>
+</row>
+<row>
+<entry namest="1" nameend="12" align="left" id="FOO-00002">&#x2020;Subject failed to complete the self-assessment form</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0093" num="0091">This Example demonstrates that the window of impairment is approximately three hours after smoking <i>cannabis</i>, in agreement with published research, which validates the subjects' self-assessments of impairment. The Example further demonstrates that the window of peak impairment is approximately one hour after smoking <i>cannabis. </i></p>
+<heading id="h-0008" level="1">Example 3: Physical Assessment of Impairment: Horizontal Gaze Nystagmus</heading>
+<p id="p-0094" num="0092">Horizontal gaze nystagmus (HGN) was assessed in 44 subjects. Nystagmus, both horizontal and vertical, refers to the involuntary jerking of the eyes as they gaze up or down. Someone experiencing nystagmus is unaware of its occurrence. Horizontal gaze nystagmus was evaluated prior to smoking <i>cannabis </i>and at various time points up to three hours post-smoking. The results showed that 43 of the 44 subjects (98%) exhibited HGN after smoking <i>cannabis </i>within the three-hour impairment window (<figref idref="DRAWINGS">FIG. <b>5</b></figref>). Within the first 20 minutes after smoking, 42 of the 44 subjects (95.5%) exhibited HGN (<figref idref="DRAWINGS">FIG. <b>6</b></figref>). These findings corresponded to the self-assessed impairment data, which showed that 97% of subjects (72/74) reported their peak level of impairment within the first 20 minutes after smoking. At three hours post-smoking, the incidence of HGN had fallen to about 23% (10/43 subjects), compared to about 12% prior to smoking (<figref idref="DRAWINGS">FIG. <b>6</b></figref>), which also corresponded well to the self-assessed impairment data showing the average percent maximum impairment had fallen to approximately 10% three hours after smoking (<figref idref="DRAWINGS">FIG. <b>7</b></figref>).</p>
+<p id="p-0095" num="0093">This Example demonstrates that horizontal gaze nystagmus is an effective physical indicator of impairment following <i>cannabis </i>smoking, and it further verifies the validity of the subject self-assessments of impairment.</p>
+<heading id="h-0009" level="1">Example 4: Identification of Blood-Based Parameters of Recent <i>Cannabis </i>Use</heading>
+<p id="p-0096" num="0094">Blood samples were collected from a total of 92 subjects involved in <i>cannabis </i>smoking studies. After evaluating the pharmacologic data from the first 48 subjects, from whom only blood samples were collected, eight recent use parameters were derived that constitute the blood-based test: (1) &#x394;<sup>9</sup>-THC half-life &#x3c;60 minutes; (2) CBN half-life &#x3c;60 minutes; (3) 11-0H-&#x394;<sup>9</sup>-THC half-life &#x3c;60 minutes; (4) an 11-nor-9-carboxy-&#x394;<sup>9</sup>-THC/&#x394;<sup>9</sup>-THC ratio that is increasing &#x2265;25%; (5) an 11-nor-9-carboxy-&#x394;<sup>9</sup>-THC/CBN ratio that is increasing &#x2265;25%; (6) an 11-0H-&#x394;<sup>9</sup>-THC/&#x394;<sup>9</sup>-THC ratio that is increasing &#x2265;25%; (7) an 8&#x3b2;,11-dihydroxy-&#x394;<sup>9</sup>-THC/&#x394;<sup>9</sup>-THC ratio that is increasing &#x2265;25%; and (8) an 11-nor-9-carboxy-&#x394;<sup>9</sup>-THC/11-0H-&#x394;<sup>9</sup>-THC ratio that is increasing &#x2265;25%. Based on the statistical model, a subject would have to be positive for at least four of the eight parameters to receive an overall positive test result in blood. Table 2 below shows percent positivity for each of the eight parameters and overall test positivity for the first 48 subjects from baseline through 200 min post-smoking.</p>
+<p id="p-0097" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Blood-based parameters percent positivity with time </entry>
+</row>
+<row>
+<entry>after smoking</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="189pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Test Parameters (P) Percent (%) Positive </entry>
+</row>
+<row>
+<entry/>
+<entry>with Time (n = 25-42)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="10">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="21pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="21pt" align="center"/>
+<colspec colname="5" colwidth="21pt" align="center"/>
+<colspec colname="6" colwidth="21pt" align="center"/>
+<colspec colname="7" colwidth="21pt" align="center"/>
+<colspec colname="8" colwidth="21pt" align="center"/>
+<colspec colname="9" colwidth="21pt" align="center"/>
+<colspec colname="10" colwidth="21pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>% </entry>
+</row>
+<row>
+<entry>Time </entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Testing</entry>
+</row>
+<row>
+<entry>(min)</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Posi-</entry>
+</row>
+<row>
+<entry>Post-</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>tive</entry>
+</row>
+<row>
+<entry>Smok-</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>(P &#x3c;</entry>
+</row>
+<row>
+<entry>ing</entry>
+<entry>P1*</entry>
+<entry>P2</entry>
+<entry>P3</entry>
+<entry>P4</entry>
+<entry>P5</entry>
+<entry>P6</entry>
+<entry>P7</entry>
+<entry>P8</entry>
+<entry>0.05)</entry>
+</row>
+<row>
+<entry namest="1" nameend="10" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="10">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="21pt" align="char" char="."/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="21pt" align="center"/>
+<colspec colname="5" colwidth="21pt" align="char" char="."/>
+<colspec colname="6" colwidth="21pt" align="center"/>
+<colspec colname="7" colwidth="21pt" align="left"/>
+<colspec colname="8" colwidth="21pt" align="center"/>
+<colspec colname="9" colwidth="21pt" align="center"/>
+<colspec colname="10" colwidth="21pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Base-</entry>
+<entry>4.0</entry>
+<entry>&#x2002;8.0</entry>
+<entry>16.0</entry>
+<entry>4.0</entry>
+<entry>&#x2002;8.0</entry>
+<entry>&#x2002;0</entry>
+<entry>&#x2002;4.0</entry>
+<entry>&#x2002;4.0</entry>
+<entry>0</entry>
+</row>
+<row>
+<entry>line</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>20</entry>
+<entry>100</entry>
+<entry>88.1</entry>
+<entry>88.1</entry>
+<entry>100</entry>
+<entry>88.1</entry>
+<entry>81.0</entry>
+<entry>88.1</entry>
+<entry>88.1</entry>
+<entry>100</entry>
+</row>
+<row>
+<entry>60</entry>
+<entry>62.9</entry>
+<entry>54.3</entry>
+<entry>68.6</entry>
+<entry>57.1</entry>
+<entry>54.3</entry>
+<entry>54.3</entry>
+<entry>54.3</entry>
+<entry>40.0</entry>
+<entry>65.7</entry>
+</row>
+<row>
+<entry>140</entry>
+<entry>45.9</entry>
+<entry>48.6</entry>
+<entry>43.2</entry>
+<entry>54.1</entry>
+<entry>43.2</entry>
+<entry>45.9</entry>
+<entry>35.1</entry>
+<entry>10.8</entry>
+<entry>43.2</entry>
+</row>
+<row>
+<entry>200</entry>
+<entry>28.9</entry>
+<entry>39.5</entry>
+<entry>23.7</entry>
+<entry>34.2</entry>
+<entry>36.8</entry>
+<entry>28.9</entry>
+<entry>31.6</entry>
+<entry>18.4</entry>
+<entry>31.6</entry>
+</row>
+<row>
+<entry namest="1" nameend="10" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0098" num="0095">Based on these eight recent use parameters, all 92 subjects were evaluated for recent use prior to smoking (baseline), up to three hours post-smoking, and beyond three hours post-smoking. The results showed that at baseline prior to smoking, 37 out of 37 evaluable subjects (100%) had a negative test result. After smoking, 81 out of 83 evaluable subjects (97.6%) tested positive within the impairment window (up to three hours post-smoking). The two subjects who tested negative based on blood evidence alone were found to be positive based on breath evidence (see Example 5). Outside of the impairment window (&#x3e;3 hours after smoking), 12 out of 61 evaluable subjects (19.7%) tested positive.</p>
+<p id="p-0099" num="0096">At baseline prior to smoking, all five cannabinoids and &#x394;<sup>9</sup>-THC metabolites that compose the eight recent use blood-based parameters (&#x394;<sup>9</sup>-THC, CBN, 11-OH-&#x394;<sup>9</sup>-THC, 11-nor-9-carboxy-&#x394;<sup>9</sup>-THC, and 8&#x3b2;,11-dihydroxy-&#x394;<sup>9</sup>-THC) were detected in the subjects' blood samples. Other cannabinoids and &#x394;<sup>9</sup>-THC metabolites detected included &#x394;<sup>9</sup>-THCA, CBD, cannabidiolic acid (CBDA), CBC, CBG, CBGA, &#x394;<sup>9</sup>-THCV, and 8&#x3b2;-hydroxy-&#x394;<sup>9</sup>-THC.</p>
+<p id="p-0100" num="0097">This Example shows that the test method based on blood alone is very effective in identifying recent <i>cannabis </i>use, but blood samples alone cannot accurately identify recent use within the impairment window. Additional evidence is needed. The presence of multiple cannabinoids and &#x394;<sup>9</sup>-THC metabolites in subject blood samples prior to smoking is an important finding because frequent <i>cannabis </i>users will often have detectable levels of multiple cannabinoids in their blood, but this does not constitute evidence of recent <i>cannabis </i>use within the impairment window.</p>
+<heading id="h-0010" level="1">Example 5: Breath and Blood Combined Test</heading>
+<p id="p-0101" num="0098">The positive recent use test results outside of the three-hour impairment window based on blood sampling alone led to the incorporation of a second testing matrix, exhaled breath, to strengthen the results of the test method so that <i>cannabis </i>users who are within the impairment window after smoking can be more accurately identified. For this purpose, a total of 44 additional subjects were evaluated in a smoking study in which both exhaled breath and blood samples were collected and then analyzed by LC-HRMS for cannabinoids and &#x394;<sup>9</sup>-THC metabolites. As with the 48-subject blood-based study, subjects were given a 500-mg <i>cannabis </i>cigarette to smoke, and breath and blood samples were collected at various time points before and after smoking.</p>
+<p id="p-0102" num="0099">Out of a total of 34 evaluable subjects, 23 (67.6%) had detectable &#x394;<sup>9</sup>-THC in their breath at baseline prior to smoking (see Table 3 below), which is consistent with recent reports [Lynch K L. et al., <i>Clin Chem </i>65:1171-9 (2019); 011a P. et al., <i>Cannabis Cannabinoid Res </i>5(1):99-104 (2020)] showing 100% pre-smoking detection rates of &#x394;<sup>9</sup>-THC in breath in separate 20-subject and 23-subject studies, respectively. Other cannabinoids detected in exhaled breath prior to smoking included CBN (one subject), CBG (two subjects), and CBGA (four subjects) (see Table 3). Notably, none of the 44 subjects were found to have detectable levels of any &#x394;<sup>9</sup>-THC metabolites in their breath either before or after smoking.</p>
+<p id="p-0103" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 3</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Presence of key cannabinoids in exhaled </entry>
+</row>
+<row>
+<entry>breath before and after smoking.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="175pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Percent (%) Positivity</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="63pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="63pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Cannabinoid</entry>
+<entry>Baseline</entry>
+<entry>&#x2264;60 minutes</entry>
+<entry>&#x3e;60 minutes</entry>
+</row>
+<row>
+<entry>Parameters</entry>
+<entry>(Pre-smoking)*</entry>
+<entry>after smoking</entry>
+<entry>after smoking&#x2020;</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="right"/>
+<colspec colname="3" colwidth="35pt" align="left"/>
+<colspec colname="4" colwidth="21pt" align="right"/>
+<colspec colname="5" colwidth="28pt" align="left"/>
+<colspec colname="6" colwidth="28pt" align="right"/>
+<colspec colname="7" colwidth="35pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>&#x394;<sup>9</sup>-THC</entry>
+<entry>23/34 </entry>
+<entry>(67.6%)</entry>
+<entry>40/40 </entry>
+<entry>(100%)</entry>
+<entry>37/40 </entry>
+<entry>(92.5%)</entry>
+</row>
+<row>
+<entry>CBN</entry>
+<entry>1/34 </entry>
+<entry>(2.9%)</entry>
+<entry>37/40 </entry>
+<entry>(92.5%)</entry>
+<entry>4/40 </entry>
+<entry>(10.0%)</entry>
+</row>
+<row>
+<entry>CBC</entry>
+<entry>0/34 </entry>
+<entry>(0%)</entry>
+<entry>39/40 </entry>
+<entry>(97.5%)</entry>
+<entry>0/40 </entry>
+<entry>(0%)</entry>
+</row>
+<row>
+<entry>CBG</entry>
+<entry>2/34 </entry>
+<entry>(5.9%)</entry>
+<entry>37/40 </entry>
+<entry>(92.5%)</entry>
+<entry>1/40 </entry>
+<entry>(2.5%)</entry>
+</row>
+<row>
+<entry>CBGA</entry>
+<entry>4/34 </entry>
+<entry>(11.8%)</entry>
+<entry>18/40 </entry>
+<entry>(45.0%)</entry>
+<entry>4/40</entry>
+<entry>(10.0%)</entry>
+</row>
+<row>
+<entry>&#x394;<sup>9</sup>-THCV</entry>
+<entry>0/34 </entry>
+<entry>(0%)</entry>
+<entry>36/40 </entry>
+<entry>(90.0%)</entry>
+<entry>0/40</entry>
+<entry>(0%)</entry>
+</row>
+<row>
+<entry namest="1" nameend="7" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="7" align="left" id="FOO-00003">*Pre-smoking samples were not collected from 10 subjects.</entry>
+</row>
+<row>
+<entry namest="1" nameend="7" align="left" id="FOO-00004">&#x2020;No data beyond 60 min post-smoking in 4 subjects.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0104" num="0100">Table 3 above shows the percent positivity of six cannabinoids prior to smoking, within the first hour post-smoking during peak impairment, and more than one hour post-smoking in subjects' exhaled breath samples. In particular, CBN, CBG, and &#x394;<sup>9</sup>-THCV all have a much greater incidence in breath during peak impairment (the first hour after smoking) compared to pre-smoking. Interestingly, CBC and &#x394;<sup>9</sup>-THCV were detected in breath only during the peak impairment window, making these two cannabinoids key indicators of recent <i>cannabis </i>use through inhalation. Stability of the analytes within the breath collection devices was previously established (see Table 4 below).</p>
+<p id="p-0105" num="0000">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 4</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Stability of target analytes in the breath collection device</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="175pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Analyte Stability (%) at Room Temperature (20-25&#xb0; C.)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Analyte</entry>
+<entry>Day 3</entry>
+<entry>Day 7</entry>
+<entry>Day 10</entry>
+<entry>Day 14</entry>
+<entry>Day 30</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="char" char="."/>
+<colspec colname="3" colwidth="35pt" align="char" char="."/>
+<colspec colname="4" colwidth="35pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="char" char="."/>
+<colspec colname="6" colwidth="35pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>&#x394;<sup>9</sup>-THC</entry>
+<entry>91.3</entry>
+<entry>81.2</entry>
+<entry>82.9</entry>
+<entry>66.2</entry>
+<entry>55.6</entry>
+</row>
+<row>
+<entry>CBN</entry>
+<entry>104.5</entry>
+<entry>100.0</entry>
+<entry>107.3</entry>
+<entry>87.9</entry>
+<entry>74.4</entry>
+</row>
+<row>
+<entry>CBC</entry>
+<entry>100.6</entry>
+<entry>89.1</entry>
+<entry>89.9</entry>
+<entry>82.2</entry>
+<entry>75.6</entry>
+</row>
+<row>
+<entry>CBG</entry>
+<entry>97.5</entry>
+<entry>87.6</entry>
+<entry>97.8</entry>
+<entry>75.0</entry>
+<entry>56.5</entry>
+</row>
+<row>
+<entry>&#x394;<sup>9</sup>-THCV</entry>
+<entry>79.7</entry>
+<entry>68.1</entry>
+<entry>69.8</entry>
+<entry>56.5</entry>
+<entry>47.1</entry>
+</row>
+<row>
+<entry>CBGA</entry>
+<entry>99.4</entry>
+<entry>110.9</entry>
+<entry>110.4</entry>
+<entry>No data</entry>
+<entry>114.3</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0106" num="0101">After analyzing the breath samples from all 44 subjects, 11 pharmacologic parameters were found to be associated with recent <i>cannabis </i>use based on the multi-point breath sampling strategy, with additional parameters still being investigated. These included the presence of CBN, CBC, CBG, &#x394;<sup>9</sup>-THCV, and CBGA, and short half-lives (&#x3c;60 minutes) for &#x394;<sup>9</sup>-THC, CBN, CBC, CBG, and &#x394;<sup>9</sup>-THCV (see Table 5 below). Compared to the average &#x394;<sup>9</sup>-THC half-life measured between 60 and 80 minutes post-smoking (outside of the one-hour peak impairment window post-smoking), the average &#x394;<sup>9</sup>-THC half-lives measured from immediately after smoking to 20 min post-smoking (p&#x3c;0.0001), and from 20 to 60 min post-smoking (p=0.0201), were significantly shorter. Pre-smoking, half-lives were calculable for &#x394;<sup>9</sup>-THC in only three subjects.</p>
+<p id="p-0107" num="0000">
+<tables id="TABLE-US-00005" num="00005">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="315pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 5</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Summary of cannabinoid half-lives in breath post-smoking.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="1" colwidth="42pt" align="center"/>
+<colspec colname="2" colwidth="273pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Average Half-Life (minutes &#xb1; SD)</entry>
+</row>
+<row>
+<entry/>
+<entry>Minutes Post-Smoking</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="1" colwidth="42pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<colspec colname="7" colwidth="42pt" align="center"/>
+<colspec colname="8" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Pre-</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Cannabinoid</entry>
+<entry>Smoking</entry>
+<entry>0-10</entry>
+<entry>0-20</entry>
+<entry>20-40</entry>
+<entry>20-60</entry>
+<entry>40-60</entry>
+<entry>60-80</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>&#x394;<sup>9</sup>-THC</entry>
+<entry>28.8 &#xb1; 28.7</entry>
+<entry>4.4 &#xb1; 2.2</entry>
+<entry>4.2 &#xb1; 2.1*</entry>
+<entry>8.1 &#xb1; 2.3</entry>
+<entry>12.8 &#xb1; 8.8&#x2020; </entry>
+<entry>24.4 &#xb1; 25.4</entry>
+<entry>35.0 &#xb1; 41.7</entry>
+</row>
+<row>
+<entry/>
+<entry>(N = 3)</entry>
+<entry>(N = 10)</entry>
+<entry>(N = 35)</entry>
+<entry>(N = 9)</entry>
+<entry>(N = 23)</entry>
+<entry>(N = 9)</entry>
+<entry>(N = 6)</entry>
+</row>
+<row>
+<entry>CBN</entry>
+<entry>&#x2014;&#x2021;</entry>
+<entry>3.7 = 2.1</entry>
+<entry>3.7 = 3.0</entry>
+<entry>&#x2014;</entry>
+<entry>35.2</entry>
+<entry>12.8</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>(N = 11)</entry>
+<entry>(N = 20)</entry>
+<entry/>
+<entry>(N = 2)</entry>
+<entry>(N = 1)</entry>
+<entry/>
+</row>
+<row>
+<entry>CBC</entry>
+<entry>&#x2014;</entry>
+<entry>3.9 &#xb1; 2.5</entry>
+<entry>3.8 &#xb1; 2.3</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>(N = 10)</entry>
+<entry>(N = 20)</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>CBG</entry>
+<entry>&#x2014;</entry>
+<entry>3.6 &#xb1; 2.1</entry>
+<entry>3.7 &#xb1; 3.1</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>(N = 11)</entry>
+<entry>(N = 20)</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>&#x394;<sup>9</sup>-THCV</entry>
+<entry>&#x2014;</entry>
+<entry>4.2 &#xb1; 3.9</entry>
+<entry>2.9 &#xb1; 0.7</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>(N = 9)</entry>
+<entry>(N = 6)</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00005">*p &#x3c; 0.0001 compared to 60-80 min;</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00006">&#x2020;p = 0.0201 compared to 60-80 min (two-tailed t-test with Bonferroni's adjustment for multiple comparisons; &#x3b1; = 0.025).</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="left" id="FOO-00007">&#x2021;Half-life not calculable.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0108" num="0102">Within the first hour after smoking, which is the period of peak impairment, all 44 subjects (100%) were breath test positive, meaning they all exhibited a short &#x394;<sup>9</sup>-THC half-life (ranging from 1.0 to 19.1 minutes) and one or more other indicators of recent use in breath. Pre-smoking, all 34 subjects sampled were breath test negative, with two subjects exhibiting only short &#x394;<sup>9</sup>-THC half-lives. By itself, a short &#x394;<sup>9</sup>-THC half-life is insufficient evidence of recent use within the impairment window because &#x394;<sup>9</sup>-THC is commonly seen in the breath of non-recent <i>cannabis </i>users. Additional evidence is needed to confirm recent use.</p>
+<p id="p-0109" num="0103">We hypothesized that the incorporation of both exhaled breath and blood into a comprehensive recent <i>cannabis </i>use test would confirm recent use of inhaled <i>cannabis </i>within the impairment window, improving the accuracy of the two-point breath testing method. For this purpose, blood samples were collected from the 44 subjects in addition to breath samples and analyzed for &#x394;<sup>9</sup>-THC and other cannabinoids. A twelfth recent use parameter that emerged was the breath/blood ratio of &#x394;<sup>9</sup>-THC, which is a key confirmatory indicator of recent use. This ratio was computed by dividing the &#x394;<sup>9</sup>-THC peak area ratio to the internal standard in breath by the corresponding peak area ratio in blood. We found that these ratios were &#x3e;2 in all 44 subjects when assessed immediately after smoking. Compared to the average pre-smoking ratio, the average breath/blood &#x394;<sup>9</sup>-THC ratios measured immediately after smoking (p=0.0015), 20 minutes post-smoking (p=0.0108), 60 minutes post-smoking (p=0.0107), and 180 minutes post-smoking (p=0.0091) remained significantly greater, as shown in <figref idref="DRAWINGS">FIG. <b>8</b></figref>. In the two subjects who exhibited short &#x394;<sup>9</sup>-THC half-lives in breath pre-smoking, their breath/blood &#x394;<sup>9</sup>-THC ratios were 0.01 and 0.57, confirming that they had not recently used <i>cannabis </i>within the impairment window.</p>
+<p id="p-0110" num="0104">Within the first hour after smoking, the period of peak impairment, all 44 subjects (100%) were breath and blood test positive, meaning they all exhibited a breath/blood &#x394;<sup>9</sup>-THC ratio &#x2265;2, in addition to a short &#x394;<sup>9</sup>-THC half-life and one or more other indicators of recent use in breath. Overall, using the two-point breath and one-point blood test, 0/34 subjects (0%) tested pre-smoking were positive, indicating no false positive results, and 44/44 subjects (100%) were positive inside the three-hour impairment window. This comprehensive test, which incorporates a breath/blood &#x394;<sup>9</sup>-THC ratio (<figref idref="DRAWINGS">FIG. <b>8</b></figref>) and the presence and half-lives of key cannabinoids in breath (Tables 3 and 5), definitively established recent <i>cannabis </i>use within the impairment window.</p>
+<p id="p-0111" num="0105">In some instances, only a single breath and blood sample are needed due to the over-whelming evidence of recent <i>cannabis </i>use in breath. Within the first hour after smoking, all 44 subjects studied with breath sampling showed a breath/blood &#x394;<sup>9</sup>-THC ratio &#x2265;2 combined with other indicators of recent use. For example, in the two subjects mentioned from Example 4 above who tested negative within the impairment window based on blood sampling alone, very strong evidence of recent use within the peak impairment window based on breath sampling was observed. In each of these subjects, the following parameters of recent use were observed within the first hour after smoking: presence of CBN; presence of &#x394;<sup>9</sup>-THCV; presence of CBG; presence of CBC; presence of CBGA; and a very high ratio of &#x394;<sup>9</sup>-THC in breath compared to blood.</p>
+<p id="p-0112" num="0106">In the exhaled breath study, all 44 subjects self-reported peak impairment within the first 20 minutes after smoking (see Table 1), which coincided with the shortest cannabinoid half-lives (Table 5) and peak incidence of horizontal gaze nystagmus (<figref idref="DRAWINGS">FIGS. <b>5</b> and <b>6</b></figref>).</p>
+<p id="p-0113" num="0107">Evidence of recent <i>cannabis </i>use by inhalation through smoking or vaping dissipates rapidly in exhaled breath, and thus allowing 20 minutes between breath samplings, which was employed in the blood-based study and for most of the subjects in the blood and breath-based study, may result in the loss of valuable data. In the last nine subjects involved in the exhaled breath study, a back-to-back sample collection strategy was employed whereby two exhaled breath samples were collected in quick succession at 20 and 40 minutes post-smoking. Approximately two minutes elapsed between the collection of each sample. The very short half-lives observed for &#x394;<sup>9</sup>-THC, CBN, and other cannabinoids (approximately five minutes or less) in exhaled breath would allow for rapid sampling (see Table 6 below). The pharmacokinetic data from these nine subjects showed that this strategy is feasible. This approach could save a great deal of time and potentially result in more effective testing.</p>
+<p id="p-0114" num="0000">
+<tables id="TABLE-US-00006" num="00006">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 6</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Summary of cannabinoid half-lives in breath post-smoking:</entry>
+</row>
+<row>
+<entry>back-to-back sampling strategy</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="182pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Cannabinoid Half-Lives (min) 20 &#x26; 40 Minutes </entry>
+</row>
+<row>
+<entry/>
+<entry>Post-Smoking</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>&#x394;<sup>9</sup>-THC</entry>
+<entry>CBN</entry>
+<entry>CBC</entry>
+<entry>CBG</entry>
+<entry>&#x394;<sup>9</sup>-THC</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="21pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="14pt" align="center"/>
+<colspec colname="5" colwidth="21pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<colspec colname="7" colwidth="14pt" align="center"/>
+<colspec colname="8" colwidth="14pt" align="center"/>
+<colspec colname="9" colwidth="14pt" align="center"/>
+<colspec colname="10" colwidth="21pt" align="center"/>
+<colspec colname="11" colwidth="14pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Subject</entry>
+<entry>20</entry>
+<entry>40</entry>
+<entry>20</entry>
+<entry>40</entry>
+<entry>20</entry>
+<entry>40</entry>
+<entry>20</entry>
+<entry>40</entry>
+<entry>20</entry>
+<entry>40</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="21pt" align="char" char="."/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="14pt" align="center"/>
+<colspec colname="5" colwidth="21pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="char" char="."/>
+<colspec colname="7" colwidth="14pt" align="center"/>
+<colspec colname="8" colwidth="14pt" align="center"/>
+<colspec colname="9" colwidth="14pt" align="center"/>
+<colspec colname="10" colwidth="21pt" align="center"/>
+<colspec colname="11" colwidth="14pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>89</entry>
+<entry>1.2</entry>
+<entry>&#x2014;*</entry>
+<entry>1.1</entry>
+<entry>&#x2014;</entry>
+<entry>1.0</entry>
+<entry>&#x2014;</entry>
+<entry>0.7</entry>
+<entry>&#x2014;</entry>
+<entry>0.9</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>90</entry>
+<entry>1.9</entry>
+<entry>2.2</entry>
+<entry>2.0</entry>
+<entry>2.9</entry>
+<entry>2.2</entry>
+<entry>2.3</entry>
+<entry>1.6</entry>
+<entry>&#x2014;</entry>
+<entry>1.9</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>91</entry>
+<entry>2.3</entry>
+<entry>9.9</entry>
+<entry>2.3</entry>
+<entry>4.8</entry>
+<entry>2.0</entry>
+<entry>3.5</entry>
+<entry>1.3</entry>
+<entry>&#x2014;</entry>
+<entry>2.1</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>92</entry>
+<entry>2.9</entry>
+<entry>&#x2014;</entry>
+<entry>2.7</entry>
+<entry>&#x2014;</entry>
+<entry>2.7</entry>
+<entry>&#x2014;</entry>
+<entry>2.6</entry>
+<entry>&#x2014;</entry>
+<entry>2.8</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>93</entry>
+<entry>1.0</entry>
+<entry>3.7</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>94</entry>
+<entry>1.4</entry>
+<entry>&#x2014;&#x2020;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>1.3</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>95</entry>
+<entry>2.1</entry>
+<entry>5.9</entry>
+<entry>1.8</entry>
+<entry>&#x2014;</entry>
+<entry>2.0</entry>
+<entry>5.2</entry>
+<entry>2.1</entry>
+<entry>&#x2014;</entry>
+<entry>1.6</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>96</entry>
+<entry>7.3</entry>
+<entry>8.6</entry>
+<entry>6.4</entry>
+<entry>10.7</entry>
+<entry>11.8</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>3.8</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>97</entry>
+<entry>11.8</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>Average =</entry>
+<entry>3.5</entry>
+<entry>6.1</entry>
+<entry>2.7</entry>
+<entry>6.1</entry>
+<entry>3.3</entry>
+<entry>3.6</entry>
+<entry>1.7</entry>
+<entry>&#x2014;</entry>
+<entry>2.2</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>SD =</entry>
+<entry>3.6</entry>
+<entry>3.2</entry>
+<entry>1.9</entry>
+<entry>4.1</entry>
+<entry>3.8</entry>
+<entry>1.5</entry>
+<entry>0.7</entry>
+<entry>&#x2014;</entry>
+<entry>1.0</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>N =</entry>
+<entry>9</entry>
+<entry>5</entry>
+<entry>6&#x2002;&#x2009;</entry>
+<entry>3</entry>
+<entry>7</entry>
+<entry>3&#x2002;&#x2009;</entry>
+<entry>5&#x2002;&#x2009;</entry>
+<entry>&#x2014;</entry>
+<entry>6&#x2002;&#x2009;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="11" align="left" id="FOO-00008">*Half-life not calculable.</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="left" id="FOO-00009">&#x2020;Outlier value (53.1) removed.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0115" num="0108">This Example demonstrated that the test method based on a combination of exhaled breath and blood sampling was 100% effective in identifying recent <i>cannabis </i>use within the three-hour impairment window, with no false positive test results observed. Just as observed in subject blood samples, multiple cannabinoids, including &#x394;<sup>9</sup>-THC, were detected in exhaled breath prior to smoking. Similar to the blood-based study, these subjects were instructed to abstain from <i>cannabis </i>use for at least 12 hours, but no more than 24 hours. This finding reinforces the fact that detecting &#x394;<sup>9</sup>-THC in the breath in and of itself does not constitute sufficient evidence of recent <i>cannabis </i>use or impairment.</p>
+<heading id="h-0011" level="1">Example 6: Using a Single Breath Sample to Identify Subjects in the Peak Impairment Window after Smoking <i>Cannabis </i></heading>
+<p id="p-0116" num="0109">In the <i>cannabis </i>smoking study described in Example 5 above, a total of 34 of the 44 subjects had breath samples collected at baseline prior to smoking, all 44 subjects had breath samples collected up to one hour after smoking, and 40 of the 44 subjects had breath samples evaluated between one hour and three hours after smoking. Six (6) parameters were found to be associated with recent use of <i>cannabis </i>through inhalation within the peak impairment window: the presence of &#x394;<sup>9</sup>-THC, CBN, CBC, CBG, CBGA, and &#x394;<sup>9</sup>-THCV. Table 3 above summarizes the percent positivity for each of these parameters prior to smoking (baseline), within the peak impairment window (up to 60 minutes after smoking), and more than 60 minutes after smoking (outside of the peak impairment window).</p>
+<p id="p-0117" num="0110">The data in Table 3 above shows that these six cannabinoids are predominantly present in exhaled breath within the peak impairment window. Critically, two of these cannabinoids, CBC and &#x394;<sup>9</sup>-THCV were observed only within the peak impairment window. Based on this data, a test subject is positive for recent <i>cannabis </i>use by inhalation within the peak impairment window when they are positive for CBC and/or &#x394;<sup>9</sup>-THCV. For this study, 0/34 subjects (0%) tested positive at baseline prior to smoking, 39/40 subjects (97.5%) tested positive during the peak impairment window (&#x2264;60 minutes after smoking), and 0/40 subjects (0%) were tested positive outside of the peak impairment window (&#x3e;60 minutes after smoking). Thus, no false positive test results were observed, and false negatives were minimal, making the single breath sample test a convenient, non-invasive, and accurate means of detecting a recent <i>cannabis </i>user who is still within the peak impairment window following use by inhalation.</p>
+<p id="p-0118" num="0111">The results from these six examples demonstrate that the described test method based on exhaled breath and blood sampling, or on exhaled breath sampling alone, can accurately determine whether a subject has used <i>cannabis </i>recently and whether the subject is also within the peak impairment window after use through inhalation (i.e., smoking or vaping). Unlike existing test methods that rely on single measures of cannabinoids in blood, urine, saliva, or breath, the described test can detect recent <i>cannabis </i>use within the peak impairment window without false positive test results in a background of non-recent <i>cannabis </i>use. This is a critical point because an effective test for recent <i>cannabis </i>use must be able to discriminate between past use and recent use, which carries the risk of impairment. It is the test method itself that makes this possible, not simply the use of blood and/or breath to detect cannabinoids. This test takes into account kinetic changes in cannabinoid levels between samples, changes in cannabinoid ratios between samples, as well as the presence of key recent use indicators, particularly in exhaled breath.</p>
+<p id="p-0119" num="0112">While the comprehensive breath and blood test is limited to detecting recent <i>cannabis </i>use only through inhalation within the impairment window, the described blood-based test could be applied to detecting recent use and impairment following oral consumption of <i>cannabis </i>products. Hypothetically, a similar strategy utilizing two blood samples could be deployed for detecting recent use of orally administered <i>cannabis </i>as well as other orally administered impairing drugs. It is well known that cannabinoid pharmacokinetics differ depending on the route of administration. Because &#x394;<sup>9</sup>-THC metabolites cannot be detected in breath, the blood may contain critical information pertaining to recent use, including concentrations of glucuronide metabolites and changes in the ratios of &#x394;<sup>9</sup>-THC metabolites such as 11-hydroxy-&#x394;<sup>9</sup>-THC and 11-nor-9-carboxy-&#x394;<sup>9</sup>-THC to &#x394;<sup>9</sup>-THC and to each other.</p>
+<p id="p-0120" num="0113">While the focus of this invention has been on the detection of recent inhaled <i>cannabis </i>use, it should be emphasized that a two-point breath and one-point blood test, for example, is not limited to just <i>cannabis</i>. The same testing strategy employed for <i>cannabis </i>may also prove to be useful for detecting recent use of other impairing drugs such as methamphetamine, phencyclidine, and cocaine that can be administered through vaporization. Exhaled breath testing has already been proven useful for detecting multiple drug types, and this test allows simultaneous testing for <i>cannabis </i>as well as other potentially impairing drugs in both breath and blood. Potential applications include sports medicine, enforcement of workplace drug policy, and law enforcement.</p>
+<p id="p-0121" num="0114">Although the foregoing invention has been described in some detail by way of illustration and example for purposes of clarity of understanding, one of skill in the art will appreciate that certain changes and modifications may be practiced within the scope of the appended claims. In addition, each reference provided herein is incorporated by reference in its entirety to the same extent as if each reference was individually incorporated by reference.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A method for determining recent use of <i>cannabis </i>within the impairment window in a subject, the method comprising the collection of one or more exhaled breath samples separated in time by approximately three minutes and one or more whole blood samples separated in time by approximately 20 minutes, analyzing them for &#x394;<sup>9</sup>-THC, &#x394;<sup>9</sup>-THC metabolites, and other cannabinoids, and then computing specific breath- and blood-based pharmacokinetic parameters and cannabinoid profiles to determine recent use of <i>cannabis </i>within the impairment window.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, whereby the subject has used <i>cannabis </i>through smoking, vaping, or any other route of inhalation.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The method of <claim-ref idref="CLM-00002">claim 2</claim-ref>, whereby a single blood sample can be used as a confirmatory test to support a finding of recent <i>cannabis </i>use within the impairment window based on two breath samples.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The method of <claim-ref idref="CLM-00003">claim 3</claim-ref>, whereby the breath/blood &#x394;<sup>9</sup>-THC concentration or intensity ratio is calculated as the basis for confirmation.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The method of <claim-ref idref="CLM-00002">claim 2</claim-ref>, whereby the subject is tested for recent <i>cannabis </i>use and impairment by an employer or prospective employer.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The method of <claim-ref idref="CLM-00005">claim 5</claim-ref>, whereby the subject is tested for recent <i>cannabis </i>use and impairment by collecting at least one blood sample using a device that automatically collects and stores capillary blood for later laboratory analysis, and by collecting at least one breath sample using a device containing an electrostatic polymer filter that traps exhaled breath aerosols for later laboratory analysis.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The method of <claim-ref idref="CLM-00005">claim 5</claim-ref>, whereby the subject is tested for recent <i>cannabis </i>use and impairment by collecting at least one blood sample using a lancet or other means of blood collection, and by collecting at least one breath sample using a device containing an electrostatic polymer filter.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The method of <claim-ref idref="CLM-00005">claim 5</claim-ref>, whereby the subject is tested for recent <i>cannabis </i>use only by collecting two or more blood samples using a device that automatically collects and stores capillary blood for later laboratory analysis, or by collecting two or more blood samples using any other acceptable means of blood collection.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The method of <claim-ref idref="CLM-00002">claim 2</claim-ref>, whereby the subject, as a result of suspicion of driving under the influence of <i>cannabis</i>, is tested for recent <i>cannabis </i>use and impairment by law enforcement personnel by collecting two exhaled breath samples and two blood samples.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The method of <claim-ref idref="CLM-00009">claim 9</claim-ref>, whereby the blood samples are collected using a device that automatically collects and stores capillary blood for later laboratory analysis, and the breath samples are collected using a device containing an electrostatic polymer filter that traps exhaled breath aerosols for later laboratory analysis.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, whereby the pharmacologic parameters used for determining recent use of <i>cannabis </i>are specifically adapted for oral administration of <i>cannabis. </i></claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The method of <claim-ref idref="CLM-00005">claim 5</claim-ref>, whereby the samples are analyzed and assessed using recent use parameters specific for oral consumption of <i>cannabis. </i></claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The method of <claim-ref idref="CLM-00006">claim 6</claim-ref>, whereby the samples are analyzed and assessed using recent use parameters specific for oral consumption of <i>cannabis. </i></claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The method of <claim-ref idref="CLM-00007">claim 7</claim-ref>, whereby the samples are analyzed and assessed using recent use parameters specific for oral consumption of <i>cannabis. </i></claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The method of <claim-ref idref="CLM-00008">claim 8</claim-ref>, whereby the samples are analyzed and assessed using recent use parameters specific for oral consumption of <i>cannabis. </i></claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The method of <claim-ref idref="CLM-00009">claim 9</claim-ref>, whereby the samples are analyzed and assessed using recent use parameters specific for oral consumption of <i>cannabis. </i></claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The method of <claim-ref idref="CLM-00010">claim 10</claim-ref>, whereby the samples are analyzed and assessed using recent use parameters specific for oral consumption of <i>cannabis. </i></claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. A method for determining recent use of drugs of abuse other than <i>cannabis</i>, the drugs of abuse consisting of natural and illegal synthetic cannabinoids, methamphetamine, opiates, benzodiazepines, barbiturates, cocaine, phencyclidine, psilocybin, and other potential drugs of abuse, the method comprising the collection of one or more whole blood samples separated in time by approximately 20 minutes and one or more exhaled breath samples separated in time by approximately three minutes, analyzing them for key drug molecules and metabolites, computing the changes in specific pharmacokinetic parameters and intensity ratios between samples, and then evaluating the results based on the criteria of one or more breath-based and blood-based parameters associated with the recent use of each respective drug compound.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The method of <claim-ref idref="CLM-00018">claim 18</claim-ref>, whereby the subject is tested for recent drug use by an employer or prospective employer.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The method of <claim-ref idref="CLM-00019">claim 19</claim-ref>, whereby the subject is tested for recent drug use by collecting at least one blood sample using a device that automatically collects and stores capillary blood for later laboratory analysis, and by collecting at least one breath sample using a device containing an electrostatic polymer filter that traps exhaled breath aerosols for later laboratory analysis.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. The method of <claim-ref idref="CLM-00019">claim 19</claim-ref>, whereby the subject is tested for recent drug use by collecting at least one blood sample using a lancet or other means of blood collection, and by collecting at least one breath sample using a device containing an electrostatic polymer filter.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. The method of <claim-ref idref="CLM-00019">claim 19</claim-ref>, whereby the subject is tested for recent drug use by collecting at least one sample of oral fluid or urine in addition to blood and exhaled breath.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. The method of <claim-ref idref="CLM-00018">claim 18</claim-ref>, whereby the subject, as a result of suspicion of driving under the influence of drugs, is tested for recent drug use by law enforcement personnel by collecting two exhaled breath samples and two blood samples.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. The method of <claim-ref idref="CLM-00023">claim 23</claim-ref>, whereby the blood samples are collected using a device that automatically collects and stores capillary blood for later laboratory analysis, and the breath samples are collected using a device containing an electrostatic polymer filter that traps exhaled breath aerosols for later laboratory analysis.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

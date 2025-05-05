@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v44-2014-04-03.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.4 2014-04-03" file="US20210353588A1-20211118.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20211103" date-publ="20211118">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20210353588</doc-number>
+<kind>A1</kind>
+<date>20211118</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>16873582</doc-number>
+<date>20200512</date>
+</document-id>
+</application-reference>
+<us-application-series-code>16</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>K</subclass>
+<main-group>31</main-group>
+<subgroup>352</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20211118</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>K</subclass>
+<main-group>31</main-group>
+<subgroup>05</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20211118</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>K</subclass>
+<main-group>47</main-group>
+<subgroup>44</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20211118</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>K</subclass>
+<main-group>31</main-group>
+<subgroup>355</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20211118</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>K</subclass>
+<main-group>47</main-group>
+<subgroup>22</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20211118</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>33</main-group>
+<subgroup>105</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20211118</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>33</main-group>
+<subgroup>115</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20211118</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>33</main-group>
+<subgroup>15</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20211118</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>K</subclass>
+<main-group>31</main-group>
+<subgroup>352</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20211118</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>K</subclass>
+<main-group>31</main-group>
+<subgroup>05</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20211118</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>K</subclass>
+<main-group>47</main-group>
+<subgroup>44</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20211118</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>K</subclass>
+<main-group>31</main-group>
+<subgroup>355</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20211118</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>V</subclass>
+<main-group>2002</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20211118</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160801</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>33</main-group>
+<subgroup>105</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20211118</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160801</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>33</main-group>
+<subgroup>115</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20211118</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20160801</date></cpc-version-indicator>
+<section>A</section>
+<class>23</class>
+<subclass>L</subclass>
+<main-group>33</main-group>
+<subgroup>15</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20211118</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>K</subclass>
+<main-group>47</main-group>
+<subgroup>22</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20211118</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">DIETARY SUPPLEMENT COMPOSITION COMPRISING OF CANNABIS SATIVA EXTRACTS</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>PALINCZAR</last-name>
+<first-name>VICTOR</first-name>
+<address>
+<city>Trenton</city>
+<state>NJ</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>PALINCZAR</last-name>
+<first-name>VICTOR</first-name>
+<address>
+<city>Trenton</city>
+<state>NJ</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Dietary supplement compositions for relief of human and animal ailments comprising from 0.1 percent to 50 percent of a <i>Cannabis sativa </i>extract or combinations of a <i>Cannabis sativa </i>extracts and from 10 percent to 99.9 percent of a naturally derived edible oil or combinations of a naturally derived edible oils, where the naturally derived edible oil has a total saturated fat content of less than about 15 percent and a total polyunsaturated fat content greater than 44 percent, said edible oil or combination of said edible oils enhance sublingual and buccal pouch absorption of the <i>Cannabis sativa </i>extract and improve the overall taste of the composition. The composition's taste may be further enhanced with the addition of compatible flavoring agents. To improve the absorption of the <i>Cannabis sativa </i>extract and the compatibility of said flavoring agents, surface active agents may be incorporated. The composition may still further be enhanced by addition of various antioxidants and preservatives.</p>
+</abstract>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This patent application is a continuation of Provisional Patent Application No. 62/920,717</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">FEDERALLY SPONSORED RESEARCH OR DEVELOPMENT</heading>
+<p id="p-0003" num="0002">None</p>
+<heading id="h-0003" level="1">FIELD OF INVENTION</heading>
+<p id="p-0004" num="0003">What has been discovered are unique and novel, essentially anhydrous, dietary supplement compositions comprising: a) a <i>Cannabis sativa </i>extract and b) naturally derived edible oil that improves the bioavailability of said extract that relieve joint pain, anxiety and other naturally occurring ailment. The compositions may additionally comprise of various compatible surface active agents, vitamins, antioxidants, flavors, and preservatives.</p>
+<heading id="h-0004" level="1">BACKGROUND OF INVENTION</heading>
+<p id="p-0005" num="0004">Dietary supplement compositions and more specifically, Dietary supplement compositions that contain <i>Cannabis sativa </i>extract that are currently marketed contain edible oils high in saturated fats and low in polyunsaturated fats. These oils leave a residual film in the mouth and lessen the degree of sublingually and/or buccal absorption of the <i>Cannabis sativa </i>extract; more specifically, Cannabidiol, also know as CBD and a major component of the <i>Cannabis sativa </i>extract. Decreasing the absorption into the blood plasma prevents the CBD from performing to its fullest ability. In compositions containing high level of saturated edible oil the CBD is unabsorbed, swallowed and becomes metabolized.</p>
+<p id="p-0006" num="0005">Another disadvantage of currently marketed <i>Cannabis sativa </i>extract products is that the taste in combination with the CBD component is less then desirable; the mouth is left with a mild rancid sensation. Additionally, due to the high levels of saturated fat content, precipitates of long chain molecules form, causing a non-homogeneous mixture with a potential to deliver disproportions of CBD concentrations. Mixing the product by hand is required prior to use; the problem is exacerbated if the product is stored in a cool or cold location. Preservation of such compositions, however, are enhanced in cold storage; the use of oils containing high levels of saturated fats becomes problematic.</p>
+<p id="p-0007" num="0006">The use of <i>Cannabis sativa </i>extracts and more specifically Cannabinoid compounds have been cited for pain relief. Wallace, in U.S. Patent describes Cannabinoid compositions relieving analgesia and reducing inflammation by delivery topical liniment composition. Stinchcomb, in U.S. Pat. No. 8,293,786&#x2014;Alltranz Inc. describes the use of Cannabidiol (CBD) for use in transdermal applications. Lewis, in U.S. Pat. No. 9,095,554&#x2014;Biotect Institute, describes Cannabinoid compositions in combination with terpene oils. The present invention is to be taken orally. Murty, et al in U.S. Pat. No. 9,265,724 describes the use of Cannabinoid compositions in combination with triglycerides and glycerides. The present invention is free of triglycerides and glycerides. In non-continuous U.S. Pat. Nos. 9,949,9936 to 10,137,095 issued to Guy&#x2014;G W Pharma, describe the use of Cannabinoid compounds an more specifically compositions comprised of CBD as a method for the treatment of epilepsy using sesame oil as a carrier at levels of eighty percent or greater. The use of sesame oil in the present invention serves only as a flavoring agent for domestic animal compositions at a use level of two percent or less. Whittle in U.S. Pat. No. 6,730,330 G W Pharma describes the use of tetrahydrocannabinol (THC) and cannabidiol (CBD) in Pharmaceutical formulations that make use of a matrix comprising of at least one agent which is both a self-emulsifier and a cannabinoid solubilizer. In the present invention a self-emulsifier and a cannabinoid solubilizer is not employed. Additionally, Whittle in U.S. Pat. No. 6,730,330 G W Pharma makes broad and blanket claims for the use of numerous surface active agents that range in Hydrophilic/Lipophilic balance from 1 to about 30; they do not scientifically corroborate their functionally within the patent. The present invention is an improvement over Whittle, it specifically employs surface active agents limited to non-ionic surface active agents having a Hydrophilic Lipophilic balance greater than 9 and less than 25. Additionally, Whittle fails to describe the safety of the surface active agents used for oral consumption; his use of a broad spectrum of fatty acids, act as carriers. In the present invention, only FDA food grade surface active agents are used in combination with polyunsaturated acids, high in alpha linolenic acid, are employed.</p>
+<heading id="h-0005" level="1">SUMMARY OF THE INVENTION AND DETAILED DESCRIPTION</heading>
+<p id="p-0008" num="0007">The present invention is to provide an improved means to relieve various ailments such as joint pain and anxiety associated with domestic animals and humans by increasing degree of bioavailability through sublingually and/or buccal absorption of the composition, and more specifically, increasing degree of bioavailability through sublingually and/or buccal absorption of Cannabidiol henceforth referred to CBD; a component of <i>Cannabis sativa</i>. The short-comings of the currently marketed over-the-counter CBD products have been greatly decreased by the present invention described herein.</p>
+<p id="p-0009" num="0008">What has been discovered is that when CBD, is combined with an edible oil or a combination of edible oils having a saturated fat content of about less than about 15 percent by weight and having a polyunsaturated fat content greater than 44 percent by weight, allow for a more rapid sublingual and/or buccal absorption of CBD; a unique and novel composition results that allows for greater efficacy and efficiently of the CBD compound.</p>
+<p id="p-0010" num="0009">The attributes of CBD use for the relief of pain and anxiety is well documented in the literature. In a recent study conducted by the Kogan, et al, indicated that over eighty percent of veterinarians who participated in a use study, evaluating the use of CBD products, perceived that CBD was very helpful or somewhat helpful for conditions of acute pain, chronic pain and anxiety in dogs.</p>
+<p id="p-0011" num="0010">Another objective of the present invention is to provide an improved means to relieve various medical ailments such as depression, and nervous disorders such as tourette syndrome associated with humans by increasing the degree of bioavailability through sublingually and/or buccal absorption of the composition, and more specifically, increasing the degree of bioavailability through sublingually and/or buccal absorption of Delta-9-tetrahydrocannabinol also known as &#x394;-9-THC and it's isomers that are components of Cannabis sativa. The medicinal properties of these compounds are well documented as described in a book written by Michael Backes, and Andrew Weil, MD, entitled: &#x201c;Cannabis Pharmacy: The Practical Guide to Medical Marijuana.&#x201d; Currently there are no known medicinal products marketed that are used for sublingually and/or buccal absorption of Delta-9-tetrahydrocannabinol. The present invention described herein is advantageous over other forms of dosages containing Delta-9-tetrahydrocannabinol. What has been discovered is that when Delta-9-tetrahydrocannabinol, is combined with an edible oil or a combination of edible oils having a saturated fat content of about less than about 15 percent and a polyunsaturated fat content greater than 44 percent by weight, allow for a more rapid sublingual and/or buccal absorption of Delta-9-tetrahydrocannabinol a unique and novel composition results that allows for greater efficacy and efficiently of the compound.</p>
+<p id="p-0012" num="0011">Another objective of the present invention is the incorporation of high levels of alpha linolenic acid and gamma linolenic acid that are inherent to the polyunsaturated edible oils used in the present invention. Compositions of the present may contain up to fifty-five percent by weight of alpha linolenic acid. The nutritional attributes of alpha linolenic acid are well documented in the literature and are recognized by the U.S. Food and Drug Administration, hereinafter referred to as the FDA, as a nutritional ingredient. Compositions that meet the FDA requirements may be listed as dietary supplement products containing alpha linolenic acid as a &#x201c;nutritional&#x201d; ingredient. When alpha linolenic acid is use in the present invention, FDA approved claims such as: &#x201c;Excellent source of ALA.&#x201d; or &#x201c;High in ALA&#x201d; or &#x201c;Rich in ALA&#x201d; can be made.</p>
+<p id="p-0013" num="0012">Additional benefits of alpha linolenic acid, is further documented in a publication by The National Institute of Health dated Nov. 21, 2018, entitled: Omga-3 Fatty Acids, Fact Sheet for Health Professionals.</p>
+<p id="p-0014" num="0013">It has been discovered that in the present invention the combination of the attributes of alpha linolenic acid and the <i>Cannabis sativa </i>extract act synergistically, to alleviate pain, joint stiffness and anxiety.</p>
+<p id="p-0015" num="0014">It has also been discovered that when <i>Cannabis sativa </i>extract, is combined with edible oils comprising of low saturated fat levels, and more specifically, edible oils comprising of less than 15 percent by weight of saturated fats and greater than 44 percent by weight of polyunsaturated fats, are used in compositions of this invention, the oily residual feeling in the mouth is practically eliminated.</p>
+<p id="p-0016" num="0015">It has further been discovered that when <i>Cannabis sativa </i>extract, is combined with edible oils comprising of low saturated fat levels, and more specifically, edible oils comprising of less than 15 percent by weigh of saturated fats and greater than 44 percent by weight of polyunsaturated fats are used in compositions of this invention, eliminate any taste of rancidity.</p>
+<p id="p-0017" num="0016">It has also further been discovered that when <i>Cannabis sativa </i>extract, is combined with edible oils comprising of low saturated fat levels, and more specifically, edible oils comprising of less than 15 percent by weight of saturated fats and greater than 44 percent weight of polyunsaturated fats are used in compositions of this invention, eliminate precipitation of solids and the necessity to manually mix the composition.</p>
+<p id="p-0018" num="0017">It has still further been discovered that when <i>Cannabis sativa </i>extract, is combined with edible oils comprising of low saturated fat levels, and more specifically, edible oils comprising of less than 15 percent by weigh of saturated fats and greater than 44 percent by weight of polyunsaturated fats are used in compositions of this invention, allow the compositions to be stored in a cold environment thus extending the shelf-life of the compositions.</p>
+<p id="p-0019" num="0018">It has still further been discovered that when <i>Cannabis sativa </i>extract, is combined with edible oils comprising of low saturated fat levels, and more specifically, edible oils comprising of less than 15 percent by weight of saturated fats and greater than 44 percent by weight of polyunsaturated fats are used in compositions of this invention, in combination with Sesame Oil, makes the taste of these compositions highly desirable for canine use.</p>
+<p id="p-0020" num="0019">It has still further been discovered that when <i>Cannabis sativa </i>extract, is combined with edible oils comprising of low saturated fat levels, and more specifically, edible oils comprising of less than 15 percent by weight of saturated fats and greater than 44 percent by weight of polyunsaturated fats are used in compositions of this invention, in combination with Sesame Oil, makes the taste of these compositions highly desirable for feline use.</p>
+<p id="p-0021" num="0020">It has still further been discovered that when <i>Cannabis sativa </i>extract, is combined with edible oils comprising of low saturated fat levels, and more specifically, edible oils comprising of less than 15 percent by weight of saturated fats and greater than 44 percent by weight of polyunsaturated fats are used in compositions of this invention, in combination with Sesame Oil, makes the taste of these compositions highly desirable for equine use especially equines that need to be tamed and/or those bred for racing.</p>
+<p id="p-0022" num="0021">It has still further been discovered that when <i>Cannabis sativa </i>extract, is combined with edible oils comprising of low saturated fat levels, and more specifically, edible oils comprising of less than 15 percent by weight of saturated fats and greater than 44 percent by weight of polyunsaturated fats are used in compositions of this invention, make these compositions highly desirable for human use to decrease joint pain, increase awareness and improve libido.</p>
+<p id="p-0023" num="0022">It has still further been discovered that when <i>Cannabis sativa </i>extracts used in this invention comprise of compounds other then CBD, and are combined with the edible oils of this invention, they may serve as medical compositions to enhance the delivery of one or more of the following compounds: Cannabinol also known as CBN; Cannabigerol also known as CBG; Cannabidiolic acid also known as CBD-A; Cannabichromene also known as CBC; Delta-9-tetrahydrocannabinol also known as &#x394;-9-THC; Delta-9-tetrahydrocannabinol Acid also known as &#x394;-9-THC-A; Delta-8-tetrahydrocannabinol also known as &#x394;-8-THC; and Tetrahydrocannabivarin also known as THC-V;</p>
+<p id="p-0024" num="0023">It has still further been discovered that an additional benefit of the edible oils, comprising of high levels of polyunsaturated fats, used in compositions of the present invention allow for greater dissolution of the vitamins and antioxidants described herein.</p>
+<p id="p-0025" num="0024">The edible oils comprising of low saturated fat levels, and more specifically, edible oils comprising of less than 15 percent by weight of saturated fats and greater than 44 percent by weight of polyunsaturated fats comprises, but not limited to: Borage Seed Oil, Chia Seed Oil, Cranberry Seed Oil, Elderberry Seed Oil, Flax Seed Oil, Grape Seed Oil, Hemp Seed Oil, Maracuja Seed Oil, Perilla Seed Oil, Poppy Seed Oil, Safflower Seed Oil, Soya Bean Oil and Sunflower Seed Oil.</p>
+<p id="p-0026" num="0025">The surface active agents comprise, but not limited to: of one or more of FDA approved food grade non-ionic surfactants having a hydrophilic/lipophilic (HLB) balance greater than 9 and less 25. Surfactants such as: Tween 85 (Polyoxyethylene sorbitan trioleate), Tween 81 (Polyoxyethylene sorbitan monooleate), Tween 80 (Polyoxyethylene sorbitan monooleate), Tween 65 (Polyoxyethylene sorbitan tristearate), Tween 61 (Polyoxyethylene sorbitan monostearate), Tween 60 (Polyoxyethylene sorbitan monostearate), Tween 40 (Polyoxyethylene sorbitan monopalmitate), Tween 21 (Polyoxyethylene sorbitan monolaurate), Tween 20 (Polyoxyethylene) sorbitan monolaurate; non-ionic surfactants in the form of ethers such as: Brij 020 (Polyoxyethylene (20) oleyl ether), Brij L4 (Polyoxyethylene (4) lauryl ether), Brij S100 (Polyoxyethylene (100) stearyl ether); and non-ionic surfactants in the form Copolymers of polyethylene glycols and polypropylene glycols such as: Pluronic F68 and F127.</p>
+<p id="p-0027" num="0026">The vitamins comprise of but not limited to: one or a combination of the following; Vitamins such as: Vitamin A (retinol), Vitamin C as Ascorbyl Palmitate, Vitamin D<sub>3</sub>, Vitamin E including tocotrienol and tocopherol and its esters.</p>
+<p id="p-0028" num="0027">The antioxidants comprise of but not limited to: one or a combination of the following: Alpha Lipoic Acid, Carotenoid terpenoids such as: Alpha-carotene, Astaxanthin, Beta-carotene, Canthaxanthin, Cryptoxanthin, Lutein, Lycopene, and Zeaxanthin; Flavonoids such as: Flavones such as: Apigenin, Luteolin, and Tangeritin; Flavonols such as: Isorhamnetin, Kaempferol, Myricetin, and Quercetin; Flavanones such as: Eriodictyol, Hesperetin, and Naringenin; Flavanols and their polymers such as: Catechin, gallocatechin and their corresponding gallate esters, Epicatechin, epigallocatechin and their corresponding gallate esters, and Theaflavin and its gallate esters; Isoflavone phytoestrogens such as: Daidzein, Genistein, and Glycitein; Stilbenoids such as: Resveratrol, and Pterostilbene; Anthocyanins: Cyanidin, Delphinidin, Malvidin, Pelargonidin, Peonidin, and Petunidin; Phenolics such as: Curcumin, Flavonolignans, Xanthones, and Eugenol.</p>
+<p id="p-0029" num="0028">The flavoring agents comprise of sesame oil and other compatible flavoring agents known to those in the arts.</p>
+<p id="p-0030" num="0029">The preservatives comprise of one or a combination of the following: Butylated Hydroxy Toluene (BHT), and Butylated Hydroxy Anisole (BHA).</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">EXAMPLES</heading>
+<heading id="h-0007" level="1">Example 1</heading>
+<heading id="h-0008" level="1">Canine Product</heading>
+<p id="p-0031" num="0030"></p>
+<p id="p-0032" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="105pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Supplier</entry>
+<entry>Ingredients</entry>
+<entry>% W/W</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="105pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>PUREVINE PRODUCTS</entry>
+<entry>CHIA SEED OIL</entry>
+<entry>48.30</entry>
+</row>
+<row>
+<entry>PUREVINE PRODUCTS</entry>
+<entry>FLAX SEED OIL</entry>
+<entry>20.00</entry>
+</row>
+<row>
+<entry>PUREVINE PRODUCTS</entry>
+<entry>BORAGE SEED OIL</entry>
+<entry>15.00</entry>
+</row>
+<row>
+<entry>GREEN BEAUTY</entry>
+<entry>HEMP SEED OIL</entry>
+<entry>10.00</entry>
+</row>
+<row>
+<entry>CRAN NATURELLE</entry>
+<entry>CRANBERRY SEED OIL</entry>
+<entry>4.00</entry>
+</row>
+<row>
+<entry>PUREVINE PRODUCTS</entry>
+<entry>SESAME SEED OIL</entry>
+<entry>1.00</entry>
+</row>
+<row>
+<entry>GLOBAL CANNABINOIDS</entry>
+<entry>Cannabidiol (CBD)</entry>
+<entry>1.00</entry>
+</row>
+<row>
+<entry>ORYZA CHEMICAL</entry>
+<entry>ALPHA LIPOIC ACID</entry>
+<entry>0.50</entry>
+</row>
+<row>
+<entry>BASF</entry>
+<entry>Tocopherol (Vitamin E)</entry>
+<entry>0.10</entry>
+</row>
+<row>
+<entry>BUTYLHYDROXYANISOLE</entry>
+<entry>EASTMAN</entry>
+<entry>0.10</entry>
+</row>
+<row>
+<entry>TOTAL</entry>
+<entry/>
+<entry>100.00</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0009" level="1">Example 2</heading>
+<heading id="h-0010" level="1">Feline Product</heading>
+<p id="p-0033" num="0031"></p>
+<p id="p-0034" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="105pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Supplier</entry>
+<entry>Ingredients</entry>
+<entry>% W/W</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="105pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>PUREVINE PRODUCTS</entry>
+<entry>CHIA SEED OIL</entry>
+<entry>49.30</entry>
+</row>
+<row>
+<entry>PUREVINE PRODUCTS</entry>
+<entry>FLAX SEED OIL</entry>
+<entry>20.00</entry>
+</row>
+<row>
+<entry>PUREVINE PRODUCTS</entry>
+<entry>BORAGE SEED OIL</entry>
+<entry>15.00</entry>
+</row>
+<row>
+<entry>GREEN BEAUTY</entry>
+<entry>HEMP SEED OIL</entry>
+<entry>10.00</entry>
+</row>
+<row>
+<entry>CRAN NATURELLE</entry>
+<entry>CRANBERRY SEED OIL</entry>
+<entry>4.00</entry>
+</row>
+<row>
+<entry>PUREVINE PRODUCTS</entry>
+<entry>SESAME SEED OIL</entry>
+<entry>1.00</entry>
+</row>
+<row>
+<entry>GLOBAL CANNABINOIDS</entry>
+<entry>Cannabidiol (CBD)</entry>
+<entry>0.50</entry>
+</row>
+<row>
+<entry>BASF</entry>
+<entry>Tocopherol (Vitamin E)</entry>
+<entry>0.10</entry>
+</row>
+<row>
+<entry>BUTYLHYDROXYTOLUENE</entry>
+<entry>EASTMAN</entry>
+<entry>0.10</entry>
+</row>
+<row>
+<entry>TOTAL</entry>
+<entry/>
+<entry>100.00</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0011" level="1">Example 3</heading>
+<heading id="h-0012" level="1">Equine Product</heading>
+<p id="p-0035" num="0032"></p>
+<p id="p-0036" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="98pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Supplier</entry>
+<entry>Ingredients</entry>
+<entry>% W/W</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="98pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<colspec colname="3" colwidth="35pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>PUREVINE PRODUCTS</entry>
+<entry>CHIA SEED OIL</entry>
+<entry>39.00</entry>
+</row>
+<row>
+<entry>PUREVINE PRODUCTS</entry>
+<entry>FLAX SEED OIL</entry>
+<entry>20.00</entry>
+</row>
+<row>
+<entry>PUREVINE PRODUCTS</entry>
+<entry>BORAGE SEED OIL</entry>
+<entry>15.00</entry>
+</row>
+<row>
+<entry>GREEN BEAUTY</entry>
+<entry>HEMP SEED OIL</entry>
+<entry>10.00</entry>
+</row>
+<row>
+<entry>CRAN NATURELLE</entry>
+<entry>CRANBERRY SEED OIL</entry>
+<entry>4.00</entry>
+</row>
+<row>
+<entry>PUREVINE PRODUCTS</entry>
+<entry>SESAME SEED OIL</entry>
+<entry>1.00</entry>
+</row>
+<row>
+<entry>GLOBAL CANNABINOIDS</entry>
+<entry>Cannabidiol (CBD)</entry>
+<entry>10.00</entry>
+</row>
+<row>
+<entry>BASF</entry>
+<entry>Tocopherol (Vitamin E)</entry>
+<entry>1.00</entry>
+</row>
+<row>
+<entry>TOTAL</entry>
+<entry/>
+<entry>100.00</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0013" level="1">Example 4</heading>
+<heading id="h-0014" level="1">Human Product</heading>
+<p id="p-0037" num="0033"></p>
+<p id="p-0038" num="0000">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="98pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Supplier</entry>
+<entry>Ingredients</entry>
+<entry>% W/W</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="98pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<colspec colname="3" colwidth="35pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>PUREVINE PRODUCTS</entry>
+<entry>GRAPE SEED OIL</entry>
+<entry>50.40</entry>
+</row>
+<row>
+<entry>PUREVINE PRODUCTS</entry>
+<entry>SAFFLOWER SEED OIL</entry>
+<entry>20.00</entry>
+</row>
+<row>
+<entry>CRODA, INDUSTRIES</entry>
+<entry>TWEEN 20</entry>
+<entry>15.00</entry>
+</row>
+<row>
+<entry>CRAN NATURELLE</entry>
+<entry>CRANBERRY SEED OIL</entry>
+<entry>5.00</entry>
+</row>
+<row>
+<entry>ELDER PURE</entry>
+<entry>ELDERBERRY SEED OIL</entry>
+<entry>5.00</entry>
+</row>
+<row>
+<entry>GLOBAL CANNABINOIDS</entry>
+<entry>Cannabidiol (CBD)</entry>
+<entry>4.00</entry>
+</row>
+<row>
+<entry>PARCHEM</entry>
+<entry>EUGENOL</entry>
+<entry>0.50</entry>
+</row>
+<row>
+<entry>BASF</entry>
+<entry>Tocopherol (Vitamin E)</entry>
+<entry>0.10</entry>
+</row>
+<row>
+<entry>TOTAL</entry>
+<entry/>
+<entry>100.00</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0015" level="1">Example 5</heading>
+<heading id="h-0016" level="1">Medicinal Product</heading>
+<p id="p-0039" num="0034"></p>
+<p id="p-0040" num="0000">
+<tables id="TABLE-US-00005" num="00005">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="91pt" align="left"/>
+<colspec colname="2" colwidth="91pt" align="left"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Supplier</entry>
+<entry>Ingredients</entry>
+<entry>% W/W</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="91pt" align="left"/>
+<colspec colname="2" colwidth="91pt" align="left"/>
+<colspec colname="3" colwidth="35pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>PUREVINE PRODUCTS</entry>
+<entry>GRAPE SEED OIL</entry>
+<entry>50.00</entry>
+</row>
+<row>
+<entry>PUREVINE PRODUCTS</entry>
+<entry>SAFFLOWER SEED OIL</entry>
+<entry>20.00</entry>
+</row>
+<row>
+<entry>CRODA, INDUSTRIES</entry>
+<entry>TWEEN 20</entry>
+<entry>15.00</entry>
+</row>
+<row>
+<entry>CRAN NATURELLE</entry>
+<entry>CRANBERRY SEED OIL</entry>
+<entry>5.00</entry>
+</row>
+<row>
+<entry>ELDER PURE</entry>
+<entry>ELDERBERRY SEED OIL</entry>
+<entry>5.00</entry>
+</row>
+<row>
+<entry>N/A*</entry>
+<entry>Tetrahydrocannabinol (THC)</entry>
+<entry>4.00</entry>
+</row>
+<row>
+<entry>BEST FLAVORS</entry>
+<entry>SPEARMINT FLAVOR</entry>
+<entry>1.00</entry>
+</row>
+<row>
+<entry>BASF</entry>
+<entry>Tocopherol (Vitamin E)</entry>
+<entry>0.10</entry>
+</row>
+<row>
+<entry>TOTAL</entry>
+<entry/>
+<entry>100.00</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00001">*Obtained by extraction from plants containing <i>Cannabis sativa</i>.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0041" num="0035">Procedure:
+<ul id="ul0001" list-style="none">
+<li id="ul0001-0001" num="0036">A) Charge all edible oils to a sanitized make vessel;</li>
+<li id="ul0001-0002" num="0037">B) Charge the Cannabis extract, warm gently to about 40 degrees C. and mix until dissolution;</li>
+<li id="ul0001-0003" num="0038">C) Charge the surface active agent, antioxidant, and preservative where each ingredient is called for, mix until dissolution;</li>
+<li id="ul0001-0004" num="0039">D) Cool to 25 degrees C.;</li>
+<li id="ul0001-0005" num="0040">E) Charge the Vitamin E, mix until dissolution;</li>
+<li id="ul0001-0006" num="0041">F) Charge the FLAVOR when called for, mix until dissolution.</li>
+<li id="ul0001-0007" num="0042">G) Filter the composition through a 5 micron filter.</li>
+</ul>
+</p>
+<heading id="h-0017" level="1">REFERENCES CITED</heading>
+<heading id="h-0018" level="1">U.S PATENT DOCUMENTS</heading>
+<p id="p-0042" num="0043"></p>
+<p id="p-0043" num="0000">
+<tables id="TABLE-US-00006" num="00006">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="63pt" align="left"/>
+<colspec colname="2" colwidth="77pt" align="left"/>
+<colspec colname="3" colwidth="63pt" align="left"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>6,056,971</entry>
+<entry>May 2000</entry>
+<entry>Goldman</entry>
+</row>
+<row>
+<entry/>
+<entry>6,184,255</entry>
+<entry>February 2001</entry>
+<entry>Mae, et al</entry>
+</row>
+<row>
+<entry/>
+<entry>6,300,377</entry>
+<entry>October 2001</entry>
+<entry>Chopra</entry>
+</row>
+<row>
+<entry/>
+<entry>6,730,330</entry>
+<entry>May 2004</entry>
+<entry>Whittle, et al</entry>
+</row>
+<row>
+<entry/>
+<entry>6,740,338</entry>
+<entry>May 2004</entry>
+<entry>Chopra</entry>
+</row>
+<row>
+<entry/>
+<entry>8,293,786</entry>
+<entry>October 2012</entry>
+<entry>Stinchcomb</entry>
+</row>
+<row>
+<entry/>
+<entry>9,095,554</entry>
+<entry>May 2015</entry>
+<entry>Lewis</entry>
+</row>
+<row>
+<entry/>
+<entry>9,265,724</entry>
+<entry>February 2016</entry>
+<entry>Murty, et al</entry>
+</row>
+<row>
+<entry/>
+<entry>9,949,936</entry>
+<entry>April 2018</entry>
+<entry>Guy, et al</entry>
+</row>
+<row>
+<entry/>
+<entry>10,137,095</entry>
+<entry>November 2018</entry>
+<entry>Guy, et al</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0019" level="1">OTHER PUBLICATIONS</heading>
+<p id="p-0044" num="0000">
+<ul id="ul0002" list-style="none">
+<li id="ul0002-0001" num="0044">Lancz et al., INTERACTION OF DELTA-9-TETRAHYDROCANNABINOL WIm HERPESVIRUSES AND CULTURAL CONDmONS ASSOCIATED WIm DRUG-INDUCED ANTI-CELLULAR EFFECTS, Departments of Medical Microbiology and Immunology, Anatomy, and Pharmacology and Therapeutics&#x201d;, University of South Florida College of Medicine, Tampa, Florida, 33612.</li>
+<li id="ul0002-0002" num="0045">Zurier, Prospects for cannabinoids as anti-inflammatory agents, Department of Medicine, Division of Rheumatology, University of Massachusetts Medical School, Worcester, USA. Robber</li>
+<li id="ul0002-0003" num="0046">Kagan, et al., CONSUMERS' PERCEPTIONS OF HEMP PRODUCTS FOR ANIMALS, Department of Clinical Sciences, the College of Veterinary Medicine and Biomedical Sciences, Colorado State University, Fort Collins, Colo. 80526.</li>
+<li id="ul0002-0004" num="0047">Mbvundula, et al., Cannabinoids in pain and inflammation, Inflammopharmacology 2004;12 (2):99-114.</li>
+<li id="ul0002-0005" num="0048">Inke Paetau-Robinson, PhD, et al Long-Term Feeding of DL-a Lipoic Acid to Dogs Is Safe, Intern J Appl Res Vet Med. Vol. 11, No. 2, 2013</li>
+<li id="ul0002-0006" num="0049">Kogan, et al., US Veterinarians' Knowledge, Experience, and Perception Regarding the Use of Cannabidiol for Canine Medical Conditions, Frontiers of Veterinary Science, January 2019&#x2014;Volume 5&#x2014;Article 338.</li>
+<li id="ul0002-0007" num="0050">Nutrient Content Claims; Alpha-Linolenic Acid, Eicosapentaenoic Acid, and Docosahexaenoic Acid Omega-3 Fatty Acids; Guidance for Industry Small Entity Compliance Guide, Office of Nutrition and Food Labeling Nutrition Programs Staff, HFS-830 Center for Food Safety and Applied Nutrition Food and Drug Administration 5001 Campus Drive College Park, MD 20740.</li>
+<li id="ul0002-0008" num="0051">Kwang-GeunLee, et al, Antioxidant property of aroma extract isolated from clove buds [<i>Syzygium aromaticum </i>(L.) Men. et Perry]&#x2014;Food Chemistry, Volume 74, Issue 4, Sep. 2001, Pages 443-447</li>
+<li id="ul0002-0009" num="0052">Omga-3 Fatty Acids, Fact Sheet for Health Professionals, The National Institute of Health, Nov. 21, 2018</li>
+<li id="ul0002-0010" num="0053">Michael Backes, Andrew Weil, MD, Cannabis Pharmacy: The Practical Guide to Medical Marijuana.</li>
+</ul>
+</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What I claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A dietary supplement composition comprising essentially of:
+<claim-text>(a) about 0.1 percent to 50.0 percent by weight of a <i>Cannabis sativa </i>extract;</claim-text>
+<claim-text>(b) 10 percent to 99.9 percent by weight of edible oil comprising of less than 15 percent by weight of saturated fats and greater than 44 percent by weight of polyunsaturated fats;</claim-text>
+<claim-text>(c) 0 to 50 percent by weight of a non-ionic surface active agent;</claim-text>
+<claim-text>(d) 0 to 10 percent by weight of a vitamin;</claim-text>
+<claim-text>(e) 0 to 5 percent by weight of an antioxidant;</claim-text>
+<claim-text>(f) 0 to 5 percent by weight of a flavoring agent; and</claim-text>
+<claim-text>(g) 0 to 2 percent by weight of a preservative.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein (a) is selected from <i>Cannabis sativa </i>extracts comprised of one or a combination of cannabinoid compounds.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The cannabinoid compounds of <i>Cannabis sativa </i>extracts of <claim-ref idref="CLM-00002">claim 2</claim-ref>, comprise of: Cannabidiol also know as CBD; Cannabinol also known as CBN;
+<claim-text>Cannabigerol also known as CBG; Cannabidiolic acid also known as CBD-A;</claim-text>
+<claim-text>Cannabichromene also known as CBC; Delta-9-tetrahydrocannabinol also known as &#x394;-9-THC; Delta-9-tetrahydrocannabinol Acid also known as &#x394;-9-THC-A;</claim-text>
+<claim-text>Delta-8-tetrahydrocannabinol also known as &#x394;-8-THC; and</claim-text>
+<claim-text>Tetrahydrocannabivarin also known as THC-V.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The preferred cannabinoid compound of <claim-ref idref="CLM-00003">claim 3</claim-ref>, is Cannabidiol, also know as CBD.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The preferred level of use of the Cannabidiol also know as CBD of <claim-ref idref="CLM-00004">claim 4</claim-ref>, is from 0.5 percent to about 15 percent.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The most preferred level of use of cannabidiol of <claim-ref idref="CLM-00004">claim 4</claim-ref>, is from 1.5 percent to about 7.0 percent.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein (b) is selected from naturally derived, edible oils that comprise of: Borage Seed Oil, Chia Seed Oil, Cranberry Seed Oil, Elderberry Seed Oil, Flax Seed Oil, Grape Seed Oil, Hemp Seed Oil, Maracuja Seed Oil, Perilla Seed Oil, Poppy Seed Oil, Safflower Seed Oil, Soya Bean Oil and Sunflower Seed Oil.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The preferred Edible Oils of <claim-ref idref="CLM-00007">claim 7</claim-ref>, are: Borage Seed Oil, Chia Seed Oil, Cranberry Seed Oil, Elderberry Seed Oil, Grape Seed Oil, Hemp Seed Oil, Safflower Seed Oil, and Sunflower Seed Oil.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein (c) is selected from surface active agents that comprise of, but not limited to, of one or more of FDA approved food grade non-ionic surface active agents having a hydrophilic/lipophilic balance (HLB) greater than 9 and less than 25.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The selected non-ionic surface active agents of <claim-ref idref="CLM-00009">claim 9</claim-ref>, are further described as: Tween 85 (Polyoxyethylene sorbitan trioleate), Tween 81 (Polyoxyethylene sorbitan monooleate), Tween 80 (Polyoxyethylene sorbitan monooleate), Tween 65 (Polyoxyethylene sorbitan tristearate), Tween 61 (Polyoxyethylene sorbitan monostearate), Tween 60 (Polyoxyethylene sorbitan monostearate),
+<claim-text>Tween 40 (Polyoxyethylene sorbitan monopalmitate), Tween 21 (Polyoxyethylene sorbitan monolaurate), Tween 20 (Polyoxyethylene) sorbitan monolaurate; non-ionic surfactants in the form of ethers such as: Brij O20 (Polyoxyethylene (20) oleyl ether), Brij L4 (Polyoxyethylene (4) lauryl ether), Brij S100 (Polyoxyethylene (100) stearyl ether); and non-ionic surfactants in the form Copolymers of polyethylene glycols and polypropylene glycols such as:</claim-text>
+<claim-text>Pluronic F68 and F127.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The preferred non-ionic surfactant active agents of <claim-ref idref="CLM-00010">claim 10</claim-ref>, are: Tween 20, Tween 21, Tween 80 and Tween 81 and are further described as: Polyoxyethylene sorbitan monolaurates.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein (d) is selected from vitamins that comprise of, but not limited to, one or more of: Vitamin A (retinol), Vitamin C as Ascorbyl Palmitate, Vitamin D<sub>3</sub>, Vitamin E including tocotrienol and tocopherol and its esters.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The antioxidants comprise of but not limited to: one or a combination of the following: Alpha Lipoic Acid, Carotenoid terpenoids such as: Alpha-carotene Astaxanthin, Beta-carotene, Canthaxanthin, Cryptoxanthin, Lutein, Lycopene, and Zeaxanthin; Flavonoids such as: Flavones such as: Apigenin, Luteolin, and Tangeritin; Flavonols such as: Isorhamnetin, Kaempferol, Myricetin, and Quercetin; Flavanones such as: Eriodictyol, Hesperetin, and Naringenin; Flavanols and their polymers such as: Catechin, gallocatechin and their corresponding gallate esters, Epicatechin, epigallocatechin and their corresponding gallate esters, and Theaflavin and its gallate esters; Isoflavone phytoestrogens such as: Daidzein, Genistein, and Glycitein; Stilbenoids such as: Resveratrol, and Pterostilbene, Anthocyanins: Cyanidin, Delphinidin, Malvidin, Pelargonidin, Peonidin, and Petunidin; Phenolics such as: Curcumin, Flavonolignans, Xanthones, and Eugenol.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein (f) is Sesame Seed Oil for flavoring domestic animal compositions and other compatible flavoring agents known to those in the arts.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein (g) is selected from preservatives that comprise of one or a combination of the following: Butylated Hydroxy Toluene (BHT), and Butylated Hydroxy Anisole (BHA).</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. A method of increasing the bioavailability of <i>Cannabis sativa </i>extracts from an orally delivered composition where said method is in a liquid dosage form to be incorporated into a dietary supplement or pharmaceutical dosage comprising:
+<claim-text>(a) about 0.1 percent to 50.0 percent by weight of a <i>Cannabis sativa </i>extract;</claim-text>
+<claim-text>(b) 10 percent to 99.9 percent by weight of edible oil comprising of less than 15 percent of saturated fats and greater than 44 percent of polyunsaturated fats;</claim-text>
+<claim-text>(c) 0 to 50 percent by weight of a non-ionic surface active agent;</claim-text>
+<claim-text>(d) 0 to 10 percent by weight of a vitamin;</claim-text>
+<claim-text>(e) 0 to 5 percent by weight of an antioxidant;</claim-text>
+<claim-text>(f) 0 to 5 percent by weight of a flavoring agent; and</claim-text>
+<claim-text>(g) 0 to 2 percent by weight of a preservative.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>
