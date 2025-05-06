@@ -20,8 +20,10 @@ def create_client():
 
 client = create_client()
 
+
+
 def init_chat():
-    st.session_state.agent = client.beta.assistants.create(
+    st.session_state.agent.id = client.beta.assistants.create(
         model="gpt-4o-mini",
         name="streamlit-agent-4o-mini",
         instructions="""
