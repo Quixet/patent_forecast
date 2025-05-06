@@ -25,7 +25,7 @@ def init_chat():
         model="gpt-4o-mini",
         name="streamlit-agent-4o-mini",
         instructions="""
-You are a patent classification assistant. You will read a patent description and title and assign it to one of the following class class based on the context and keywords of the title and description:
+You are a patent classification assistant. You will read a patent description and title and assign it to one of the following class based on the context and keywords of the title and description:
 
 1. Disposal
 2. Compliance technology
