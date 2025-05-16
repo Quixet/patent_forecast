@@ -12,12 +12,13 @@ load_dotenv()
 # Replace with your actual endpoint and deployment name
 ENDPOINT_URL = os.getenv("PROMPT_FLOW_ENDPOINT_URL")  # e.g. "https://<your-endpoint>.eastus.inference.ml.azure.com/score"
 USE_API_KEY = True  # Set to False if you're using RBAC authentication
+API_KEY = os.getenv("PROMPT_FLOW_API_KEY")
 
 # Prepare your input payload (depends on your prompt flow schema)
 payload = {
-    "input_data": {
-        "input_string": "give me few publications related to CRAFT USING AN INERTIAL MASS REDUCTION DEVICE"
-    }
+    "group_input": "group3",
+    "chat_input": "who is the inventor of patent number US 10 , 144 , 532 B2?",
+    "chat_history":[]
 }
 
 # Authenticate using API Key or Azure AD
@@ -26,7 +27,7 @@ headers = {
 }
 
 if USE_API_KEY:
-    headers["Authorization"] = f"Bearer {os.getenv('PROMPT_FLOW_API_KEY')}"  # From Azure ML online endpoint
+    headers["Authorization"] = f"Bearer {API_KEY}"  # From Azure ML online endpoint
 else:
     # Use Azure AD token with DefaultAzureCredential
     credential = DefaultAzureCredential()
