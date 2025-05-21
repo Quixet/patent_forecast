@@ -4,14 +4,17 @@ from azure.search.documents import SearchClient
 from azure.core.credentials import AzureKeyCredential
 import openai
 from openai import AzureOpenAI
+from dotenv import load_dotenv
 
-AZURE_SEARCH_ENDPOINT = "https://search-patent-new.search.windows.net"
-AZURE_SEARCH_KEY = "trtVayDoLYwrnrylYnzf2pakNXlAAGGom7ryX3RWP2AzSeDftI42"
-INDEX_NAME = "vector-1747057608959"
+load_dotenv()
 
-AZURE_OPENAI_API_KEY = "9NamHSt1nV2Pnt9eUJiElf6PLQ5VEslqvhmapc3nTqUIPR0jeUsuJQQJ99BEACYeBjFXJ3w3AAABACOGO2Xc"
-AZURE_OPENAI_ENDPOINT = "https://oai-patent-test.openai.azure.com/"
-OPENAI_DEPLOYMENT = "text-embedding-ada-002"
+AZURE_SEARCH_ENDPOINT = os.getenv("AZURE_SEARCH_ENDPOINT")
+AZURE_SEARCH_KEY = os.getenv("AZURE_SEARCH_KEY")
+INDEX_NAME = os.getenv("INDEX_NAME")
+
+AZURE_OPENAI_API_KEY = os.getenv("AZURE_OPENAI_API_KEY")
+AZURE_OPENAI_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT")
+OPENAI_DEPLOYMENT = os.getenv("OPENAI_DEPLOYMENT")
 
 TXT_FOLDER = "txt_files"
 
