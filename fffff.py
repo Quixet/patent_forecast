@@ -43,7 +43,7 @@ except Exception as e:
     exit()
 
 # Step 5: Send a Message to the Thread
-user_message = "give me few publications related to CRAFT USING AN INERTIAL MASS REDUCTION DEVICE"
+user_message = "what do you know CRAFT USING AN INERTIAL MASS REDUCTION DEVICE ?"
 
 try:
     message = project_client.agents.create_message(

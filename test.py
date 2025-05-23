@@ -8,6 +8,8 @@ from openai import AzureOpenAI
 
 load_dotenv()
 
+
+
 @st.cache_resource
 def create_client():
     project_client = AIProjectClient.from_connection_string(
@@ -23,7 +25,7 @@ client = create_client()
 
 
 def init_chat():
-    st.session_state.agent.id = client.beta.assistants.create(
+    st.session_state.agent = client.beta.assistants.create(
         model="gpt-4o-mini",
         name="streamlit-agent-4o-mini",
         instructions="""
